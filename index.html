@@ -79,7 +79,20 @@
 </div>
 <!-- =================== end WALLETS =================== -->
 
+
+
 </div><!-- /.categories -->
+
+<button id="themeToggle">Dark mode</button>
+
+<script>
+  const btn = document.getElementById('themeToggle');
+  btn.addEventListener('click', () => {
+    document.body.classList.toggle('dark');
+    const dark = document.body.classList.contains('dark');
+    btn.textContent = dark ? 'Light mode' : 'Dark mode';
+  });
+</script>
 
 </body>
 </html>

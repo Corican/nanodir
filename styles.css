@@ -1,0 +1,58 @@
+/* ----------  COLOUR VARIABLES  ---------- */
+:root {
+  --bg: #ffffff;      /* default: light mode */
+  --text: #000000;
+  --link: #0000ff;    /* blue links in light mode */
+  --outline: #000000;
+}
+
+body.dark {
+  --bg: #000000;      /* dark mode */
+  --text: #ffffff;
+  --link: #00ffff;    /* cyan links */
+  --outline: #ffffff;
+}
+
+/* ----------  GLOBAL RESET  ---------- */
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: monospace;
+  margin: 0;
+}
+
+h1, h2, h3 { margin: 0 0 10px; }
+a { color: var(--link); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+/* ----------  THEME TOGGLE BUTTON  ---------- */
+#themeToggle {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  padding: 6px 12px;
+  border: 1px solid var(--outline);
+  background: var(--bg);
+  color: var(--text);
+  cursor: pointer;
+  font-size: 13px;
+}
+
+/* ----------  LAYOUT  ---------- */
+.categories {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 60px 20px 20px;   /* top padding leaves room for button */
+}
+
+.category {
+  border: 2px solid var(--outline);
+  padding: 20px;
+  flex: 1 1 45%;   /* two columns on desktop */
+}
+
+/* mobile – stack vertically */
+@media (max-width: 700px) {
+  .category { flex: 1 1 100%; }
+}
