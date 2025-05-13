@@ -1,15 +1,15 @@
 /* ----------  COLOUR VARIABLES  ---------- */
 :root {
   --bg: #ffffff;      /* default: light mode */
-  --text: #000000;
+  --text: #0F0F0F;
   --link: #0000ff;    /* blue links in light mode */
   --outline: #000000;
 }
 
 body.dark {
-  --bg: #000000;      /* dark mode */
+  --bg: #0F0F0F;      /* dark mode */
   --text: #ffffff;
-  --link: #00ffff;    /* cyan links */
+  --link: #00E1FF;    /* cyan links */
   --outline: #ffffff;
 }
 
@@ -24,6 +24,7 @@ body {
 h1, h2, h3 { margin: 0 0 10px; }
 a { color: var(--link); text-decoration: none; }
 a:hover { text-decoration: underline; }
+
 
 /* ----------  THEME TOGGLE BUTTON  ---------- */
 #themeToggle {
@@ -46,10 +47,13 @@ a:hover { text-decoration: underline; }
   padding: 60px 20px 20px;   /* top padding leaves room for button */
 }
 
-.category {
+
+.category{
   border: 2px solid var(--outline);
+  border-radius: 12px;
   padding: 20px;
-  flex: 1 1 45%;   /* two columns on desktop */
+  box-shadow: 0 2px 6px rgba(0,0,0,.08);
+  flex: 1 1 45%;
 }
 
 /* mobile – stack vertically */
