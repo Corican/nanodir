@@ -1,32 +1,69 @@
-/* ----------  COLOUR VARIABLES  ---------- */
+/* ================== COLOR THEMES ================== */
 :root {
-  --bg: #ffffff;      /* default: light mode */
+  --bg: #ffffff;
   --text: #0F0F0F;
-  --link: #0000ff;    /* blue links in light mode */
+  --link: #0000ff;
   --outline: #000000;
 }
 
 body.dark {
-  --bg: #0F0F0F;      /* dark mode */
+  --bg: #0F0F0F;
   --text: #ffffff;
-  --link: #00E1FF;    /* cyan links */
+  --link: #00E1FF;
   --outline: #ffffff;
 }
 
-/* ----------  GLOBAL RESET  ---------- */
+
+/* ================== BASE RESET ================== */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
 body {
   background: var(--bg);
   color: var(--text);
   font-family: monospace;
   margin: 0;
+  padding: 0 10px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
-h1, h2, h3 { margin: 0 0 10px; }
-a { color: var(--link); text-decoration: none; }
-a:hover { text-decoration: underline; }
+h1, h2, h3 {
+  margin: 0 0 10px;
+}
+
+a {
+  color: var(--link);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
 
 
-/* ----------  THEME TOGGLE BUTTON  ---------- */
+/* ================== TYPOGRAPHY ================== */
+h1 {
+  text-align: center;
+  margin-top: 30px;
+  font-size: 2rem;
+}
+
+.intro {
+  max-width: 800px;
+  margin: 1rem auto 2rem;
+  font-size: 1rem;
+  text-align: center;
+  line-height: 1.5;
+}
+
+
+/* ================== COMPONENTS ================== */
+
+/* Theme toggle */
 #themeToggle {
   position: fixed;
   top: 10px;
@@ -39,25 +76,98 @@ a:hover { text-decoration: underline; }
   font-size: 13px;
 }
 
-/* ----------  LAYOUT  ---------- */
+/* Jump to menu */
+.dropdown-toc {
+  margin: 1rem auto 2rem;
+  font-size: 0.9rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.dropdown-toc label {
+  margin-right: 0.5rem;
+}
+
+.dropdown-toc select {
+  padding: 0.3rem 0.5rem;
+  font-size: 0.9rem;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  background: #fff;
+  color: #333;
+}
+
+body.dark .dropdown-toc select {
+  background: #222;
+  color: #eee;
+  border-color: #555;
+}
+
+/* Back to top button */
+#backToTop {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  padding: 0.6rem 1rem;
+  font-size: 0.9rem;
+  border: none;
+  border-radius: 4px;
+  background-color: #eee;
+  color: #333;
+  cursor: pointer;
+  display: none;
+  z-index: 9999;
+  opacity: 0.9;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+  pointer-events: auto;
+}
+
+#backToTop:hover {
+  opacity: 1;
+}
+
+body.dark #backToTop {
+  background-color: #333;
+  color: #eee;
+}
+
+
+/* ================== LAYOUT ================== */
+
+/* Section container */
 .categories {
   display: flex;
   flex-wrap: wrap;
   gap: 20px;
-  padding: 60px 20px 20px;   /* top padding leaves room for button */
+  padding: 60px 20px 20px;
 }
 
-
-.category{
+.category {
   border: 2px solid var(--outline);
   border-radius: 12px;
   padding: 20px;
-  box-shadow: 0 2px 6px rgba(0,0,0,.08);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
   flex: 1 1 45%;
 }
 
-/* mobile – stack vertically */
-@media (max-width: 700px) {
-  .category { flex: 1 1 100%; }
+/* Footer */
+footer {
+  text-align: center;
+  margin: 50px 0 20px;
+  font-size: 0.9rem;
+  color: var(--text);
 }
 
+footer a {
+  color: var(--link);
+}
+
+
+/* ================== MEDIA QUERIES ================== */
+@media (max-width: 700px) {
+  .category {
+    flex: 1 1 100%;
+  }
+}
