@@ -194,16 +194,59 @@ def render_llms():
     out.append('Last updated: %s' % data.get('updated', ''))
     out.append('')
 
+    def line(e):
+        mark = ''
+        tags = e.get('tags') or []
+        if 'agent' in tags:
+            mark = ' [agent]'
+        elif 'agent-infra' in tags:
+            mark = ' [agent-infra]'
+        desc = e.get('description')
+        if desc:
+            return '- [%s](%s): %s%s' % (e['name'], e['url'], desc, mark)
+        return '- [%s](%s)%s' % (e['name'], e['url'], mark)
+
+    # agent-focused summary, deduplicated by URL, in directory order
+    seen = set()
+    agent, infra = [], []
+    for e in entries:
+        if e['url'] in seen:
+            continue
+        tags = e.get('tags') or []
+        if 'agent' in tags:
+            agent.append(e); seen.add(e['url'])
+        elif 'agent-infra' in tags:
+            infra.append(e); seen.add(e['url'])
+
+    if agent or infra:
+        out.append('## For AI agents')
+        out.append('')
+        out.append('Entries below are marked [agent] where the project is built for '
+                   'autonomous agents, and [agent-infra] where it provides '
+                   'infrastructure an agent needs (keys and signing, work '
+                   'generation, node access, payment APIs, monitoring). The same '
+                   'markers appear throughout this file, and the tags are in '
+                   'directory.json.')
+        out.append('')
+        if agent:
+            out.append('### Built for agents')
+            out.append('')
+            for e in agent:
+                out.append(line(e))
+            out.append('')
+        if infra:
+            out.append('### Infrastructure for agents')
+            out.append('')
+            for e in infra:
+                out.append(line(e))
+            out.append('')
+
     def section(sec, depth):
         hashes = '#' * min(depth + 1, 6)
         out.append('%s %s' % (hashes, sec['title']))
         out.append('')
         for e in grouped.get(sec['id'], []):
-            desc = e.get('description')
-            if desc:
-                out.append('- [%s](%s): %s' % (e['name'], e['url'], desc))
-            else:
-                out.append('- [%s](%s)' % (e['name'], e['url']))
+            out.append(line(e))
         if grouped.get(sec['id']):
             out.append('')
         for k in sec.get('children', []):

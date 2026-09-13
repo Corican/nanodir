@@ -5,6 +5,49 @@
 Machine-readable version of this directory: https://www.nanodirectory.info/directory.json
 Last updated: 2026-09-14
 
+## For AI agents
+
+Entries below are marked [agent] where the project is built for autonomous agents, and [agent-infra] where it provides infrastructure an agent needs (keys and signing, work generation, node access, payment APIs, monitoring). The same markers appear throughout this file, and the tags are in directory.json.
+
+### Built for agents
+
+- [NanoGPT](https://nano-gpt.com/): Pay Per Prompt for a wide variety of AI models [agent]
+- [Nano AI](https://xnoapp.onrender.com/): Access advanced reasoning engines via Nano micro‑transactions, no subscriptions [agent]
+- [OpenWallet](https://openwallet.sh/): Open standard that unites AI agents with Nano wallets [agent]
+- [NanoGPTJS](https://github.com/kilkelly/nanogptjs): JavaScript library to interact with NanoGPT for pay-per-prompt AI [agent]
+- [Nano Currency MCP Server](https://github.com/kilkelly/nano-currency-mcp-server): MCP server enabling AI agents to send Nano and retrieve account info [agent]
+- [MCP (Nano) Server](https://github.com/dhyabi2/NANO_MCP_SERVER): MCP server to create wallets, check balance, send/receive Nano [agent]
+- [x402nano (source)](https://github.com/x402nano): Developer resources for integrating Nano payments over x402 protocol [agent]
+- [Ӿ402Nano.org](https://www.x402nano.org/): Feeless x402 facilitator for Nano, no login required [agent]
+- [Feeless402](https://feeless402.com): Feeless x402 payments in Nano, plus a faucet giving agents their first XNO [agent]
+- [Feeless402 (source)](https://github.com/Feeless402/feeless402): Feeless rail for the x402 agent economy [agent]
+- [NanoGate](https://nanogate.run/): Nano gateway on the Internet Computer, enabling ICP canisters to query Nano accounts and send transactions [agent]
+
+### Infrastructure for agents
+
+- [nano.to](https://nano.to/): Payment link API [agent-infra]
+- [RPC – Nano.to](https://rpc.nano.to/): Enhanced node API [agent-infra]
+- [Accept Nano](https://accept-nano.com): Payment gateway [agent-infra]
+- [nano.lol IFTTT](https://ifttt.com/nano_lol): Web service to monitor transactions, build projects using Nano RPC/WebSockets [agent-infra]
+- [Nano Callback System](https://github.com/jamescoxon/Nano_Callback_System): Receives node callbacks and forwards transaction events [agent-infra]
+- [Armour Hosting](https://armour-hosting.com/): Hosted Nodes [agent-infra]
+- [NOWNodes](https://nownodes.io/): Hosted API [agent-infra]
+- [Nanswap Nodes](https://nanswap.com/nodes): Hosted node API with RPC, WebSocket, and work server; free tier [agent-infra]
+- [Nano Work Server](https://github.com/nanocurrency/nano-work-server): Dedicated PoW generation [agent-infra]
+- [Work Cache](https://github.com/optout21/nano-work-cache): Go work generation proxy and cache for light clients [agent-infra]
+- [NanoPow](https://www.npmjs.com/package/nano-pow): Client-side work generation with WebGPU, WebGL, and WASM fallbacks [agent-infra]
+- [Distributed PoW (dPoW)](https://github.com/guilhermelawless/nano-dpow): Client & server [agent-infra]
+- [nanocurrency-js](https://github.com/marvinroger/nanocurrency-js): Derives keys and seeds, and generates hashes, signatures, work, and blocks [agent-infra]
+- [nanopay](https://docs.nanopay.me): JavaScript/TypeScript toolkit for Nano wallets, payments, signing, work, and RPC [agent-infra]
+- [nanopay (source)](https://github.com/chiragasarpota/nanopay): GPL-3.0 library based on nanocurrency-js, with local signing and mnemonic support [agent-infra]
+- [libnemo](https://www.npmjs.com/package/libnemo): Nano cryptocurrency wallet library [agent-infra]
+- [nanocurrency-web](https://github.com/numsu/nanocurrency-web-js): Client-side offline integration toolkit, no NodeJS functions required [agent-infra]
+- [Nano WebSocket Sample (NodeJS)](https://github.com/guilhermelawless/nano-websocket-sample-nodejs): Sample WebSocket client for the Nano node [agent-infra]
+- [nano-sdk](https://github.com/infinitybay/nano-sdk): TypeScript SDK with fully typed RPC and WebSocket APIs [agent-infra]
+- [nano25519](https://www.npmjs.com/package/nano25519): WebAssembly block signing, key derivation, and signature verification [agent-infra]
+- [nanopy](https://github.com/nkr0/nanopy): Python implementation of Nano functions including work and signing [agent-infra]
+- [Nano WebSocket Sample (Py)](https://github.com/guilhermelawless/nano-websocket-sample-py): Sample WebSocket client for the Nano node [agent-infra]
+
 ## Information & Education
 
 ### Core Pages
@@ -299,10 +342,10 @@ Last updated: 2026-09-14
 - [Nagora](https://nagora.shop/): Marketplace for buying and selling items with Nano
 - [Nano Market](https://market.nanoriver.io/): Buy and Sell items using Nano
 - [Upstart](https://upst-art.net/): Content Hosting
-- [NanoGPT](https://nano-gpt.com/): Pay Per Prompt for a wide variety of AI models
+- [NanoGPT](https://nano-gpt.com/): Pay Per Prompt for a wide variety of AI models [agent]
 - [LongStories.ai](https://longstories.ai/): Create animated short movies using Nano credits
 - [AI Nano Music](https://ainanomusic.com/): AI music contest platform powered by Nano
-- [Nano AI](https://xnoapp.onrender.com/): Access advanced reasoning engines via Nano micro‑transactions, no subscriptions
+- [Nano AI](https://xnoapp.onrender.com/): Access advanced reasoning engines via Nano micro‑transactions, no subscriptions [agent]
 - [Nanogrove](https://nanogrove.org/): Send Nano to feed plants and animals
 - [Clean Web MVP](https://github.com/kamina2025/clean-web-mvp): Micropayment suite for media content with a built-in browser wallet
 
@@ -385,31 +428,31 @@ Last updated: 2026-09-14
 - [Telegram Wallet Bot](https://github.com/SergiySW/NanoWalletBot): Telegram wallet bot (discontinued)
 - [Siliqua](https://github.com/Matoking/siliqua): Modular wallet
 - [Rai-wallet](https://github.com/chriscohoat/rai-wallet): Ciphered wallets
-- [OpenWallet](https://openwallet.sh/): Open standard that unites AI agents with Nano wallets
+- [OpenWallet](https://openwallet.sh/): Open standard that unites AI agents with Nano wallets [agent]
 
 ### APIs & Payment Tools
 
-- [nano.to](https://nano.to/): Payment link API
-- [RPC – Nano.to](https://rpc.nano.to/): Enhanced node API
-- [Accept Nano](https://accept-nano.com): Payment gateway
+- [nano.to](https://nano.to/): Payment link API [agent-infra]
+- [RPC – Nano.to](https://rpc.nano.to/): Enhanced node API [agent-infra]
+- [Accept Nano](https://accept-nano.com): Payment gateway [agent-infra]
 - [Coinify SDK](https://developer.coinify.com/apidoc/merchant/): Merchant API documentation for Coinify payment integration
-- [nano.lol IFTTT](https://ifttt.com/nano_lol): Web service to monitor transactions, build projects using Nano RPC/WebSockets
+- [nano.lol IFTTT](https://ifttt.com/nano_lol): Web service to monitor transactions, build projects using Nano RPC/WebSockets [agent-infra]
 - [NanoTwitchBot](https://github.com/bhickenbottom/NanoTwitchBot): Twitch chat bot for Nano tipping
 - [Nanobot](https://nanobot.app/): Twitch donations
 - [ApolloNano YouTube Tipper](https://github.com/ApolloNano/youtube-tipper): Tip YouTube creators in Nano
 - [NANOPAY (besoeasy)](https://github.com/besoeasy/nanopay): Open-source API
-- [Nano Callback System](https://github.com/jamescoxon/Nano_Callback_System): Receives node callbacks and forwards transaction events
+- [Nano Callback System](https://github.com/jamescoxon/Nano_Callback_System): Receives node callbacks and forwards transaction events [agent-infra]
 - [NanoOnTap](https://github.com/silverstar194/NanoOnTap): Nano payment integration toolkit
 - [Nandro](https://github.com/JerzyStanislawski/Nandro): PoS with NFC
 - [NanoAuth](https://www.nanoauth.app/#/): Authentication service
-- [NanoGPTJS](https://github.com/kilkelly/nanogptjs): JavaScript library to interact with NanoGPT for pay-per-prompt AI
-- [Nano Currency MCP Server](https://github.com/kilkelly/nano-currency-mcp-server): MCP server enabling AI agents to send Nano and retrieve account info
-- [MCP (Nano) Server](https://github.com/dhyabi2/NANO_MCP_SERVER): MCP server to create wallets, check balance, send/receive Nano
-- [x402nano (source)](https://github.com/x402nano): Developer resources for integrating Nano payments over x402 protocol
-- [Ӿ402Nano.org](https://www.x402nano.org/): Feeless x402 facilitator for Nano, no login required
-- [Feeless402](https://feeless402.com): Feeless x402 payments in Nano, plus a faucet giving agents their first XNO
-- [Feeless402 (source)](https://github.com/Feeless402/feeless402): Feeless rail for the x402 agent economy
-- [NanoGate](https://nanogate.run/): Nano gateway on the Internet Computer, enabling ICP canisters to query Nano accounts and send transactions
+- [NanoGPTJS](https://github.com/kilkelly/nanogptjs): JavaScript library to interact with NanoGPT for pay-per-prompt AI [agent]
+- [Nano Currency MCP Server](https://github.com/kilkelly/nano-currency-mcp-server): MCP server enabling AI agents to send Nano and retrieve account info [agent]
+- [MCP (Nano) Server](https://github.com/dhyabi2/NANO_MCP_SERVER): MCP server to create wallets, check balance, send/receive Nano [agent]
+- [x402nano (source)](https://github.com/x402nano): Developer resources for integrating Nano payments over x402 protocol [agent]
+- [Ӿ402Nano.org](https://www.x402nano.org/): Feeless x402 facilitator for Nano, no login required [agent]
+- [Feeless402](https://feeless402.com): Feeless x402 payments in Nano, plus a faucet giving agents their first XNO [agent]
+- [Feeless402 (source)](https://github.com/Feeless402/feeless402): Feeless rail for the x402 agent economy [agent]
+- [NanoGate](https://nanogate.run/): Nano gateway on the Internet Computer, enabling ICP canisters to query Nano accounts and send transactions [agent]
 
 ### Node Tools & Applications
 
@@ -425,25 +468,25 @@ Last updated: 2026-09-14
 - [Lightweight Nano RPC Proxy](https://github.com/Shryder/LightweightNanoRPCProxy): Limits allowed RPC actions and adds rate limiting and logging
 - [Nano Shell](https://github.com/VenKamikaze/nano-shell): Bash wrapper
 - [LinuxServer.io Nano Stack Guide](https://blog.linuxserver.io/2020/05/31/deploying-your-own-crypto/): Guide to deploying a self-hosted Nano node stack
-- [nano.lol IFTTT](https://ifttt.com/nano_lol): Web service to monitor transactions, build projects using Nano RPC/WebSockets
+- [nano.lol IFTTT](https://ifttt.com/nano_lol): Web service to monitor transactions, build projects using Nano RPC/WebSockets [agent-infra]
 
 ### Node Access & Services
 
-- [Armour Hosting](https://armour-hosting.com/): Hosted Nodes
-- [NOWNodes](https://nownodes.io/): Hosted API
-- [Nanswap Nodes](https://nanswap.com/nodes): Hosted node API with RPC, WebSocket, and work server; free tier
+- [Armour Hosting](https://armour-hosting.com/): Hosted Nodes [agent-infra]
+- [NOWNodes](https://nownodes.io/): Hosted API [agent-infra]
+- [Nanswap Nodes](https://nanswap.com/nodes): Hosted node API with RPC, WebSocket, and work server; free tier [agent-infra]
 - [Nano.casa](https://nano.casa/): Development tracker
 - [Madora](https://madora.io/): Game payment services
 
 ### PoW & Work Generation
 
-- [Nano Work Server](https://github.com/nanocurrency/nano-work-server): Dedicated PoW generation
-- [Work Cache](https://github.com/optout21/nano-work-cache): Go work generation proxy and cache for light clients
+- [Nano Work Server](https://github.com/nanocurrency/nano-work-server): Dedicated PoW generation [agent-infra]
+- [Work Cache](https://github.com/optout21/nano-work-cache): Go work generation proxy and cache for light clients [agent-infra]
 - [PoW Benchmark Tool](https://github.com/koczadly/nano-pow-benchmark): Benchmarks Blake2b work generation on OpenCL devices
-- [NanoPow](https://www.npmjs.com/package/nano-pow): Client-side work generation with WebGPU, WebGL, and WASM fallbacks
+- [NanoPow](https://www.npmjs.com/package/nano-pow): Client-side work generation with WebGPU, WebGL, and WASM fallbacks [agent-infra]
 - [nanopow-rs-node](https://github.com/termhn/nanopow-rs-node): Node.js bindings for the Rust nanopow library
 - [NanoPoW (Go)](https://github.com/serdaroquai/nanopow): Go work generation built on the blake2b crypto package
-- [Distributed PoW (dPoW)](https://github.com/guilhermelawless/nano-dpow): Client & server
+- [Distributed PoW (dPoW)](https://github.com/guilhermelawless/nano-dpow): Client & server [agent-infra]
 - [Node RaiBlocks PoW](https://github.com/numtel/node-raiblocks-pow): Native C module for Node.js work generation
 - [Nano WebGL PoW](https://github.com/numtel/nano-webgl-pow): GPU work generation via a WebGL2 Blake2b shader
 - [WebAssembly PoW](https://github.com/jaimehgb/RaiBlocksWebAssemblyPoW): CPU
@@ -497,17 +540,17 @@ Last updated: 2026-09-14
 #### JavaScript/TypeScript
 
 - [Nano.js](https://github.com/WriteNaN/Nano.js/blob/main/README.md): Interact with the Nano blockchain from JavaScript
-- [NanoGPTJS](https://github.com/kilkelly/nanogptjs): JavaScript library to interact with NanoGPT for pay-per-prompt AI
-- [nanocurrency-js](https://github.com/marvinroger/nanocurrency-js): Derives keys and seeds, and generates hashes, signatures, work, and blocks
-- [nanopay](https://docs.nanopay.me): JavaScript/TypeScript toolkit for Nano wallets, payments, signing, work, and RPC
-- [nanopay (source)](https://github.com/chiragasarpota/nanopay): GPL-3.0 library based on nanocurrency-js, with local signing and mnemonic support
-- [libnemo](https://www.npmjs.com/package/libnemo): Nano cryptocurrency wallet library
-- [nanocurrency-web](https://github.com/numsu/nanocurrency-web-js): Client-side offline integration toolkit, no NodeJS functions required
+- [NanoGPTJS](https://github.com/kilkelly/nanogptjs): JavaScript library to interact with NanoGPT for pay-per-prompt AI [agent]
+- [nanocurrency-js](https://github.com/marvinroger/nanocurrency-js): Derives keys and seeds, and generates hashes, signatures, work, and blocks [agent-infra]
+- [nanopay](https://docs.nanopay.me): JavaScript/TypeScript toolkit for Nano wallets, payments, signing, work, and RPC [agent-infra]
+- [nanopay (source)](https://github.com/chiragasarpota/nanopay): GPL-3.0 library based on nanocurrency-js, with local signing and mnemonic support [agent-infra]
+- [libnemo](https://www.npmjs.com/package/libnemo): Nano cryptocurrency wallet library [agent-infra]
+- [nanocurrency-web](https://github.com/numsu/nanocurrency-web-js): Client-side offline integration toolkit, no NodeJS functions required [agent-infra]
 - [RaiBlocksJS](https://github.com/orrybaram/RaiBlocksJS): Isomorphic library for node and wallet management via RPC
 - [RaiBlocksJS 2](https://github.com/SergiySW/RaiBlocksJS): JavaScript RPC functions for node and wallet management (not in active development)
-- [Nano WebSocket Sample (NodeJS)](https://github.com/guilhermelawless/nano-websocket-sample-nodejs): Sample WebSocket client for the Nano node
-- [nano-sdk](https://github.com/infinitybay/nano-sdk): TypeScript SDK with fully typed RPC and WebSocket APIs
-- [nano25519](https://www.npmjs.com/package/nano25519): WebAssembly block signing, key derivation, and signature verification
+- [Nano WebSocket Sample (NodeJS)](https://github.com/guilhermelawless/nano-websocket-sample-nodejs): Sample WebSocket client for the Nano node [agent-infra]
+- [nano-sdk](https://github.com/infinitybay/nano-sdk): TypeScript SDK with fully typed RPC and WebSocket APIs [agent-infra]
+- [nano25519](https://www.npmjs.com/package/nano25519): WebAssembly block signing, key derivation, and signature verification [agent-infra]
 
 #### PHP
 
@@ -516,7 +559,7 @@ Last updated: 2026-09-14
 
 #### Python
 
-- [nanopy](https://github.com/nkr0/nanopy): Python implementation of Nano functions including work and signing
+- [nanopy](https://github.com/nkr0/nanopy): Python implementation of Nano functions including work and signing [agent-infra]
 - [nanolib](https://github.com/Matoking/nanolib): Python library for working with the Nano protocol
 - [RAI (Python)](https://github.com/kennell/rai): Pythonic client for interacting with nodes
 - [Python Nano Tools](https://github.com/paulmelis/nano-tools): Tools for exploring the Nano block lattice
@@ -525,7 +568,7 @@ Last updated: 2026-09-14
 - [Easyraikit (Python)](https://github.com/AuliaYF/easyraikit-python): RPC library for Python
 - [Nano Python](https://github.com/dourvaris/nano-python): Node RPC client for Python
 - [EasyNano](https://github.com/micah5/easy_nano): Send and receive Nano with two simple functions
-- [Nano WebSocket Sample (Py)](https://github.com/guilhermelawless/nano-websocket-sample-py): Sample WebSocket client for the Nano node
+- [Nano WebSocket Sample (Py)](https://github.com/guilhermelawless/nano-websocket-sample-py): Sample WebSocket client for the Nano node [agent-infra]
 - [Appia Manta (Python)](https://github.com/appiapay/manta-python): Reference implementation of the Manta payment protocol
 
 #### Ruby
@@ -578,7 +621,7 @@ Last updated: 2026-09-14
 
 - [Wirex](https://wirexapp.com/): Visa payment card, fiat on/off ramp
 - [CoinGate](https://coingate.com/): Nano payment service & gateway
-- [nano.to](https://nano.to/): Nano payment service and API
+- [nano.to](https://nano.to/): Nano payment service and API [agent-infra]
 - [NowPayments](https://nowpayments.io/): Multicurrency payment service
 - [Simplex](https://www.simplex.com/): Credit card payment service
 - [ShareRing](https://sharering.network/): Sharing & rental service
@@ -592,7 +635,7 @@ Last updated: 2026-09-14
 
 - [Wordpress Plugin](https://wordpress.org/plugins/cryptopay/): Nano, IOTA, XLM, XRP, SEPA payments
 - [Nano Donate](https://nanocharts.info/nano-donate.html): Chrome donation extension
-- [Accept Nano](https://accept-nano.com): Self-hosted Go/JS payment gateway
+- [Accept Nano](https://accept-nano.com): Self-hosted Go/JS payment gateway [agent-infra]
 
 ### Point of Sale (POS) Tools
 
