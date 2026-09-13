@@ -1,7 +1,8 @@
 {
   "name": "Nano Directory",
   "url": "https://www.nanodirectory.info",
-  "description": "A directory of links and tools for the Nano ($XNO) cryptocurrency ecosystem, designed for users, developers, and agents.",  "updated": "2026-09-14",
+  "description": "A directory of links and tools for the Nano ($XNO) cryptocurrency ecosystem, designed for users, developers, and agents.",
+  "updated": "2026-09-14",
   "sections": [
     {
       "id": "information",
@@ -1435,7 +1436,10 @@
       "name": "NanoGPT",
       "url": "https://nano-gpt.com/",
       "description": "Pay Per Prompt for a wide variety of AI models",
-      "section": "services"
+      "section": "services",
+      "tags": [
+        "agent"
+      ]
     },
     {
       "name": "LongStories.ai",
@@ -1453,7 +1457,10 @@
       "name": "Nano AI",
       "url": "https://xnoapp.onrender.com/",
       "description": "Access advanced reasoning engines via Nano micro‑transactions, no subscriptions",
-      "section": "services"
+      "section": "services",
+      "tags": [
+        "agent"
+      ]
     },
     {
       "name": "Nanogrove",
@@ -1819,25 +1826,37 @@
       "name": "OpenWallet",
       "url": "https://openwallet.sh/",
       "description": "Open standard that unites AI agents with Nano wallets",
-      "section": "wallets-source-code"
+      "section": "wallets-source-code",
+      "tags": [
+        "agent"
+      ]
     },
     {
       "name": "nano.to",
       "url": "https://nano.to/",
       "description": "Payment link API",
-      "section": "apis-and-payment-tools"
+      "section": "apis-and-payment-tools",
+      "tags": [
+        "agent-infra"
+      ]
     },
     {
       "name": "RPC – Nano.to",
       "url": "https://rpc.nano.to/",
       "description": "Enhanced node API",
-      "section": "apis-and-payment-tools"
+      "section": "apis-and-payment-tools",
+      "tags": [
+        "agent-infra"
+      ]
     },
     {
       "name": "Accept Nano",
       "url": "https://accept-nano.com",
       "description": "Payment gateway",
-      "section": "apis-and-payment-tools"
+      "section": "apis-and-payment-tools",
+      "tags": [
+        "agent-infra"
+      ]
     },
     {
       "name": "Coinify SDK",
@@ -1849,7 +1868,10 @@
       "name": "nano.lol IFTTT",
       "url": "https://ifttt.com/nano_lol",
       "description": "Web service to monitor transactions, build projects using Nano RPC/WebSockets",
-      "section": "apis-and-payment-tools"
+      "section": "apis-and-payment-tools",
+      "tags": [
+        "agent-infra"
+      ]
     },
     {
       "name": "NanoTwitchBot",
@@ -1879,7 +1901,10 @@
       "name": "Nano Callback System",
       "url": "https://github.com/jamescoxon/Nano_Callback_System",
       "description": "Receives node callbacks and forwards transaction events",
-      "section": "apis-and-payment-tools"
+      "section": "apis-and-payment-tools",
+      "tags": [
+        "agent-infra"
+      ]
     },
     {
       "name": "NanoOnTap",
@@ -1903,49 +1928,73 @@
       "name": "NanoGPTJS",
       "url": "https://github.com/kilkelly/nanogptjs",
       "description": "JavaScript library to interact with NanoGPT for pay-per-prompt AI",
-      "section": "apis-and-payment-tools"
+      "section": "apis-and-payment-tools",
+      "tags": [
+        "agent"
+      ]
     },
     {
       "name": "Nano Currency MCP Server",
       "url": "https://github.com/kilkelly/nano-currency-mcp-server",
       "description": "MCP server enabling AI agents to send Nano and retrieve account info",
-      "section": "apis-and-payment-tools"
+      "section": "apis-and-payment-tools",
+      "tags": [
+        "agent"
+      ]
     },
     {
       "name": "MCP (Nano) Server",
       "url": "https://github.com/dhyabi2/NANO_MCP_SERVER",
       "description": "MCP server to create wallets, check balance, send/receive Nano",
-      "section": "apis-and-payment-tools"
+      "section": "apis-and-payment-tools",
+      "tags": [
+        "agent"
+      ]
     },
     {
       "name": "x402nano (source)",
       "url": "https://github.com/x402nano",
       "description": "Developer resources for integrating Nano payments over x402 protocol",
-      "section": "apis-and-payment-tools"
+      "section": "apis-and-payment-tools",
+      "tags": [
+        "agent"
+      ]
     },
     {
       "name": "Ӿ402Nano.org",
       "url": "https://www.x402nano.org/",
       "description": "Feeless x402 facilitator for Nano, no login required",
-      "section": "apis-and-payment-tools"
+      "section": "apis-and-payment-tools",
+      "tags": [
+        "agent"
+      ]
     },
     {
       "name": "Feeless402",
       "url": "https://feeless402.com",
       "description": "Feeless x402 payments in Nano, plus a faucet giving agents their first XNO",
-      "section": "apis-and-payment-tools"
+      "section": "apis-and-payment-tools",
+      "tags": [
+        "agent"
+      ]
     },
     {
       "name": "Feeless402 (source)",
       "url": "https://github.com/Feeless402/feeless402",
       "description": "Feeless rail for the x402 agent economy",
-      "section": "apis-and-payment-tools"
+      "section": "apis-and-payment-tools",
+      "tags": [
+        "agent"
+      ]
     },
     {
       "name": "NanoGate",
       "url": "https://nanogate.run/",
       "description": "Nano gateway on the Internet Computer, enabling ICP canisters to query Nano accounts and send transactions",
-      "section": "apis-and-payment-tools"
+      "section": "apis-and-payment-tools",
+      "tags": [
+        "agent"
+      ]
     },
     {
       "name": "Nano Node Monitor",
@@ -2023,25 +2072,37 @@
       "name": "nano.lol IFTTT",
       "url": "https://ifttt.com/nano_lol",
       "description": "Web service to monitor transactions, build projects using Nano RPC/WebSockets",
-      "section": "node-tools-and-applications"
+      "section": "node-tools-and-applications",
+      "tags": [
+        "agent-infra"
+      ]
     },
     {
       "name": "Armour Hosting",
       "url": "https://armour-hosting.com/",
       "description": "Hosted Nodes",
-      "section": "node-access-and-services"
+      "section": "node-access-and-services",
+      "tags": [
+        "agent-infra"
+      ]
     },
     {
       "name": "NOWNodes",
       "url": "https://nownodes.io/",
       "description": "Hosted API",
-      "section": "node-access-and-services"
+      "section": "node-access-and-services",
+      "tags": [
+        "agent-infra"
+      ]
     },
     {
       "name": "Nanswap Nodes",
       "url": "https://nanswap.com/nodes",
       "description": "Hosted node API with RPC, WebSocket, and work server; free tier",
-      "section": "node-access-and-services"
+      "section": "node-access-and-services",
+      "tags": [
+        "agent-infra"
+      ]
     },
     {
       "name": "Nano.casa",
@@ -2059,13 +2120,19 @@
       "name": "Nano Work Server",
       "url": "https://github.com/nanocurrency/nano-work-server",
       "description": "Dedicated PoW generation",
-      "section": "pow-and-work-generation"
+      "section": "pow-and-work-generation",
+      "tags": [
+        "agent-infra"
+      ]
     },
     {
       "name": "Work Cache",
       "url": "https://github.com/optout21/nano-work-cache",
       "description": "Go work generation proxy and cache for light clients",
-      "section": "pow-and-work-generation"
+      "section": "pow-and-work-generation",
+      "tags": [
+        "agent-infra"
+      ]
     },
     {
       "name": "PoW Benchmark Tool",
@@ -2077,7 +2144,10 @@
       "name": "NanoPow",
       "url": "https://www.npmjs.com/package/nano-pow",
       "description": "Client-side work generation with WebGPU, WebGL, and WASM fallbacks",
-      "section": "pow-and-work-generation"
+      "section": "pow-and-work-generation",
+      "tags": [
+        "agent-infra"
+      ]
     },
     {
       "name": "nanopow-rs-node",
@@ -2095,7 +2165,10 @@
       "name": "Distributed PoW (dPoW)",
       "url": "https://github.com/guilhermelawless/nano-dpow",
       "description": "Client & server",
-      "section": "pow-and-work-generation"
+      "section": "pow-and-work-generation",
+      "tags": [
+        "agent-infra"
+      ]
     },
     {
       "name": "Node RaiBlocks PoW",
@@ -2281,37 +2354,55 @@
       "name": "NanoGPTJS",
       "url": "https://github.com/kilkelly/nanogptjs",
       "description": "JavaScript library to interact with NanoGPT for pay-per-prompt AI",
-      "section": "group-javascript-typescript"
+      "section": "group-javascript-typescript",
+      "tags": [
+        "agent"
+      ]
     },
     {
       "name": "nanocurrency-js",
       "url": "https://github.com/marvinroger/nanocurrency-js",
       "description": "Derives keys and seeds, and generates hashes, signatures, work, and blocks",
-      "section": "group-javascript-typescript"
+      "section": "group-javascript-typescript",
+      "tags": [
+        "agent-infra"
+      ]
     },
     {
       "name": "nanopay",
       "url": "https://docs.nanopay.me",
       "description": "JavaScript/TypeScript toolkit for Nano wallets, payments, signing, work, and RPC",
-      "section": "group-javascript-typescript"
+      "section": "group-javascript-typescript",
+      "tags": [
+        "agent-infra"
+      ]
     },
     {
       "name": "nanopay (source)",
       "url": "https://github.com/chiragasarpota/nanopay",
       "description": "GPL-3.0 library based on nanocurrency-js, with local signing and mnemonic support",
-      "section": "group-javascript-typescript"
+      "section": "group-javascript-typescript",
+      "tags": [
+        "agent-infra"
+      ]
     },
     {
       "name": "libnemo",
       "url": "https://www.npmjs.com/package/libnemo",
       "description": "Nano cryptocurrency wallet library",
-      "section": "group-javascript-typescript"
+      "section": "group-javascript-typescript",
+      "tags": [
+        "agent-infra"
+      ]
     },
     {
       "name": "nanocurrency-web",
       "url": "https://github.com/numsu/nanocurrency-web-js",
       "description": "Client-side offline integration toolkit, no NodeJS functions required",
-      "section": "group-javascript-typescript"
+      "section": "group-javascript-typescript",
+      "tags": [
+        "agent-infra"
+      ]
     },
     {
       "name": "RaiBlocksJS",
@@ -2329,19 +2420,28 @@
       "name": "Nano WebSocket Sample (NodeJS)",
       "url": "https://github.com/guilhermelawless/nano-websocket-sample-nodejs",
       "description": "Sample WebSocket client for the Nano node",
-      "section": "group-javascript-typescript"
+      "section": "group-javascript-typescript",
+      "tags": [
+        "agent-infra"
+      ]
     },
     {
       "name": "nano-sdk",
       "url": "https://github.com/infinitybay/nano-sdk",
       "description": "TypeScript SDK with fully typed RPC and WebSocket APIs",
-      "section": "group-javascript-typescript"
+      "section": "group-javascript-typescript",
+      "tags": [
+        "agent-infra"
+      ]
     },
     {
       "name": "nano25519",
       "url": "https://www.npmjs.com/package/nano25519",
       "description": "WebAssembly block signing, key derivation, and signature verification",
-      "section": "group-javascript-typescript"
+      "section": "group-javascript-typescript",
+      "tags": [
+        "agent-infra"
+      ]
     },
     {
       "name": "RaiBlocksPHP",
@@ -2359,7 +2459,10 @@
       "name": "nanopy",
       "url": "https://github.com/nkr0/nanopy",
       "description": "Python implementation of Nano functions including work and signing",
-      "section": "group-python"
+      "section": "group-python",
+      "tags": [
+        "agent-infra"
+      ]
     },
     {
       "name": "nanolib",
@@ -2413,7 +2516,10 @@
       "name": "Nano WebSocket Sample (Py)",
       "url": "https://github.com/guilhermelawless/nano-websocket-sample-py",
       "description": "Sample WebSocket client for the Nano node",
-      "section": "group-python"
+      "section": "group-python",
+      "tags": [
+        "agent-infra"
+      ]
     },
     {
       "name": "Appia Manta (Python)",
@@ -2611,7 +2717,10 @@
       "name": "nano.to",
       "url": "https://nano.to/",
       "description": "Nano payment service and API",
-      "section": "payment-services"
+      "section": "payment-services",
+      "tags": [
+        "agent-infra"
+      ]
     },
     {
       "name": "NowPayments",
@@ -2677,7 +2786,10 @@
       "name": "Accept Nano",
       "url": "https://accept-nano.com",
       "description": "Self-hosted Go/JS payment gateway",
-      "section": "plugins-and-extensions"
+      "section": "plugins-and-extensions",
+      "tags": [
+        "agent-infra"
+      ]
     },
     {
       "name": "Kappture",
