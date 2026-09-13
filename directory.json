@@ -1,0 +1,2750 @@
+{
+  "name": "Nano Directory",
+  "url": "https://www.nanodirectory.info",
+  "description": "A directory of links and tools for the Nano ($XNO) cryptocurrency ecosystem.",
+  "updated": "2026-09-14",
+  "sections": [
+    {
+      "id": "information",
+      "title": "Information & Education",
+      "children": [
+        {
+          "id": "core-team",
+          "title": "Core Pages"
+        },
+        {
+          "id": "core-social-media--contribution-channels",
+          "title": "Core Media Channels"
+        },
+        {
+          "id": "education--adoption",
+          "title": "Education & Adoption",
+          "children": [
+            {
+              "id": "group-significant-medium-accounts",
+              "title": "Significant Medium Accounts",
+              "collapsed": true
+            }
+          ]
+        },
+        {
+          "id": "scientific-papers",
+          "title": "Scientific Papers"
+        },
+        {
+          "id": "videos",
+          "title": "Videos",
+          "children": [
+            {
+              "id": "group-video-archive",
+              "title": "Video Archive",
+              "collapsed": true
+            }
+          ]
+        },
+        {
+          "id": "network-explorers",
+          "title": "Explorers & Network Stats"
+        },
+        {
+          "id": "network-sites",
+          "title": "Additional Network sites"
+        }
+      ]
+    },
+    {
+      "id": "wallets-and-faucets",
+      "title": "Wallets & Faucets",
+      "children": [
+        {
+          "id": "native-wallets",
+          "title": "Native Wallets"
+        },
+        {
+          "id": "dev-wallets",
+          "title": "Dev Wallets"
+        },
+        {
+          "id": "multi-asset-wallets",
+          "title": "Multi-asset Wallets"
+        },
+        {
+          "id": "address-generators-and-paper-wallets",
+          "title": "Address Generators & Paper Wallets"
+        },
+        {
+          "id": "hardware-wallets",
+          "title": "Hardware Wallets"
+        },
+        {
+          "id": "wallet-and-account-guides",
+          "title": "Wallet & Account Guides"
+        },
+        {
+          "id": "faucets-free-nano",
+          "title": "Faucets (Free Nano)"
+        }
+      ]
+    },
+    {
+      "id": "market-data-and-exchanges",
+      "title": "Market Data & Exchanges",
+      "children": [
+        {
+          "id": "price-trackers",
+          "title": "Price Trackers"
+        },
+        {
+          "id": "converters",
+          "title": "Converters"
+        },
+        {
+          "id": "exchanges",
+          "title": "Exchanges",
+          "children": [
+            {
+              "id": "major-centralized-exchanges",
+              "title": "Major Centralized Exchanges"
+            },
+            {
+              "id": "mid-tier-centralized-exchanges",
+              "title": "Mid-Tier Centralized Exchanges"
+            },
+            {
+              "id": "derivatives-futures-perpetuals",
+              "title": "Derivatives (Futures / Perpetuals)"
+            },
+            {
+              "id": "quick-swap-and-instant-buy-services",
+              "title": "Quick-Swap & Instant-Buy Services"
+            },
+            {
+              "id": "regional-and-fiat-focused-exchanges",
+              "title": "Regional & Fiat-Focused Exchanges",
+              "children": [
+                {
+                  "id": "group-australia-and-new-zealand",
+                  "title": "Australia & New Zealand",
+                  "collapsed": true
+                },
+                {
+                  "id": "group-india",
+                  "title": "India",
+                  "collapsed": true
+                },
+                {
+                  "id": "group-europe",
+                  "title": "Europe",
+                  "collapsed": true
+                },
+                {
+                  "id": "group-indonesia",
+                  "title": "Indonesia",
+                  "collapsed": true
+                },
+                {
+                  "id": "group-turkey",
+                  "title": "Turkey",
+                  "collapsed": true
+                },
+                {
+                  "id": "group-singapore",
+                  "title": "Singapore",
+                  "collapsed": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "services-and-entertainment",
+      "title": "Services & Entertainment",
+      "children": [
+        {
+          "id": "services",
+          "title": "Services"
+        },
+        {
+          "id": "earn-nano",
+          "title": "Earn Nano"
+        },
+        {
+          "id": "entertainment",
+          "title": "Entertainment",
+          "children": [
+            {
+              "id": "gambling-betting",
+              "title": "Gambling, Betting"
+            },
+            {
+              "id": "games",
+              "title": "Games"
+            },
+            {
+              "id": "video-music-art",
+              "title": "Video, Music, Art"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "development",
+      "title": "Development Resources",
+      "children": [
+        {
+          "id": "core-development",
+          "title": "Core Development"
+        },
+        {
+          "id": "wallets-source-code",
+          "title": "Wallets (Source Code)"
+        },
+        {
+          "id": "apis-and-payment-tools",
+          "title": "APIs & Payment Tools"
+        },
+        {
+          "id": "node-tools-and-applications",
+          "title": "Node Tools & Applications"
+        },
+        {
+          "id": "node-access-and-services",
+          "title": "Node Access & Services"
+        },
+        {
+          "id": "pow-and-work-generation",
+          "title": "PoW & Work Generation"
+        },
+        {
+          "id": "explorers-and-network-metrics",
+          "title": "Explorers & Network Metrics"
+        },
+        {
+          "id": "game-engine-integration",
+          "title": "Game Engine Integration"
+        },
+        {
+          "id": "language-specific-sdks-and-libraries",
+          "title": "Language-specific SDKs & Libraries",
+          "children": [
+            {
+              "id": "group-c-net",
+              "title": "C#/.NET",
+              "collapsed": true
+            },
+            {
+              "id": "group-elixir",
+              "title": "Elixir",
+              "collapsed": true
+            },
+            {
+              "id": "group-go",
+              "title": "Go",
+              "collapsed": true
+            },
+            {
+              "id": "group-java",
+              "title": "Java",
+              "collapsed": true
+            },
+            {
+              "id": "group-javascript-typescript",
+              "title": "JavaScript/TypeScript",
+              "collapsed": true
+            },
+            {
+              "id": "group-php",
+              "title": "PHP",
+              "collapsed": true
+            },
+            {
+              "id": "group-python",
+              "title": "Python",
+              "collapsed": true
+            },
+            {
+              "id": "group-ruby",
+              "title": "Ruby",
+              "collapsed": true
+            },
+            {
+              "id": "group-rust",
+              "title": "Rust",
+              "collapsed": true
+            },
+            {
+              "id": "group-swift",
+              "title": "Swift",
+              "collapsed": true
+            }
+          ]
+        },
+        {
+          "id": "test-network",
+          "title": "Test Network"
+        },
+        {
+          "id": "miscellaneous",
+          "title": "Miscellaneous"
+        }
+      ]
+    },
+    {
+      "id": "merchant-tools",
+      "title": "Merchant & Payment Tools",
+      "children": [
+        {
+          "id": "payment-services",
+          "title": "Payment Services"
+        },
+        {
+          "id": "plugins-and-extensions",
+          "title": "Plugins & Extensions"
+        },
+        {
+          "id": "point-of-sale-pos-tools",
+          "title": "Point of Sale (POS) Tools"
+        },
+        {
+          "id": "payment-request-tools",
+          "title": "Payment Request Tools"
+        },
+        {
+          "id": "other-merchant-tools",
+          "title": "Other Merchant Tools"
+        }
+      ]
+    }
+  ],
+  "entries": [
+    {
+      "name": "Nano.org",
+      "url": "https://nano.org",
+      "description": "Main Site",
+      "section": "core-team"
+    },
+    {
+      "name": "Nano Hub",
+      "url": "https://hub.nano.org/",
+      "description": "Explore the Nano ecosystem",
+      "section": "core-team"
+    },
+    {
+      "name": "Full Documentation",
+      "url": "https://docs.nano.org/",
+      "section": "core-team"
+    },
+    {
+      "name": "Whitepaper",
+      "url": "https://nano.org/en/whitepaper",
+      "description": "(Eng)",
+      "section": "core-team"
+    },
+    {
+      "name": "Nano Blogs",
+      "url": "https://nano.org/en/blog",
+      "description": "Foundation and Community Posting",
+      "section": "core-team"
+    },
+    {
+      "name": "Youtube",
+      "url": "https://www.youtube.com/channel/UCFxXo3z9k4yvxSboEEjXO2w",
+      "section": "core-social-media--contribution-channels"
+    },
+    {
+      "name": "Reddit: Nano Main",
+      "url": "https://www.reddit.com/r/nanocurrency/",
+      "section": "core-social-media--contribution-channels"
+    },
+    {
+      "name": "Reddit: Nano Trading",
+      "url": "https://www.reddit.com/r/nanotrade/",
+      "section": "core-social-media--contribution-channels"
+    },
+    {
+      "name": "Discord: Nano Main",
+      "url": "https://chat.nano.org",
+      "description": "Info, Support, Integrations, News",
+      "section": "core-social-media--contribution-channels"
+    },
+    {
+      "name": "Discord: XNO Trade",
+      "url": "https://shryder.gitlab.io/nanotrade-classic/",
+      "description": "Trading and Price Talk",
+      "section": "core-social-media--contribution-channels"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/nano",
+      "section": "core-social-media--contribution-channels"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/nanofoundation/",
+      "section": "core-social-media--contribution-channels"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/company/nano-foundation/",
+      "section": "core-social-media--contribution-channels"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/nanocurrency",
+      "section": "core-social-media--contribution-channels"
+    },
+    {
+      "name": "Telegram China",
+      "url": "https://t.me/NanoCN",
+      "section": "core-social-media--contribution-channels"
+    },
+    {
+      "name": "What is Nano in 60 Sec",
+      "url": "https://youtu.be/ydVomoXEGe0",
+      "section": "education--adoption"
+    },
+    {
+      "name": "Why Nano",
+      "url": "https://whynano.cc/",
+      "section": "education--adoption"
+    },
+    {
+      "name": "The Basics of Nano",
+      "url": "https://senatus.substack.com/p/the-basics-of-nano-why-its-such-an",
+      "section": "education--adoption"
+    },
+    {
+      "name": "The vision of Nano",
+      "url": "https://senatusspqr.medium.com/the-vision-of-nano-an-instant-feeless-and-green-crypto-b08ebf25d325",
+      "section": "education--adoption"
+    },
+    {
+      "name": "Nano.community",
+      "url": "https://nano.community/",
+      "description": "News and Learning",
+      "section": "education--adoption"
+    },
+    {
+      "name": "Nano Xperience",
+      "url": "https://xnoxno.com/xperience/",
+      "description": "Compare Nano to Other Chains",
+      "section": "education--adoption"
+    },
+    {
+      "name": "What is Nano",
+      "url": "https://medium.com/coinplan-insights/coin-spotlight-nano-2c111170a19f",
+      "section": "education--adoption"
+    },
+    {
+      "name": "Nano for Newcomers",
+      "url": "https://nanojson.medium.com/nano-for-newcomers-75e64535327a",
+      "description": "A Great Reddit Summary",
+      "section": "education--adoption"
+    },
+    {
+      "name": "Nano Education",
+      "url": "https://medium.com/nano-education",
+      "description": "Informative Medium Articles",
+      "section": "education--adoption"
+    },
+    {
+      "name": "Best Practices When Using a Hardware Wallet",
+      "url": "https://medium.com/ledger-on-security-and-blockchain/ledger-101-part-3-best-practices-when-using-a-hardware-wallet-198b60df2681",
+      "section": "education--adoption"
+    },
+    {
+      "name": "Colin LeMahieu (Founder)",
+      "url": "https://medium.com/@clemahieu",
+      "section": "group-significant-medium-accounts"
+    },
+    {
+      "name": "Senatus",
+      "url": "https://senatusspqr.medium.com/",
+      "section": "group-significant-medium-accounts"
+    },
+    {
+      "name": "Senatus Substack",
+      "url": "https://senatus.substack.com/archive?utm_source=menu-dropdown",
+      "section": "group-significant-medium-accounts"
+    },
+    {
+      "name": "Json",
+      "url": "https://nanojson.medium.com/",
+      "section": "group-significant-medium-accounts"
+    },
+    {
+      "name": "James Coxon",
+      "url": "https://medium.com/@jacoxon",
+      "section": "group-significant-medium-accounts"
+    },
+    {
+      "name": "SomeNano",
+      "url": "https://somenano.medium.com/",
+      "section": "group-significant-medium-accounts"
+    },
+    {
+      "name": "Distributed Ledger Technology: Blockchain Compared to Directed Acyclic Graph",
+      "url": "https://www.researchgate.net/publication/324793344_Distributed_Ledger_Technology_Blockchain_Compared_to_Directed_Acyclic_Graph",
+      "section": "scientific-papers"
+    },
+    {
+      "name": "Scalability of Bitcoin and Nano protocols: Comparison",
+      "url": "http://www.diva-portal.org/smash/get/diva2:1229650/FULLTEXT02.pdf",
+      "section": "scientific-papers"
+    },
+    {
+      "name": "Nano The Future of Money",
+      "url": "https://youtu.be/lw-rpO0jqYQ",
+      "section": "videos"
+    },
+    {
+      "name": "Nano Overview",
+      "url": "https://youtu.be/JynwiU2D_K0",
+      "section": "videos"
+    },
+    {
+      "name": "Nano is Green",
+      "url": "https://youtu.be/JChBTohSHlM",
+      "section": "videos"
+    },
+    {
+      "name": "Stop Waiting",
+      "url": "https://www.youtube.com/watch?v=cCVvcO1iBKA",
+      "section": "videos"
+    },
+    {
+      "name": "The Power of Digital Money - Nano Around The Globe",
+      "url": "https://youtu.be/iKt9KepQQF4",
+      "section": "videos"
+    },
+    {
+      "name": "10 reasons to use Nano instead of the Dollar",
+      "url": "https://www.reddit.com/r/nanocurrency/comments/h80j1j/10_reasons_to_use_nano_instead_of_the_dollar_or/",
+      "section": "videos"
+    },
+    {
+      "name": "Introduction to Nano Currency by F2Y",
+      "url": "https://youtu.be/OAk2ou6EFMY",
+      "section": "videos"
+    },
+    {
+      "name": "Why your business should accept Nano",
+      "url": "https://youtu.be/yWoRnYFT9yo",
+      "section": "videos"
+    },
+    {
+      "name": "Live XNO Bird Feeder",
+      "url": "https://www.youtube.com/@lildumpling442/live",
+      "section": "videos"
+    },
+    {
+      "name": "Transaction Speed Demo - Mobile to Mobile",
+      "url": "https://youtu.be/5K8rRISz4RU",
+      "section": "group-video-archive"
+    },
+    {
+      "name": "Transaction Speed Demo - Confirmation Node to Node",
+      "url": "https://youtu.be/R6oxmQaiFJI",
+      "section": "group-video-archive"
+    },
+    {
+      "name": "Colin LeMahieu Interviewed by The Crypto Lark Feb 2018",
+      "url": "https://youtu.be/hAy4GDV7tvQ",
+      "section": "group-video-archive"
+    },
+    {
+      "name": "Colin LeMahieu Interviewed by DataDash Oct 2018",
+      "url": "https://youtu.be/eWdOkIev_xM",
+      "section": "group-video-archive"
+    },
+    {
+      "name": "Colin LeMahieu Audio interview on Hashing It Out Podcast Oct 2019",
+      "url": "https://the-bitcoin-podcast-network.simplecast.com/episodes/hashing-it-out-63-nano-colin-lemahieu",
+      "section": "group-video-archive"
+    },
+    {
+      "name": "Colin LeMahieu Interviewed on Crypto Finder Sep 2019",
+      "url": "https://www.reddit.com/r/nanocurrency/comments/cykjl3/colin_interviewed_on_cryptofindertv_very_solid/",
+      "section": "group-video-archive"
+    },
+    {
+      "name": "Colin LeMahieu Interviewed on Keyword:Crypto Jun 2020",
+      "url": "https://open.spotify.com/episode/0ONmBDDxSaQZcM3Du1t7wG",
+      "section": "group-video-archive"
+    },
+    {
+      "name": "Colin LeMahieu Interviewed on Chicken Genius Singapore Jun 2021",
+      "url": "https://youtu.be/GHh3UcCiIS0",
+      "section": "group-video-archive"
+    },
+    {
+      "name": "George Coxon Interviewed on That Tech Show Jul 2021",
+      "url": "https://play.acast.com/s/that-tech-show/episode-24-george-coxon",
+      "section": "group-video-archive"
+    },
+    {
+      "name": "Nano review by Coin Bureau Oct 2019",
+      "url": "https://youtu.be/JkoXe6M-59U",
+      "section": "group-video-archive"
+    },
+    {
+      "name": "2021 Nano introduction video by Exodus Wallet",
+      "url": "https://youtu.be/71T_27Za3zk",
+      "section": "group-video-archive"
+    },
+    {
+      "name": "Blockchain Central: Interview with Colin and Andy Oct 2019",
+      "url": "https://youtu.be/rhMGXoWGZfg",
+      "section": "group-video-archive"
+    },
+    {
+      "name": "Patrick Luberus on the “When The Music Stops” podcast",
+      "url": "https://anchor.fm/when-the-music-stops/episodes/Nano--Digital-Cash-w-Patrick-Luberus-e15db6b/a-a6951ck",
+      "section": "group-video-archive"
+    },
+    {
+      "name": "The Perfect Currency - Why Bitcoin Was Created And Why Nano Is Better",
+      "url": "https://youtu.be/iA7EdqAMS3o",
+      "section": "group-video-archive"
+    },
+    {
+      "name": "Everything you need to know about Nano",
+      "url": "https://youtu.be/ywgMlJBli7g",
+      "section": "group-video-archive"
+    },
+    {
+      "name": "Nano simply explained",
+      "url": "https://youtu.be/dlRhUwLQWXc",
+      "section": "group-video-archive"
+    },
+    {
+      "name": "Nano explained (Another deep dive)",
+      "url": "https://youtu.be/1ciokw6ZQvE",
+      "section": "group-video-archive"
+    },
+    {
+      "name": "Nano Development 2014-2018",
+      "url": "https://youtu.be/br8tcS8gcqE",
+      "section": "group-video-archive"
+    },
+    {
+      "name": "Nano Development 2018",
+      "url": "https://www.youtube.com/watch?v=FqLe12zJKEE",
+      "section": "group-video-archive"
+    },
+    {
+      "name": "Why Change Your Nano Representative?",
+      "url": "https://youtu.be/dnOTiixhPrk",
+      "section": "group-video-archive"
+    },
+    {
+      "name": "Guide: Get Free Nano and Share with Anyone with Zero Fees",
+      "url": "https://youtu.be/qSsIXy-NimE",
+      "section": "group-video-archive"
+    },
+    {
+      "name": "Guide: How to buy Nano with Coinbase and Binance",
+      "url": "https://youtu.be/FE5yUT4-UYk",
+      "section": "group-video-archive"
+    },
+    {
+      "name": "NanoBrewed - Beer dispensing for nano",
+      "url": "https://youtu.be/UfLqHz5Ls-g",
+      "section": "group-video-archive"
+    },
+    {
+      "name": "Nano Espresso NFC - Coffee machine accepting Nano payments",
+      "url": "https://youtu.be/3GmhIWZC7hA",
+      "section": "group-video-archive"
+    },
+    {
+      "name": "BlockLattice",
+      "url": "https://blocklattice.io/",
+      "description": "Account and block explorer with recent transactions and network stats",
+      "section": "network-explorers"
+    },
+    {
+      "name": "Nano.community",
+      "url": "https://nano.community/",
+      "description": "News and Learning",
+      "section": "network-explorers"
+    },
+    {
+      "name": "Nanexplorer",
+      "url": "https://nanexplorer.com/nano",
+      "description": "Explorer for accounts, blocks, and representatives across Nano and Banano",
+      "section": "network-explorers"
+    },
+    {
+      "name": "nanoBrowse",
+      "url": "https://nanobrowse.com/",
+      "description": "Lightweight explorer pairing sends with their matching receives",
+      "section": "network-explorers"
+    },
+    {
+      "name": "NanoStandard",
+      "url": "https://nanostandard.info/",
+      "description": "Dashboard tracking transaction volume and adoption metrics over time",
+      "section": "network-explorers"
+    },
+    {
+      "name": "XNO Hub",
+      "url": "https://xnohub.com/",
+      "description": "Network Visualizer",
+      "section": "network-sites"
+    },
+    {
+      "name": "NanoBrowse Votes",
+      "url": "https://votes.nanobrowse.com/",
+      "description": "Vote Visualizer",
+      "section": "network-sites"
+    },
+    {
+      "name": "Live Nano election visualization",
+      "url": "https://nanovisual.numsu.dev/",
+      "section": "network-sites"
+    },
+    {
+      "name": "SomeNano Snow",
+      "url": "https://snow.somenano.com/",
+      "description": "Real-time Snowflakes",
+      "section": "network-sites"
+    },
+    {
+      "name": "SomeNano Magic Eye",
+      "url": "https://magiceye.somenano.com/",
+      "description": "Real-time stereogram",
+      "section": "network-sites"
+    },
+    {
+      "name": "Nano Rockets",
+      "url": "https://anarkrypto.github.io/nanorockets/",
+      "description": "Transaction Visualizer",
+      "section": "network-sites"
+    },
+    {
+      "name": "Nano Charts",
+      "url": "https://nanocharts.info/",
+      "description": "Representative stats",
+      "section": "network-sites"
+    },
+    {
+      "name": "Nano.community",
+      "url": "https://nano.community/representatives",
+      "description": "Representative stats",
+      "section": "network-sites"
+    },
+    {
+      "name": "Nanocurrency Reddit Stats",
+      "url": "https://subredditstats.com/r/nanocurrency",
+      "section": "network-sites"
+    },
+    {
+      "name": "Geographical Node Map",
+      "url": "https://nanomap-061992.web.app/#/dashboard",
+      "section": "network-sites"
+    },
+    {
+      "name": "Nano Hodlers",
+      "url": "https://damiascus.github.io/nanohodlers/",
+      "description": "See registered wallets and their holdings",
+      "section": "network-sites"
+    },
+    {
+      "name": "Nautilus",
+      "url": "https://nautilus.io/",
+      "description": "Mobile wallet (Android, iOS)",
+      "section": "native-wallets"
+    },
+    {
+      "name": "Natrium",
+      "url": "https://natrium.io",
+      "description": "Mobile wallet (Android, iOS)",
+      "section": "native-wallets"
+    },
+    {
+      "name": "Nault",
+      "url": "https://nault.cc/",
+      "description": "Web & desktop wallet",
+      "section": "native-wallets"
+    },
+    {
+      "name": "WeNano",
+      "url": "https://wenano.net/",
+      "description": "Social wallet (iOS, Android)",
+      "section": "native-wallets"
+    },
+    {
+      "name": "Camo Nano",
+      "url": "https://github.com/CamoNano/camonanowallet",
+      "description": "Desktop wallet",
+      "section": "native-wallets"
+    },
+    {
+      "name": "NanChat",
+      "url": "https://nanchat.com/",
+      "description": "Wallet & Chat App (Coming Soon)",
+      "section": "native-wallets"
+    },
+    {
+      "name": "Nano Node Wallet",
+      "url": "https://github.com/nanocurrency/nano-node",
+      "description": "Original node wallet",
+      "section": "dev-wallets"
+    },
+    {
+      "name": "Pippin",
+      "url": "https://github.com/appditto/pippin_nano_wallet",
+      "description": "High-performance Python wallet",
+      "section": "dev-wallets"
+    },
+    {
+      "name": "Cake Wallet",
+      "url": "https://cakewallet.com/",
+      "description": "Mobile & Desktop",
+      "section": "multi-asset-wallets"
+    },
+    {
+      "name": "Stack Wallet",
+      "url": "https://stackwallet.com/",
+      "description": "Mobile & Desktop",
+      "section": "multi-asset-wallets"
+    },
+    {
+      "name": "Arctic Wallet",
+      "url": "https://arcticwallet.io/",
+      "description": "Mobile & Desktop",
+      "section": "multi-asset-wallets"
+    },
+    {
+      "name": "Now Wallet",
+      "url": "https://walletnow.app/",
+      "description": "Mobile & Desktop",
+      "section": "multi-asset-wallets"
+    },
+    {
+      "name": "Trust Wallet",
+      "url": "https://trustwallet.com",
+      "description": "Mobile",
+      "section": "multi-asset-wallets"
+    },
+    {
+      "name": "Guarda",
+      "url": "https://guarda.com",
+      "description": "Desktop, web, mobile, extension",
+      "section": "multi-asset-wallets"
+    },
+    {
+      "name": "NanoPaperWallet.com",
+      "url": "https://nanopaperwallet.com",
+      "description": "Platform for creating Nano paper wallets easily",
+      "section": "address-generators-and-paper-wallets"
+    },
+    {
+      "name": "Paper Wallet",
+      "url": "https://vitorcremonez.github.io/nano-paper-wallet",
+      "description": "(vitorcremonez)",
+      "section": "address-generators-and-paper-wallets"
+    },
+    {
+      "name": "Secure Seed Commands",
+      "url": "https://www.secureseedcommands.com",
+      "description": "How-to guide",
+      "section": "address-generators-and-paper-wallets"
+    },
+    {
+      "name": "Nano Vanity Addresses",
+      "url": "https://nanoaddr.io",
+      "description": "(njakob)",
+      "section": "address-generators-and-paper-wallets"
+    },
+    {
+      "name": "Nano Vanity Addresses",
+      "url": "https://github.com/PlasmaPower/nano-vanity",
+      "description": "(PlasmaPower)",
+      "section": "address-generators-and-paper-wallets"
+    },
+    {
+      "name": "Nano Vanity Addresses",
+      "url": "https://github.com/vitorcremonez/nano-vanity",
+      "description": "(vitorcremonez)",
+      "section": "address-generators-and-paper-wallets"
+    },
+    {
+      "name": "Ledger",
+      "url": "https://www.ledger.com",
+      "description": "Leading hardware wallet",
+      "section": "hardware-wallets"
+    },
+    {
+      "name": "Nano Wallets – Security & Convenience",
+      "url": "https://medium.com/nano-education/how-to-secure-your-cryptocurrency-nano-7a83b194e474",
+      "section": "wallet-and-account-guides"
+    },
+    {
+      "name": "Secure offline transacting",
+      "url": "https://blog.nano.org/how-to-securely-transact-on-the-nano-network-using-an-offline-device-93713d217377",
+      "section": "wallet-and-account-guides"
+    },
+    {
+      "name": "How to use Nault with Ledger",
+      "url": "https://docs.nault.cc/2020/08/04/ledger-guide.html",
+      "section": "wallet-and-account-guides"
+    },
+    {
+      "name": "Ledger recovery phrase transfer",
+      "url": "https://medium.com/nano-education/how-to-transfer-nano-from-a-ledger-nano-recovery-phrase-using-offline-signing-33e5da9ef94b",
+      "section": "wallet-and-account-guides"
+    },
+    {
+      "name": "Create a custom account quickly",
+      "url": "https://blog.nano.org/how-to-create-a-custom-nano-account-at-maximum-speed-cd9be0045ead",
+      "section": "wallet-and-account-guides"
+    },
+    {
+      "name": "XNOPay Faucet",
+      "url": "https://faucet.xnopay.com",
+      "description": "Payment processor and faucet",
+      "section": "faucets-free-nano"
+    },
+    {
+      "name": "WeNano",
+      "url": "https://wenano.net/",
+      "description": "Location-based social wallet with faucet spots",
+      "section": "faucets-free-nano"
+    },
+    {
+      "name": "Nano Drop",
+      "url": "https://nanodrop.io/",
+      "description": "Simple faucet for micro-fractions of nano",
+      "section": "faucets-free-nano"
+    },
+    {
+      "name": "Perseeve Faucet Streaming",
+      "url": "https://web.perseeve.app",
+      "description": "Earn nano by watching streams",
+      "section": "faucets-free-nano"
+    },
+    {
+      "name": "FreeNanoFaucet",
+      "url": "https://freenanofaucet.com/",
+      "description": "Learn about nano while earning small amounts",
+      "section": "faucets-free-nano"
+    },
+    {
+      "name": "Nanswap Faucet",
+      "url": "https://nanswap.com/get-free-nano",
+      "description": "Get small amounts of nano for free",
+      "section": "faucets-free-nano"
+    },
+    {
+      "name": "Prussia Nano Faucet",
+      "url": "https://faucet.prussia.dev/nano",
+      "description": "Simple faucet with address input",
+      "section": "faucets-free-nano"
+    },
+    {
+      "name": "Howdy Little Crypto",
+      "url": "https://howdylittlecrypto.com/faucet/",
+      "description": "Manual payout faucet (0.00005-0.002 XNO)",
+      "section": "faucets-free-nano"
+    },
+    {
+      "name": "XNOXNO Treasure",
+      "url": "https://xnoxno.com/treasure/",
+      "description": "Nano Treasure Hunt game",
+      "section": "faucets-free-nano"
+    },
+    {
+      "name": "NANOFaucet",
+      "url": "https://nano.lol.my.id",
+      "description": "Spin every 45 minutes to earn nano",
+      "section": "faucets-free-nano"
+    },
+    {
+      "name": "BANXNO Faucet",
+      "url": "https://faucet.banxno.com/",
+      "description": "Faucet for both BAN and XNO",
+      "section": "faucets-free-nano"
+    },
+    {
+      "name": "Nano Space Faucet",
+      "url": "https://nanospace.fun/",
+      "description": "Simple faucet, with educational guides for beginners",
+      "section": "faucets-free-nano"
+    },
+    {
+      "name": "CoinMarketCap",
+      "url": "https://coinmarketcap.com/currencies/nano/",
+      "description": "Dominant market cap rankings and charts",
+      "section": "price-trackers"
+    },
+    {
+      "name": "CoinPaprika",
+      "url": "https://coinpaprika.com/coin/xno-nano/",
+      "description": "Detailed exchange volume analytics",
+      "section": "price-trackers"
+    },
+    {
+      "name": "Crypto.com",
+      "url": "https://crypto.com/price/nano",
+      "description": "Clean interface with price alerts",
+      "section": "price-trackers"
+    },
+    {
+      "name": "CoinDataFlow",
+      "url": "https://coindataflow.com/en/currency/nano",
+      "description": "Technical indicators and trade signals",
+      "section": "price-trackers"
+    },
+    {
+      "name": "Coinlore",
+      "url": "https://www.coinlore.com/coin/nano",
+      "description": "Simple circulating supply metrics",
+      "section": "price-trackers"
+    },
+    {
+      "name": "Bitscreener",
+      "url": "https://bitscreener.com/coins/nano",
+      "description": "Portfolio tracking with TA tools",
+      "section": "price-trackers"
+    },
+    {
+      "name": "CoinGecko",
+      "url": "https://www.coingecko.com/en/coins/nano",
+      "description": "Developer activity and community growth",
+      "section": "price-trackers"
+    },
+    {
+      "name": "Coinyep",
+      "url": "https://coinyep.com/",
+      "description": "50+ fiat currency conversions",
+      "section": "converters"
+    },
+    {
+      "name": "WorldCoinIndex",
+      "url": "https://www.worldcoinindex.com/coin/nano",
+      "description": "Reliable price alerts and widgets",
+      "section": "converters"
+    },
+    {
+      "name": "Binance",
+      "url": "https://www.binance.com/en/trade/XNO_USDT",
+      "description": "XNO/USDT • XNO/BTC (KYC)",
+      "section": "major-centralized-exchanges"
+    },
+    {
+      "name": "Binance.US",
+      "url": "https://www.binance.us/en/trade/pro/XNO_USDT",
+      "description": "XNO/USDT (US KYC)",
+      "section": "major-centralized-exchanges"
+    },
+    {
+      "name": "Crypto.com Exchange",
+      "url": "https://crypto.com/exchange/trade/XNO_USDT",
+      "description": "XNO/USDT (KYC)",
+      "section": "major-centralized-exchanges"
+    },
+    {
+      "name": "HTX (Huobi)",
+      "url": "https://www.huobi.com/en-us/exchange/xno_usdt/",
+      "description": "XNO/USDT (KYC)",
+      "section": "major-centralized-exchanges"
+    },
+    {
+      "name": "Kraken",
+      "url": "https://pro.kraken.com/app/trade/NANO-USD",
+      "description": "NANO/USD • NANO/EUR (KYC)",
+      "section": "major-centralized-exchanges"
+    },
+    {
+      "name": "KuCoin",
+      "url": "https://www.kucoin.com/trade/XNO-USDT",
+      "description": "XNO/USDT (KYC for withdrawals)",
+      "section": "major-centralized-exchanges"
+    },
+    {
+      "name": "BingX",
+      "url": "https://www.bingx.com/en-us/spot/XNOUSDT",
+      "description": "XNO/USDT (KYC)",
+      "section": "mid-tier-centralized-exchanges"
+    },
+    {
+      "name": "CoinEx",
+      "url": "https://www.coinex.com/exchange/xno-usdt",
+      "description": "XNO/USDT • XNO/BTC (basic KYC)",
+      "section": "mid-tier-centralized-exchanges"
+    },
+    {
+      "name": "DigiFinex",
+      "url": "https://www.digifinex.com/en-ww/trade/USDT/XNO",
+      "description": "XNO/USDT (KYC)",
+      "section": "mid-tier-centralized-exchanges"
+    },
+    {
+      "name": "HitBTC",
+      "url": "https://hitbtc.com/exchange/XNO-to-USDT",
+      "description": "XNO/USDT • XNO/BTC (KYC to withdraw)",
+      "section": "mid-tier-centralized-exchanges"
+    },
+    {
+      "name": "ProBit Global",
+      "url": "https://www.probit.com/en-us/app/exchange/NANO-USDT",
+      "description": "NANO/USDT (tiered KYC)",
+      "section": "mid-tier-centralized-exchanges"
+    },
+    {
+      "name": "Bybit Perpetual",
+      "url": "https://www.bybit.com/",
+      "description": "XNO/USDT (KYC)",
+      "section": "derivatives-futures-perpetuals"
+    },
+    {
+      "name": "Gate.io Perpetual",
+      "url": "https://www.gate.io/futures/USDT/XNO_USDT",
+      "description": "XNO/USDT (tiered KYC)",
+      "section": "derivatives-futures-perpetuals"
+    },
+    {
+      "name": "MEXC Perpetual",
+      "url": "https://www.mexc.com/futures/XNO_USDT",
+      "description": "XNO/USDT (tiered KYC)",
+      "section": "derivatives-futures-perpetuals"
+    },
+    {
+      "name": "Pionex Perpetual",
+      "url": "https://www.pionex.com/en/futures/XNOUSDT",
+      "description": "XNO/USDT (KYC)",
+      "section": "derivatives-futures-perpetuals"
+    },
+    {
+      "name": "MoonPay",
+      "url": "https://buy.moonpay.com/v2/buy?currencyCode=nano",
+      "description": "Card & Apple Pay (KYC)",
+      "section": "quick-swap-and-instant-buy-services"
+    },
+    {
+      "name": "Nano.Trade",
+      "url": "https://nano.trade/",
+      "description": "Swaps between XNO/BAN/AZERO/MOON/USDC (No KYC)",
+      "section": "quick-swap-and-instant-buy-services"
+    },
+    {
+      "name": "XNOPay",
+      "url": "https://ramp.xnopay.com/",
+      "description": "Swaps Powered by ChangeNow (No KYC)",
+      "section": "quick-swap-and-instant-buy-services"
+    },
+    {
+      "name": "Simplex",
+      "url": "https://buy.simplex.com/",
+      "description": "Card on-ramp (KYC)",
+      "section": "quick-swap-and-instant-buy-services"
+    },
+    {
+      "name": "ChangeHero",
+      "url": "https://changehero.io/coins/nano",
+      "description": "Account-free Swap",
+      "section": "quick-swap-and-instant-buy-services"
+    },
+    {
+      "name": "ChangeNOW",
+      "url": "https://changenow.io/exchange/nano",
+      "description": "No account; ≤ €5k (No KYC)",
+      "section": "quick-swap-and-instant-buy-services"
+    },
+    {
+      "name": "Changelly",
+      "url": "https://changelly.com/exchange/xno",
+      "description": "No KYC under risk limits",
+      "section": "quick-swap-and-instant-buy-services"
+    },
+    {
+      "name": "CypherGoat",
+      "url": "https://cyphergoat.com/",
+      "description": "Open Source Swap Aggregator",
+      "section": "quick-swap-and-instant-buy-services"
+    },
+    {
+      "name": "EasyBit",
+      "url": "https://easybit.com/en",
+      "description": "Fast swap ≤ 1 k USD (No KYC)",
+      "section": "quick-swap-and-instant-buy-services"
+    },
+    {
+      "name": "EIDEX",
+      "url": "https://eidex.io/screener/xno-nano-to-btc-btc",
+      "description": "Swap Route Screener (No Account)",
+      "section": "quick-swap-and-instant-buy-services"
+    },
+    {
+      "name": "Exchang.io",
+      "url": "https://exchang.io/",
+      "description": "Instant Swaps (No KYC)",
+      "section": "quick-swap-and-instant-buy-services"
+    },
+    {
+      "name": "Guardarian",
+      "url": "https://guardarian.com/",
+      "description": "Card / SEPA buy (KYC)",
+      "section": "quick-swap-and-instant-buy-services"
+    },
+    {
+      "name": "LetsExchange",
+      "url": "https://letsexchange.io/",
+      "description": "No KYC",
+      "section": "quick-swap-and-instant-buy-services"
+    },
+    {
+      "name": "Nanswap",
+      "url": "https://nanswap.com",
+      "description": "On-chain XNO swaps (No KYC)",
+      "section": "quick-swap-and-instant-buy-services"
+    },
+    {
+      "name": "RocketX",
+      "url": "https://app.rocketx.exchange/swap?to=XNO",
+      "description": "Cross-chain bridge (No KYC)",
+      "section": "quick-swap-and-instant-buy-services"
+    },
+    {
+      "name": "SimpleSwap",
+      "url": "https://simpleswap.io/coins/xno",
+      "description": "Account-free swap",
+      "section": "quick-swap-and-instant-buy-services"
+    },
+    {
+      "name": "StealthEX",
+      "url": "https://stealthex.io/?to=xno",
+      "description": "Account-free swap",
+      "section": "quick-swap-and-instant-buy-services"
+    },
+    {
+      "name": "SwapSpace",
+      "url": "https://swapspace.co/?from=btc&to=xno",
+      "description": "Rate aggregator",
+      "section": "quick-swap-and-instant-buy-services"
+    },
+    {
+      "name": "Swapzone",
+      "url": "https://swapzone.io/exchange/nano",
+      "description": "Rate aggregator",
+      "section": "quick-swap-and-instant-buy-services"
+    },
+    {
+      "name": "SwapSwop",
+      "url": "https://swapswop.io",
+      "description": "No-signup swap (No KYC)",
+      "section": "quick-swap-and-instant-buy-services"
+    },
+    {
+      "name": "Uphold",
+      "url": "https://uphold.com/en-us/prices/crypto/nano-price",
+      "description": "Multi-fiat buy/sell (Full KYC)",
+      "section": "quick-swap-and-instant-buy-services"
+    },
+    {
+      "name": "FinchPay Widget",
+      "url": "https://widget.finchpay.io/?a=30&p=EUR&c=NANO",
+      "description": "Card buy XNO (KYC)",
+      "section": "quick-swap-and-instant-buy-services"
+    },
+    {
+      "name": "Wirex",
+      "url": "https://wirexapp.com/",
+      "description": "Multi-fiat wallet; buy XNO (KYC)",
+      "section": "quick-swap-and-instant-buy-services"
+    },
+    {
+      "name": "XGo",
+      "url": "https://xgo.com/app/asset/XNO",
+      "description": "Buy / swap XNO (KYC)",
+      "section": "quick-swap-and-instant-buy-services"
+    },
+    {
+      "name": "CoinSpot",
+      "url": "https://www.coinspot.com.au/buy/xrb",
+      "description": "XNO/AUD (AU KYC)",
+      "section": "group-australia-and-new-zealand"
+    },
+    {
+      "name": "Digital Surge",
+      "url": "https://digitalsurge.com.au/buy/xno/",
+      "description": "XNO/AUD (AU KYC)",
+      "section": "group-australia-and-new-zealand"
+    },
+    {
+      "name": "Easy Crypto",
+      "url": "https://easycrypto.com/au/buy/nano",
+      "description": "AUD / NZD / ZAR buy-sell (KYC)",
+      "section": "group-australia-and-new-zealand"
+    },
+    {
+      "name": "Swyftx",
+      "url": "https://swyftx.com/au/buy/nano/",
+      "description": "XNO/AUD (AU KYC)",
+      "section": "group-australia-and-new-zealand"
+    },
+    {
+      "name": "CoinDCX",
+      "url": "https://coindcx.com/trade/XNOUSDT",
+      "description": "XNO/USDT • XNO/BTC (IN KYC)",
+      "section": "group-india"
+    },
+    {
+      "name": "KoinBX",
+      "url": "https://koinbx.com/trade/XNO-INR",
+      "description": "XNO/INR (IN KYC)",
+      "section": "group-india"
+    },
+    {
+      "name": "Onramp.money",
+      "url": "https://onramp.money/",
+      "description": "Multi-fiat on/off-ramp (KYC)",
+      "section": "group-india"
+    },
+    {
+      "name": "WazirX",
+      "url": "https://wazirx.com/exchange/xno-inr",
+      "description": "XNO/INR (IN KYC)",
+      "section": "group-india"
+    },
+    {
+      "name": "BTC Direct",
+      "url": "https://btcdirect.eu/nl-nl/nano-kopen-1",
+      "description": "NANO/EUR Broker (NL KYC)",
+      "section": "group-europe"
+    },
+    {
+      "name": "Coinmerce",
+      "url": "https://coinmerce.io/en/nano/",
+      "description": "NANO/EUR (NL KYC)",
+      "section": "group-europe"
+    },
+    {
+      "name": "Bit2Me",
+      "url": "https://bit2me.com/buy-nano",
+      "description": "XNO/EUR (ES KYC)",
+      "section": "group-europe"
+    },
+    {
+      "name": "Tokocrypto",
+      "url": "https://www.tokocrypto.com/en/trade/XNO_USDT",
+      "description": "XNO/USDT (ID KYC)",
+      "section": "group-indonesia"
+    },
+    {
+      "name": "Bitexen",
+      "url": "https://www.bitexen.com/en/xno-try",
+      "description": "XNO/TRY (TR KYC)",
+      "section": "group-turkey"
+    },
+    {
+      "name": "BitTurk",
+      "url": "https://bitturk.com/nano-nanotry",
+      "description": "NANO/TRY (TR KYC)",
+      "section": "group-turkey"
+    },
+    {
+      "name": "Coinhako",
+      "url": "https://www.coinhako.com/coins/XNO/SGD",
+      "description": "XNO/SGD (SG KYC)",
+      "section": "group-singapore"
+    },
+    {
+      "name": "Nanswap",
+      "url": "https://nanswap.com/shop",
+      "description": "Buy Gift Cards with nano",
+      "section": "services"
+    },
+    {
+      "name": "BitRefill",
+      "url": "https://www.bitrefill.com/",
+      "description": "More Gift Cards",
+      "section": "services"
+    },
+    {
+      "name": "PlayNANO",
+      "url": "https://playnano.online/gift-cards",
+      "description": "More Gift Cards",
+      "section": "services"
+    },
+    {
+      "name": "CardStorm",
+      "url": "https://cardstorm.io/",
+      "description": "More Gift Cards",
+      "section": "services"
+    },
+    {
+      "name": "Travala",
+      "url": "https://www.travala.com/",
+      "description": "Book Flights and Hotels with Nano",
+      "section": "services"
+    },
+    {
+      "name": "Sleap",
+      "url": "https://sleap.io/",
+      "description": "Book Flights and Hotels with Nano",
+      "section": "services"
+    },
+    {
+      "name": "XNOVerse",
+      "url": "https://xnoverse.com/",
+      "description": "Pay-per-article",
+      "section": "services"
+    },
+    {
+      "name": "Subnano",
+      "url": "https://subnano.me/",
+      "description": "Pay-per-article",
+      "section": "services"
+    },
+    {
+      "name": "Benture",
+      "url": "https://benture.io/",
+      "description": "Remote Jobs, Paid in XNO",
+      "section": "services"
+    },
+    {
+      "name": "Nanowall.link",
+      "url": "https://nanowall.link/",
+      "description": "Content Monetizer",
+      "section": "services"
+    },
+    {
+      "name": "Nagora",
+      "url": "https://nagora.shop/",
+      "description": "Marketplace for buying and selling items with Nano",
+      "section": "services"
+    },
+    {
+      "name": "Nano Market",
+      "url": "https://market.nanoriver.io/",
+      "description": "Buy and Sell items using Nano",
+      "section": "services"
+    },
+    {
+      "name": "Upstart",
+      "url": "https://upst-art.net/",
+      "description": "Content Hosting",
+      "section": "services"
+    },
+    {
+      "name": "NanoGPT",
+      "url": "https://nano-gpt.com/",
+      "description": "Pay Per Prompt for a wide variety of AI models",
+      "section": "services"
+    },
+    {
+      "name": "LongStories.ai",
+      "url": "https://longstories.ai/",
+      "description": "Create animated short movies using Nano credits",
+      "section": "services"
+    },
+    {
+      "name": "AI Nano Music",
+      "url": "https://ainanomusic.com/",
+      "description": "AI music contest platform powered by Nano",
+      "section": "services"
+    },
+    {
+      "name": "Nano AI",
+      "url": "https://xnoapp.onrender.com/",
+      "description": "Access advanced reasoning engines via Nano micro‑transactions, no subscriptions",
+      "section": "services"
+    },
+    {
+      "name": "Nanogrove",
+      "url": "https://nanogrove.org/",
+      "description": "Send Nano to feed plants and animals",
+      "section": "services"
+    },
+    {
+      "name": "Clean Web MVP",
+      "url": "https://github.com/kamina2025/clean-web-mvp",
+      "description": "Micropayment suite for media content with a built-in browser wallet",
+      "section": "services"
+    },
+    {
+      "name": "P2PoW",
+      "url": "https://github.com/anarkrypto/P2PoW",
+      "description": "Decentralized Work",
+      "section": "earn-nano"
+    },
+    {
+      "name": "Polyrun",
+      "url": "https://polyrun.app/",
+      "description": "Fitness Rewards",
+      "section": "earn-nano"
+    },
+    {
+      "name": "PlayNANO",
+      "url": "https://playnano.online/offerwalls",
+      "description": "Task & Video Offers",
+      "section": "earn-nano"
+    },
+    {
+      "name": "TipNano",
+      "url": "https://play.google.com/store/apps/details?id=com.bdf.tipnano",
+      "description": "Play games, watch ads, and earn Nano",
+      "section": "earn-nano"
+    },
+    {
+      "name": "PRISM",
+      "url": "https://zealy.io/cw/prismgroup/questboard",
+      "description": "Complete social tasks for small Nano rewards",
+      "section": "earn-nano"
+    },
+    {
+      "name": "NanoGPT",
+      "url": "https://nano-gpt.com/invitations",
+      "description": "Refer users and earn Nano from revenue share",
+      "section": "earn-nano"
+    },
+    {
+      "name": "Nanswap mining",
+      "url": "https://nanswap.com/mining/nano",
+      "description": "Earn Nano by mining with your CPU",
+      "section": "earn-nano"
+    },
+    {
+      "name": "Subnano",
+      "url": "https://subnano.me/",
+      "description": "Create paywalled blog posts and earn Nano",
+      "section": "earn-nano"
+    },
+    {
+      "name": "Unmineable",
+      "url": "https://unmineable.com/",
+      "description": "Mine various cryptos and get paid in Nano",
+      "section": "earn-nano"
+    },
+    {
+      "name": "KarmaCall",
+      "url": "https://www.karmacall.com/",
+      "description": "Block scam calls and earn Nano",
+      "section": "earn-nano"
+    },
+    {
+      "name": "NanoDrops",
+      "url": "https://nanodrops.org/",
+      "description": "Earn Nano by watching Twitch and Kick streams",
+      "section": "earn-nano"
+    },
+    {
+      "name": "CryptoVision",
+      "url": "https://cryptovision.live/",
+      "description": "Watch videos and get paid Nano",
+      "section": "earn-nano"
+    },
+    {
+      "name": "WeNano",
+      "url": "https://wenano.net/",
+      "description": "Collect Nano from geo-located spots worldwide",
+      "section": "earn-nano"
+    },
+    {
+      "name": "LuckyNano",
+      "url": "https://luckynano.com/",
+      "description": "Gambling",
+      "section": "gambling-betting"
+    },
+    {
+      "name": "NanBet",
+      "url": "https://nanbet.io/",
+      "description": "Rock, Paper, Scissors",
+      "section": "gambling-betting"
+    },
+    {
+      "name": "PlayNANO",
+      "url": "https://playnano.online/roulette",
+      "description": "Provably Fair Roulette",
+      "section": "gambling-betting"
+    },
+    {
+      "name": "Pasino",
+      "url": "https://pasino.com/",
+      "description": "Social Gambling Platform",
+      "section": "gambling-betting"
+    },
+    {
+      "name": "DuckHunk",
+      "url": "https://xnoverse.com/demos/duckhunk/",
+      "description": "DuckHunt Game",
+      "section": "gambling-betting"
+    },
+    {
+      "name": "Nanogotchi",
+      "url": "https://nanogotchi.com/",
+      "description": "Help your Own Nanogotchi Pet Grow",
+      "section": "games"
+    },
+    {
+      "name": "XNOXNO Treasure",
+      "url": "https://xnoxno.com/treasure/",
+      "description": "Treasure Hunt Faucet",
+      "section": "games"
+    },
+    {
+      "name": "NanoQuake",
+      "url": "https://github.com/Nanoquake/yquake2",
+      "description": "Quake II Multiplayer",
+      "section": "games"
+    },
+    {
+      "name": "Just Cause 2",
+      "url": "https://jc2rp.world/play/",
+      "description": "Explore the world of Just Cause 2 and Collect Nano",
+      "section": "games"
+    },
+    {
+      "name": "The Adventures of Nano",
+      "url": "https://prohyon.itch.io/the-adventures-of-nano-demo",
+      "description": "Browser platformer demo with a Nano donation address",
+      "section": "games"
+    },
+    {
+      "name": "Raesonic",
+      "url": "https://raesonic.com/",
+      "description": "In-game Purchases",
+      "section": "games"
+    },
+    {
+      "name": "PlayNANO",
+      "url": "https://playnano.online/jumper",
+      "description": "Jumper Game",
+      "section": "games"
+    },
+    {
+      "name": "Skyrun",
+      "url": "https://deanobones.github.io/Skyrun/",
+      "description": "Endless Runner",
+      "section": "games"
+    },
+    {
+      "name": "Luis Astroids",
+      "url": "https://luis-garcia-remes.itch.io/nano-visualizer",
+      "description": "Transaction Shooter",
+      "section": "games"
+    },
+    {
+      "name": "Aurora Seekers",
+      "url": "https://xno-aurora.space/",
+      "description": "Rhythm adventure game",
+      "section": "games"
+    },
+    {
+      "name": "Fishing Frenzy",
+      "url": "https://xno-fishing.space/",
+      "description": "Real-time multiplayer fishing",
+      "section": "games"
+    },
+    {
+      "name": "PixelVerse",
+      "url": "https://xnoverse.com/pixelverse/",
+      "description": "Pay Per Pixel",
+      "section": "video-music-art"
+    },
+    {
+      "name": "Million Nano Homepage",
+      "url": "https://millionnanohomepage.com/",
+      "description": "Pay Per Pixel",
+      "section": "video-music-art"
+    },
+    {
+      "name": "Nano Source Code",
+      "url": "https://github.com/nanocurrency",
+      "description": "Official GitHub repositories",
+      "section": "core-development"
+    },
+    {
+      "name": "Node Milestones",
+      "url": "https://github.com/nanocurrency/nano-node/milestones",
+      "description": "Development roadmap",
+      "section": "core-development"
+    },
+    {
+      "name": "Docker Repo",
+      "url": "https://hub.docker.com/u/nanocurrency/",
+      "description": "Containerized Nano nodes",
+      "section": "core-development"
+    },
+    {
+      "name": "Nault (source)",
+      "url": "https://github.com/Nault/Nault",
+      "description": "Web/desktop wallet",
+      "section": "wallets-source-code"
+    },
+    {
+      "name": "Nautilus (source)",
+      "url": "https://github.com/perishllc/nautilus",
+      "description": "Mobile wallet",
+      "section": "wallets-source-code"
+    },
+    {
+      "name": "Natrium (source)",
+      "url": "https://github.com/appditto/natrium_wallet_flutter",
+      "description": "Mobile wallet",
+      "section": "wallets-source-code"
+    },
+    {
+      "name": "Pippin",
+      "url": "https://github.com/appditto/pippin_nano_wallet",
+      "description": "High-performance Python wallet",
+      "section": "wallets-source-code"
+    },
+    {
+      "name": "Atto",
+      "url": "https://github.com/codesoap/atto",
+      "description": "Minimalist CLI wallet",
+      "section": "wallets-source-code"
+    },
+    {
+      "name": "Kaiak",
+      "url": "https://github.com/Kaiak/kaiak-wallet",
+      "description": "KaiOS wallet",
+      "section": "wallets-source-code"
+    },
+    {
+      "name": "nanoKeyManager",
+      "url": "https://github.com/Tumbler/nanoKeyManager",
+      "description": "Tool for wallet creation and key management",
+      "section": "wallets-source-code"
+    },
+    {
+      "name": "GoNano (GUI wallet)",
+      "url": "https://github.com/hectorchu/gonano-gui",
+      "description": "Graphical interface for the GoNano wallet",
+      "section": "wallets-source-code"
+    },
+    {
+      "name": "GoNano (CLI wallet)",
+      "url": "https://github.com/hectorchu/gonano",
+      "description": "Go language support for Nano, with a command-line wallet",
+      "section": "wallets-source-code"
+    },
+    {
+      "name": "Nano Node Wallet",
+      "url": "https://github.com/nanocurrency/nano-node",
+      "description": "Original node wallet",
+      "section": "wallets-source-code"
+    },
+    {
+      "name": "Canoe",
+      "url": "https://github.com/getcanoe/canoe",
+      "description": "Mobile wallet",
+      "section": "wallets-source-code"
+    },
+    {
+      "name": "TIX",
+      "url": "https://github.com/Joohansson/nano-wallet",
+      "description": "Forked Linux web wallet, rebranded for the main network",
+      "section": "wallets-source-code"
+    },
+    {
+      "name": "Nanollet",
+      "url": "https://github.com/brokenbydefault/Nanollet",
+      "description": "Ultra-light wallet written in Go",
+      "section": "wallets-source-code"
+    },
+    {
+      "name": "Nanoblocks",
+      "url": "https://github.com/nebyark/nano-blocks",
+      "description": "iOS light wallet written purely in Swift",
+      "section": "wallets-source-code"
+    },
+    {
+      "name": "Nanonymous",
+      "url": "https://github.com/LilleJohs/Nanonymous",
+      "description": "Proof of concept privacy-focused wallet for Android",
+      "section": "wallets-source-code"
+    },
+    {
+      "name": "Nano Light Wallet (NodeJS)",
+      "url": "https://github.com/NanoDevs/NanoLightWallet",
+      "description": "Light wallet written in NodeJS (RaiBlocks era)",
+      "section": "wallets-source-code"
+    },
+    {
+      "name": "Nano Light Wallet",
+      "url": "https://github.com/numtel/open-nano-wallet",
+      "description": "Light wallet from the RaiBlocks era",
+      "section": "wallets-source-code"
+    },
+    {
+      "name": "Nano Gift",
+      "url": "https://github.com/Joohansson/nanogift",
+      "description": "Gift-card & paper-wallet generator",
+      "section": "wallets-source-code"
+    },
+    {
+      "name": "Nano Paper Wallet 1",
+      "url": "https://github.com/vitorcremonez/nano-paper-wallet",
+      "description": "Client-side paper wallet generator",
+      "section": "wallets-source-code"
+    },
+    {
+      "name": "Nano Paper Wallet 2",
+      "url": "https://github.com/jelofsson/nano-paper-wallet",
+      "description": "Paper wallet generator for Nano",
+      "section": "wallets-source-code"
+    },
+    {
+      "name": "Encrypted Paper Wallet",
+      "url": "https://github.com/igorcmelo/enc-paper-wallet",
+      "description": "Paper wallet generator with an encrypted seed",
+      "section": "wallets-source-code"
+    },
+    {
+      "name": "Telegram Wallet Bot",
+      "url": "https://github.com/SergiySW/NanoWalletBot",
+      "description": "Telegram wallet bot (discontinued)",
+      "section": "wallets-source-code"
+    },
+    {
+      "name": "Siliqua",
+      "url": "https://github.com/Matoking/siliqua",
+      "description": "Modular wallet",
+      "section": "wallets-source-code"
+    },
+    {
+      "name": "Rai-wallet",
+      "url": "https://github.com/chriscohoat/rai-wallet",
+      "description": "Ciphered wallets",
+      "section": "wallets-source-code"
+    },
+    {
+      "name": "OpenWallet",
+      "url": "https://openwallet.sh/",
+      "description": "Open standard that unites AI agents with Nano wallets",
+      "section": "wallets-source-code"
+    },
+    {
+      "name": "nano.to",
+      "url": "https://nano.to/",
+      "description": "Payment link API",
+      "section": "apis-and-payment-tools"
+    },
+    {
+      "name": "RPC – Nano.to",
+      "url": "https://rpc.nano.to/",
+      "description": "Enhanced node API",
+      "section": "apis-and-payment-tools"
+    },
+    {
+      "name": "Accept Nano",
+      "url": "https://accept-nano.com",
+      "description": "Payment gateway",
+      "section": "apis-and-payment-tools"
+    },
+    {
+      "name": "Coinify SDK",
+      "url": "https://developer.coinify.com/apidoc/merchant/",
+      "description": "Merchant API documentation for Coinify payment integration",
+      "section": "apis-and-payment-tools"
+    },
+    {
+      "name": "nano.lol IFTTT",
+      "url": "https://ifttt.com/nano_lol",
+      "description": "Web service to monitor transactions, build projects using Nano RPC/WebSockets",
+      "section": "apis-and-payment-tools"
+    },
+    {
+      "name": "NanoTwitchBot",
+      "url": "https://github.com/bhickenbottom/NanoTwitchBot",
+      "description": "Twitch chat bot for Nano tipping",
+      "section": "apis-and-payment-tools"
+    },
+    {
+      "name": "Nanobot",
+      "url": "https://nanobot.app/",
+      "description": "Twitch donations",
+      "section": "apis-and-payment-tools"
+    },
+    {
+      "name": "ApolloNano YouTube Tipper",
+      "url": "https://github.com/ApolloNano/youtube-tipper",
+      "description": "Tip YouTube creators in Nano",
+      "section": "apis-and-payment-tools"
+    },
+    {
+      "name": "NANOPAY (besoeasy)",
+      "url": "https://github.com/besoeasy/nanopay",
+      "description": "Open-source API",
+      "section": "apis-and-payment-tools"
+    },
+    {
+      "name": "Nano Callback System",
+      "url": "https://github.com/jamescoxon/Nano_Callback_System",
+      "description": "Receives node callbacks and forwards transaction events",
+      "section": "apis-and-payment-tools"
+    },
+    {
+      "name": "NanoOnTap",
+      "url": "https://github.com/silverstar194/NanoOnTap",
+      "description": "Nano payment integration toolkit",
+      "section": "apis-and-payment-tools"
+    },
+    {
+      "name": "Nandro",
+      "url": "https://github.com/JerzyStanislawski/Nandro",
+      "description": "PoS with NFC",
+      "section": "apis-and-payment-tools"
+    },
+    {
+      "name": "NanoAuth",
+      "url": "https://www.nanoauth.app/#/",
+      "description": "Authentication service",
+      "section": "apis-and-payment-tools"
+    },
+    {
+      "name": "NanoGPTJS",
+      "url": "https://github.com/kilkelly/nanogptjs",
+      "description": "JavaScript library to interact with NanoGPT for pay-per-prompt AI",
+      "section": "apis-and-payment-tools"
+    },
+    {
+      "name": "Nano Currency MCP Server",
+      "url": "https://github.com/kilkelly/nano-currency-mcp-server",
+      "description": "MCP server enabling AI agents to send Nano and retrieve account info",
+      "section": "apis-and-payment-tools"
+    },
+    {
+      "name": "MCP (Nano) Server",
+      "url": "https://github.com/dhyabi2/NANO_MCP_SERVER",
+      "description": "MCP server to create wallets, check balance, send/receive Nano",
+      "section": "apis-and-payment-tools"
+    },
+    {
+      "name": "x402nano (source)",
+      "url": "https://github.com/x402nano",
+      "description": "Developer resources for integrating Nano payments over x402 protocol",
+      "section": "apis-and-payment-tools"
+    },
+    {
+      "name": "Ӿ402Nano.org",
+      "url": "https://www.x402nano.org/",
+      "description": "Feeless x402 facilitator for Nano, no login required",
+      "section": "apis-and-payment-tools"
+    },
+    {
+      "name": "Feeless402",
+      "url": "https://feeless402.com",
+      "description": "Feeless x402 payments in Nano, plus a faucet giving agents their first XNO",
+      "section": "apis-and-payment-tools"
+    },
+    {
+      "name": "Feeless402 (source)",
+      "url": "https://github.com/Feeless402/feeless402",
+      "description": "Feeless rail for the x402 agent economy",
+      "section": "apis-and-payment-tools"
+    },
+    {
+      "name": "NanoGate",
+      "url": "https://nanogate.run/",
+      "description": "Nano gateway on the Internet Computer, enabling ICP canisters to query Nano accounts and send transactions",
+      "section": "apis-and-payment-tools"
+    },
+    {
+      "name": "Nano Node Monitor",
+      "url": "https://github.com/NanoTools/nanoNodeMonitor",
+      "description": "Node monitoring tool",
+      "section": "node-tools-and-applications"
+    },
+    {
+      "name": "Nano Node Graphics",
+      "url": "https://github.com/Joohansson/NanoNodeGraphics",
+      "description": "Realtime node charts",
+      "section": "node-tools-and-applications"
+    },
+    {
+      "name": "Easy Nano Node",
+      "url": "https://nanotools.github.io/easy-nano-node/",
+      "description": "Simplified node setup",
+      "section": "node-tools-and-applications"
+    },
+    {
+      "name": "Nano Node Docker",
+      "url": "https://github.com/lephleg/nano-node-docker",
+      "description": "Docker container setup",
+      "section": "node-tools-and-applications"
+    },
+    {
+      "name": "Nano RPC Proxy",
+      "url": "https://github.com/joohansson/nanorpcproxy",
+      "description": "Secure node communication",
+      "section": "node-tools-and-applications"
+    },
+    {
+      "name": "Betsy",
+      "url": "https://github.com/bbedward/betsy-middleware",
+      "description": "Distributed PoW middleware",
+      "section": "node-tools-and-applications"
+    },
+    {
+      "name": "TheCryptoUmbrella",
+      "url": "https://github.com/TheCryptoUmbrella/nano-node-monitor",
+      "description": "Node Monitor",
+      "section": "node-tools-and-applications"
+    },
+    {
+      "name": "Nano Connect",
+      "url": "https://github.com/brendena/NanoConnect",
+      "description": "Distributed RPC proxy",
+      "section": "node-tools-and-applications"
+    },
+    {
+      "name": "Noxy",
+      "url": "https://github.com/BitDesert/Noxy",
+      "description": "Simple RPC proxy",
+      "section": "node-tools-and-applications"
+    },
+    {
+      "name": "Lightweight Nano RPC Proxy",
+      "url": "https://github.com/Shryder/LightweightNanoRPCProxy",
+      "description": "Limits allowed RPC actions and adds rate limiting and logging",
+      "section": "node-tools-and-applications"
+    },
+    {
+      "name": "Nano Shell",
+      "url": "https://github.com/VenKamikaze/nano-shell",
+      "description": "Bash wrapper",
+      "section": "node-tools-and-applications"
+    },
+    {
+      "name": "LinuxServer.io Nano Stack Guide",
+      "url": "https://blog.linuxserver.io/2020/05/31/deploying-your-own-crypto/",
+      "description": "Guide to deploying a self-hosted Nano node stack",
+      "section": "node-tools-and-applications"
+    },
+    {
+      "name": "nano.lol IFTTT",
+      "url": "https://ifttt.com/nano_lol",
+      "description": "Web service to monitor transactions, build projects using Nano RPC/WebSockets",
+      "section": "node-tools-and-applications"
+    },
+    {
+      "name": "Armour Hosting",
+      "url": "https://armour-hosting.com/",
+      "description": "Hosted Nodes",
+      "section": "node-access-and-services"
+    },
+    {
+      "name": "NOWNodes",
+      "url": "https://nownodes.io/",
+      "description": "Hosted API",
+      "section": "node-access-and-services"
+    },
+    {
+      "name": "Nanswap Nodes",
+      "url": "https://nanswap.com/nodes",
+      "description": "Hosted node API with RPC, WebSocket, and work server; free tier",
+      "section": "node-access-and-services"
+    },
+    {
+      "name": "Nano.casa",
+      "url": "https://nano.casa/",
+      "description": "Development tracker",
+      "section": "node-access-and-services"
+    },
+    {
+      "name": "Madora",
+      "url": "https://madora.io/",
+      "description": "Game payment services",
+      "section": "node-access-and-services"
+    },
+    {
+      "name": "Nano Work Server",
+      "url": "https://github.com/nanocurrency/nano-work-server",
+      "description": "Dedicated PoW generation",
+      "section": "pow-and-work-generation"
+    },
+    {
+      "name": "Work Cache",
+      "url": "https://github.com/optout21/nano-work-cache",
+      "description": "Go work generation proxy and cache for light clients",
+      "section": "pow-and-work-generation"
+    },
+    {
+      "name": "PoW Benchmark Tool",
+      "url": "https://github.com/koczadly/nano-pow-benchmark",
+      "description": "Benchmarks Blake2b work generation on OpenCL devices",
+      "section": "pow-and-work-generation"
+    },
+    {
+      "name": "NanoPow",
+      "url": "https://www.npmjs.com/package/nano-pow",
+      "description": "Client-side work generation with WebGPU, WebGL, and WASM fallbacks",
+      "section": "pow-and-work-generation"
+    },
+    {
+      "name": "nanopow-rs-node",
+      "url": "https://github.com/termhn/nanopow-rs-node",
+      "description": "Node.js bindings for the Rust nanopow library",
+      "section": "pow-and-work-generation"
+    },
+    {
+      "name": "NanoPoW (Go)",
+      "url": "https://github.com/serdaroquai/nanopow",
+      "description": "Go work generation built on the blake2b crypto package",
+      "section": "pow-and-work-generation"
+    },
+    {
+      "name": "Distributed PoW (dPoW)",
+      "url": "https://github.com/guilhermelawless/nano-dpow",
+      "description": "Client & server",
+      "section": "pow-and-work-generation"
+    },
+    {
+      "name": "Node RaiBlocks PoW",
+      "url": "https://github.com/numtel/node-raiblocks-pow",
+      "description": "Native C module for Node.js work generation",
+      "section": "pow-and-work-generation"
+    },
+    {
+      "name": "Nano WebGL PoW",
+      "url": "https://github.com/numtel/nano-webgl-pow",
+      "description": "GPU work generation via a WebGL2 Blake2b shader",
+      "section": "pow-and-work-generation"
+    },
+    {
+      "name": "WebAssembly PoW",
+      "url": "https://github.com/jaimehgb/RaiBlocksWebAssemblyPoW",
+      "description": "CPU",
+      "section": "pow-and-work-generation"
+    },
+    {
+      "name": "BlockLattice",
+      "url": "https://blocklattice.io/",
+      "description": "Account and block explorer with recent transactions and network stats",
+      "section": "explorers-and-network-metrics"
+    },
+    {
+      "name": "Nanexplorer",
+      "url": "https://nanexplorer.com/nano",
+      "description": "Explorer for accounts, blocks, and representatives across Nano and Banano",
+      "section": "explorers-and-network-metrics"
+    },
+    {
+      "name": "nanoBrowse",
+      "url": "https://nanobrowse.com/",
+      "description": "Lightweight explorer pairing sends with their matching receives",
+      "section": "explorers-and-network-metrics"
+    },
+    {
+      "name": "Nano Charts",
+      "url": "https://nanocharts.info/",
+      "description": "Representative and decentralisation statistics for the Nano network",
+      "section": "explorers-and-network-metrics"
+    },
+    {
+      "name": "NanoTicker",
+      "url": "https://nanoticker.org/representatives",
+      "description": "Representative list with ratings to help you choose one",
+      "section": "explorers-and-network-metrics"
+    },
+    {
+      "name": "Nanospeed",
+      "url": "https://nanospeed.info",
+      "description": "Monitors confirmation times and CPS/BPS statistics on the network",
+      "section": "explorers-and-network-metrics"
+    },
+    {
+      "name": "NanoStandard",
+      "url": "https://nanostandard.info/",
+      "description": "Dashboard tracking transaction volume and adoption metrics over time",
+      "section": "explorers-and-network-metrics"
+    },
+    {
+      "name": "Nanocrawler (source)",
+      "url": "https://github.com/meltingice/nanocrawler",
+      "description": "Nano block explorer, self-hostable",
+      "section": "explorers-and-network-metrics"
+    },
+    {
+      "name": "NanoLooker (source)",
+      "url": "https://github.com/running-coder/nanolooker",
+      "description": "Nano explorer with market data and node stats",
+      "section": "explorers-and-network-metrics"
+    },
+    {
+      "name": "Nano Vote Visualiser (Numsu)",
+      "url": "https://github.com/numsu/nano-vote-visualizer",
+      "description": "Graphs live network elections and confirmations, live at nanovisual.numsu.dev",
+      "section": "explorers-and-network-metrics"
+    },
+    {
+      "name": "Nano Vote Visualiser (JSON fork)",
+      "url": "https://github.com/Joohansson/nano-vote-visualizer",
+      "description": "Fork of the Numsu election and confirmation visualiser",
+      "section": "explorers-and-network-metrics"
+    },
+    {
+      "name": "Nano Election Visualiser",
+      "url": "https://github.com/jamescoxon/Nano_Election_Visualiser",
+      "description": "Flask app behind the confirmation view at nanostatus.live",
+      "section": "explorers-and-network-metrics"
+    },
+    {
+      "name": "Nano Bucket Visualiser",
+      "url": "https://github.com/jamescoxon/Nano_Bucket_Visualizer",
+      "description": "Flask app visualising prioritisation buckets, with RPC caching",
+      "section": "explorers-and-network-metrics"
+    },
+    {
+      "name": "Unity Plugin",
+      "url": "https://github.com/wezrule/unitynanoplugin",
+      "description": "Nano payments integration for the Unity engine",
+      "section": "game-engine-integration"
+    },
+    {
+      "name": "Unreal Engine 4 Plugin",
+      "url": "https://github.com/wezrule/UE4NanoPlugin",
+      "description": "Nano payments integration for Unreal Engine 4",
+      "section": "game-engine-integration"
+    },
+    {
+      "name": "Godot Nano Module",
+      "url": "https://github.com/Madora-io/nano-godot-module",
+      "description": "Nano integration module for the Godot game engine",
+      "section": "game-engine-integration"
+    },
+    {
+      "name": "NanoRpcSharp",
+      "url": "https://github.com/justdmitry/NanoRpcSharp",
+      "description": "RPC client library for Nano",
+      "section": "group-c-net"
+    },
+    {
+      "name": "Nano.Net",
+      "url": "https://github.com/miguel1117/Nano.Net",
+      "description": ".NET library for the Nano digital currency",
+      "section": "group-c-net"
+    },
+    {
+      "name": "NanoRPC",
+      "url": "https://github.com/michielpost/NanoRPC",
+      "description": "Nano RPC client library in C#",
+      "section": "group-c-net"
+    },
+    {
+      "name": "NanoDotNet",
+      "url": "https://github.com/Flufd/NanoDotNet",
+      "description": ".NET library for working with Nano",
+      "section": "group-c-net"
+    },
+    {
+      "name": "DotNano",
+      "url": "https://github.com/JerzyStanislawski/DotNano",
+      "description": ".NET API for the Nano RPC protocol",
+      "section": "group-c-net"
+    },
+    {
+      "name": "Rai Ex (Elixir)",
+      "url": "https://github.com/willHol/rai_ex",
+      "description": "Elixir client for managing a node",
+      "section": "group-elixir"
+    },
+    {
+      "name": "NanoGO",
+      "url": "https://github.com/Zenitria/nanogo",
+      "description": "Nano blockchain interaction library",
+      "section": "group-go"
+    },
+    {
+      "name": "Nano (Go)",
+      "url": "https://github.com/frankh/nano",
+      "description": "Implementation of the Nano protocol in Go",
+      "section": "group-go"
+    },
+    {
+      "name": "jNano",
+      "url": "https://github.com/koczadly/jNano",
+      "description": "Comprehensive Java library for Nano",
+      "section": "group-java"
+    },
+    {
+      "name": "jNano Client",
+      "url": "https://github.com/rotilho/jnano-client",
+      "description": "Java RPC client that creates and signs transactions client-side",
+      "section": "group-java"
+    },
+    {
+      "name": "Nano.js",
+      "url": "https://github.com/WriteNaN/Nano.js/blob/main/README.md",
+      "description": "Interact with the Nano blockchain from JavaScript",
+      "section": "group-javascript-typescript"
+    },
+    {
+      "name": "NanoGPTJS",
+      "url": "https://github.com/kilkelly/nanogptjs",
+      "description": "JavaScript library to interact with NanoGPT for pay-per-prompt AI",
+      "section": "group-javascript-typescript"
+    },
+    {
+      "name": "nanocurrency-js",
+      "url": "https://github.com/marvinroger/nanocurrency-js",
+      "description": "Derives keys and seeds, and generates hashes, signatures, work, and blocks",
+      "section": "group-javascript-typescript"
+    },
+    {
+      "name": "nanopay",
+      "url": "https://docs.nanopay.me",
+      "description": "JavaScript/TypeScript toolkit for Nano wallets, payments, signing, work, and RPC",
+      "section": "group-javascript-typescript"
+    },
+    {
+      "name": "nanopay (source)",
+      "url": "https://github.com/chiragasarpota/nanopay",
+      "description": "GPL-3.0 library based on nanocurrency-js, with local signing and mnemonic support",
+      "section": "group-javascript-typescript"
+    },
+    {
+      "name": "libnemo",
+      "url": "https://www.npmjs.com/package/libnemo",
+      "description": "Nano cryptocurrency wallet library",
+      "section": "group-javascript-typescript"
+    },
+    {
+      "name": "nanocurrency-web",
+      "url": "https://github.com/numsu/nanocurrency-web-js",
+      "description": "Client-side offline integration toolkit, no NodeJS functions required",
+      "section": "group-javascript-typescript"
+    },
+    {
+      "name": "RaiBlocksJS",
+      "url": "https://github.com/orrybaram/RaiBlocksJS",
+      "description": "Isomorphic library for node and wallet management via RPC",
+      "section": "group-javascript-typescript"
+    },
+    {
+      "name": "RaiBlocksJS 2",
+      "url": "https://github.com/SergiySW/RaiBlocksJS",
+      "description": "JavaScript RPC functions for node and wallet management (not in active development)",
+      "section": "group-javascript-typescript"
+    },
+    {
+      "name": "Nano WebSocket Sample (NodeJS)",
+      "url": "https://github.com/guilhermelawless/nano-websocket-sample-nodejs",
+      "description": "Sample WebSocket client for the Nano node",
+      "section": "group-javascript-typescript"
+    },
+    {
+      "name": "nano-sdk",
+      "url": "https://github.com/infinitybay/nano-sdk",
+      "description": "TypeScript SDK with fully typed RPC and WebSocket APIs",
+      "section": "group-javascript-typescript"
+    },
+    {
+      "name": "nano25519",
+      "url": "https://www.npmjs.com/package/nano25519",
+      "description": "WebAssembly block signing, key derivation, and signature verification",
+      "section": "group-javascript-typescript"
+    },
+    {
+      "name": "RaiBlocksPHP",
+      "url": "https://github.com/jaimehgb/RaiBlocksPHP",
+      "description": "PHP methods for building and signing transactions",
+      "section": "group-php"
+    },
+    {
+      "name": "NanoPHP",
+      "url": "https://github.com/MikeRow/NanoPHP",
+      "description": "PHP library for CLI and RPC communication with a Nano node",
+      "section": "group-php"
+    },
+    {
+      "name": "nanopy",
+      "url": "https://github.com/nkr0/nanopy",
+      "description": "Python implementation of Nano functions including work and signing",
+      "section": "group-python"
+    },
+    {
+      "name": "nanolib",
+      "url": "https://github.com/Matoking/nanolib",
+      "description": "Python library for working with the Nano protocol",
+      "section": "group-python"
+    },
+    {
+      "name": "RAI (Python)",
+      "url": "https://github.com/kennell/rai",
+      "description": "Pythonic client for interacting with nodes",
+      "section": "group-python"
+    },
+    {
+      "name": "Python Nano Tools",
+      "url": "https://github.com/paulmelis/nano-tools",
+      "description": "Tools for exploring the Nano block lattice",
+      "section": "group-python"
+    },
+    {
+      "name": "PRai",
+      "url": "https://github.com/jxub/prai",
+      "description": "Python RPC client",
+      "section": "group-python"
+    },
+    {
+      "name": "PyRai",
+      "url": "https://github.com/icarusglider/PyRai",
+      "description": "Python implementation of Nano-related functions",
+      "section": "group-python"
+    },
+    {
+      "name": "Easyraikit (Python)",
+      "url": "https://github.com/AuliaYF/easyraikit-python",
+      "description": "RPC library for Python",
+      "section": "group-python"
+    },
+    {
+      "name": "Nano Python",
+      "url": "https://github.com/dourvaris/nano-python",
+      "description": "Node RPC client for Python",
+      "section": "group-python"
+    },
+    {
+      "name": "EasyNano",
+      "url": "https://github.com/micah5/easy_nano",
+      "description": "Send and receive Nano with two simple functions",
+      "section": "group-python"
+    },
+    {
+      "name": "Nano WebSocket Sample (Py)",
+      "url": "https://github.com/guilhermelawless/nano-websocket-sample-py",
+      "description": "Sample WebSocket client for the Nano node",
+      "section": "group-python"
+    },
+    {
+      "name": "Appia Manta (Python)",
+      "url": "https://github.com/appiapay/manta-python",
+      "description": "Reference implementation of the Manta payment protocol",
+      "section": "group-python"
+    },
+    {
+      "name": "Nanook",
+      "url": "https://github.com/lukes/nanook",
+      "description": "Ruby library for payments and node management",
+      "section": "group-ruby"
+    },
+    {
+      "name": "Ruby Nano RPC",
+      "url": "https://github.com/jcraigk/ruby_nano_rpc",
+      "description": "RPC wrapper for Nano nodes written in Ruby",
+      "section": "group-ruby"
+    },
+    {
+      "name": "Nanocurrency (Ruby gem)",
+      "url": "https://rubygems.org/gems/nanocurrency",
+      "description": "Derives keys and seeds, and generates hashes, signatures, work, and blocks",
+      "section": "group-ruby"
+    },
+    {
+      "name": "RsNano",
+      "url": "https://rsnano.com/",
+      "description": "Rust port of the Nano node, memory and thread safe",
+      "section": "group-rust"
+    },
+    {
+      "name": "Feeless",
+      "url": "https://github.com/feeless/feeless/",
+      "description": "Nano node, wallet, tools, and Rust crate",
+      "section": "group-rust"
+    },
+    {
+      "name": "nano-rs",
+      "url": "https://github.com/fu5ha/nano-rs",
+      "description": "Implementation of Nano in Rust using Tokio",
+      "section": "group-rust"
+    },
+    {
+      "name": "NanoSwift",
+      "url": "https://github.com/Priva28/NanoSwift",
+      "description": "Swift library for wallets, accounts, blocks, amounts, and node RPC",
+      "section": "group-swift"
+    },
+    {
+      "name": "Test Network Portal",
+      "url": "https://beta.nano.org/",
+      "description": "Main resources",
+      "section": "test-network"
+    },
+    {
+      "name": "Beta Network Wiki & Guide",
+      "url": "https://github.com/NanoTools/wiki/blob/master/Beta-Network.md",
+      "description": "How to run a beta node and test new features",
+      "section": "test-network"
+    },
+    {
+      "name": "HectorChu GitHub",
+      "url": "https://github.com/hectorchu",
+      "description": "Additional tools",
+      "section": "miscellaneous"
+    },
+    {
+      "name": "Ogdolo",
+      "url": "https://ogdolo.com",
+      "description": "Crypto-address alias",
+      "section": "miscellaneous"
+    },
+    {
+      "name": "BIP39 Demo",
+      "url": "https://github.com/roosmaa/nano-bip39-demo",
+      "description": "Demonstrates BIP39 mnemonic seeds for Nano accounts",
+      "section": "miscellaneous"
+    },
+    {
+      "name": "Natricon",
+      "url": "https://natricon.com/",
+      "description": "Identicon generator",
+      "section": "miscellaneous"
+    },
+    {
+      "name": "Prailude",
+      "url": "https://github.com/slact/prailude",
+      "description": "Lua/C Nano node",
+      "section": "miscellaneous"
+    },
+    {
+      "name": "Nano Address Notifier",
+      "url": "https://github.com/Joohansson/nano-address-notifier",
+      "description": "Tracks accounts and notifies by log file or email",
+      "section": "miscellaneous"
+    },
+    {
+      "name": "Nano-Prettify",
+      "url": "https://github.com/kilkelly/nano-prettify",
+      "description": "Format raw amounts (JS)",
+      "section": "miscellaneous"
+    },
+    {
+      "name": "Nanocap",
+      "url": "https://github.com/cryptocode/nanocap",
+      "description": "Protocol analyser",
+      "section": "miscellaneous"
+    },
+    {
+      "name": "Wireshark RaiBlocks Dissector",
+      "url": "https://gist.github.com/slact/63571aad31d8f445ac045391a7857ef5",
+      "description": "Decodes Nano network packets in Wireshark",
+      "section": "miscellaneous"
+    },
+    {
+      "name": "Nano Address Validator",
+      "url": "https://github.com/alecrios/nano-address-validator",
+      "description": "Checks that a Nano address is well-formed",
+      "section": "miscellaneous"
+    },
+    {
+      "name": "Nano Unit Converter",
+      "url": "https://github.com/alecrios/nano-unit-converter",
+      "description": "Converts between raw and other Nano units",
+      "section": "miscellaneous"
+    },
+    {
+      "name": "Nano Base32",
+      "url": "https://github.com/termhn/nano-base32",
+      "description": "Encoding/decoding",
+      "section": "miscellaneous"
+    },
+    {
+      "name": "SecureSeedCommands (source)",
+      "url": "https://github.com/pRizz/SecureSeedCommands",
+      "description": "Generates commands for creating cryptographically secure seeds",
+      "section": "miscellaneous"
+    },
+    {
+      "name": "Offline-QR",
+      "url": "https://github.com/Joohansson/offline-qr",
+      "description": "Air-gapped data transfer",
+      "section": "miscellaneous"
+    },
+    {
+      "name": "Nanoidenticons",
+      "url": "https://github.com/keerifox/Nanoidenticons",
+      "description": "Generates unique avatars from Nano addresses",
+      "section": "miscellaneous"
+    },
+    {
+      "name": "musig-nano",
+      "url": "https://github.com/PlasmaPower/musig-nano",
+      "description": "Multisig demo",
+      "section": "miscellaneous"
+    },
+    {
+      "name": "NanoDrop",
+      "url": "https://github.com/anarkrypto/nanodrop",
+      "description": "Faucet",
+      "section": "miscellaneous"
+    },
+    {
+      "name": "Nano Binance Refund Bot",
+      "url": "https://github.com/jamescoxon/Nano_Binance_Refund_Bot",
+      "description": "Community-funded bot refunding Binance withdrawal fees to the receiving account",
+      "section": "miscellaneous"
+    },
+    {
+      "name": "NanoStatus",
+      "url": "https://github.com/schenkty/nanostatus",
+      "description": "macOS menu-bar price",
+      "section": "miscellaneous"
+    },
+    {
+      "name": "Stylish QR Code Guide",
+      "url": "https://medium.com/@d84/how-to-create-a-stylish-nano-qr-code-1bfc1eba5a96",
+      "description": "How to design a branded Nano payment QR code",
+      "section": "miscellaneous"
+    },
+    {
+      "name": "Wirex",
+      "url": "https://wirexapp.com/",
+      "description": "Visa payment card, fiat on/off ramp",
+      "section": "payment-services"
+    },
+    {
+      "name": "CoinGate",
+      "url": "https://coingate.com/",
+      "description": "Nano payment service & gateway",
+      "section": "payment-services"
+    },
+    {
+      "name": "nano.to",
+      "url": "https://nano.to/",
+      "description": "Nano payment service and API",
+      "section": "payment-services"
+    },
+    {
+      "name": "NowPayments",
+      "url": "https://nowpayments.io/",
+      "description": "Multicurrency payment service",
+      "section": "payment-services"
+    },
+    {
+      "name": "Simplex",
+      "url": "https://www.simplex.com/",
+      "description": "Credit card payment service",
+      "section": "payment-services"
+    },
+    {
+      "name": "ShareRing",
+      "url": "https://sharering.network/",
+      "description": "Sharing & rental service",
+      "section": "payment-services"
+    },
+    {
+      "name": "Madora",
+      "url": "https://madora.io/",
+      "description": "Instant payments for US businesses",
+      "section": "payment-services"
+    },
+    {
+      "name": "Coinify",
+      "url": "https://coinify.com/",
+      "description": "Payment processing with invoice capabilities",
+      "section": "payment-services"
+    },
+    {
+      "name": "Onramp.money",
+      "url": "https://onramp.money/",
+      "description": "Multi-currency fiat on/off ramps",
+      "section": "payment-services"
+    },
+    {
+      "name": "LetsExchange",
+      "url": "https://letsexchange.io/",
+      "description": "White label exchange solutions",
+      "section": "payment-services"
+    },
+    {
+      "name": "WeNano Business",
+      "url": "https://wenano.medium.com/announcing-wenano-business-for-ios-and-android-80bf77b078b8",
+      "description": "Spot Hosting",
+      "section": "payment-services"
+    },
+    {
+      "name": "Wordpress Plugin",
+      "url": "https://wordpress.org/plugins/cryptopay/",
+      "description": "Nano, IOTA, XLM, XRP, SEPA payments",
+      "section": "plugins-and-extensions"
+    },
+    {
+      "name": "Nano Donate",
+      "url": "https://nanocharts.info/nano-donate.html",
+      "description": "Chrome donation extension",
+      "section": "plugins-and-extensions"
+    },
+    {
+      "name": "Accept Nano",
+      "url": "https://accept-nano.com",
+      "description": "Self-hosted Go/JS payment gateway",
+      "section": "plugins-and-extensions"
+    },
+    {
+      "name": "Kappture",
+      "url": "https://kappture.co.uk/",
+      "description": "Payment service, PoS",
+      "section": "point-of-sale-pos-tools"
+    },
+    {
+      "name": "Nault",
+      "url": "https://nault.cc/",
+      "description": "PoS (wallet setup needed)",
+      "section": "point-of-sale-pos-tools"
+    },
+    {
+      "name": "Nandro",
+      "url": "https://github.com/JerzyStanislawski/Nandro",
+      "description": "Simple desktop POS",
+      "section": "point-of-sale-pos-tools"
+    },
+    {
+      "name": "XNOPay POS",
+      "url": "https://pos.xnopay.com/",
+      "description": "POS with secure PIN-protected payouts",
+      "section": "point-of-sale-pos-tools"
+    },
+    {
+      "name": "Bitrequest",
+      "url": "https://bitrequest.io/",
+      "description": "Create and share payment requests",
+      "section": "payment-request-tools"
+    },
+    {
+      "name": "PayNano",
+      "url": "https://paynano.me/",
+      "description": "Generate payment/donation pages",
+      "section": "payment-request-tools"
+    },
+    {
+      "name": "QvaPay",
+      "url": "https://qvapay.com/",
+      "description": "International payment processing (Spanish)",
+      "section": "payment-request-tools"
+    },
+    {
+      "name": "Bitback",
+      "url": "https://bitback.me/",
+      "description": "Payment service, address book",
+      "section": "other-merchant-tools"
+    },
+    {
+      "name": "MoonPay",
+      "url": "https://www.moonpay.com/business/onramps",
+      "description": "White label exchange solutions",
+      "section": "other-merchant-tools"
+    },
+    {
+      "name": "HectorChu GitHub",
+      "url": "https://github.com/hectorchu",
+      "description": "Utilities",
+      "section": "other-merchant-tools"
+    },
+    {
+      "name": "Nano Stream Tip",
+      "url": "https://github.com/jnki/nano-stream-tip",
+      "description": "Show tips on your Youtube/Twitch streams",
+      "section": "other-merchant-tools"
+    }
+  ]
+}
