@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://nanodirectory.info/sitemap.xml
+Sitemap: https://www.nanodirectory.info/sitemap.xml
