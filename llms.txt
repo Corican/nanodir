@@ -1,0 +1,615 @@
+# Nano Directory
+
+> A directory of links and tools for the Nano ($XNO) cryptocurrency ecosystem, designed for users, developers, and agents.
+
+Machine-readable version of this directory: https://www.nanodirectory.info/directory.json
+Last updated: 2026-09-14
+
+## Information & Education
+
+### Core Pages
+
+- [Nano.org](https://nano.org): Main Site
+- [Nano Hub](https://hub.nano.org/): Explore the Nano ecosystem
+- [Full Documentation](https://docs.nano.org/)
+- [Whitepaper](https://nano.org/en/whitepaper): (Eng)
+- [Nano Blogs](https://nano.org/en/blog): Foundation and Community Posting
+
+### Core Media Channels
+
+- [Youtube](https://www.youtube.com/channel/UCFxXo3z9k4yvxSboEEjXO2w)
+- [Reddit: Nano Main](https://www.reddit.com/r/nanocurrency/)
+- [Reddit: Nano Trading](https://www.reddit.com/r/nanotrade/)
+- [Discord: Nano Main](https://chat.nano.org): Info, Support, Integrations, News
+- [Discord: XNO Trade](https://shryder.gitlab.io/nanotrade-classic/): Trading and Price Talk
+- [Twitter](https://twitter.com/nano)
+- [Facebook](https://www.facebook.com/nanofoundation/)
+- [LinkedIn](https://www.linkedin.com/company/nano-foundation/)
+- [Telegram](https://t.me/nanocurrency)
+- [Telegram China](https://t.me/NanoCN)
+
+### Education & Adoption
+
+- [What is Nano in 60 Sec](https://youtu.be/ydVomoXEGe0)
+- [Why Nano](https://whynano.cc/)
+- [The Basics of Nano](https://senatus.substack.com/p/the-basics-of-nano-why-its-such-an)
+- [The vision of Nano](https://senatusspqr.medium.com/the-vision-of-nano-an-instant-feeless-and-green-crypto-b08ebf25d325)
+- [Nano.community](https://nano.community/): News and Learning
+- [Nano Xperience](https://xnoxno.com/xperience/): Compare Nano to Other Chains
+- [What is Nano](https://medium.com/coinplan-insights/coin-spotlight-nano-2c111170a19f)
+- [Nano for Newcomers](https://nanojson.medium.com/nano-for-newcomers-75e64535327a): A Great Reddit Summary
+- [Nano Education](https://medium.com/nano-education): Informative Medium Articles
+- [Best Practices When Using a Hardware Wallet](https://medium.com/ledger-on-security-and-blockchain/ledger-101-part-3-best-practices-when-using-a-hardware-wallet-198b60df2681)
+
+#### Significant Medium Accounts
+
+- [Colin LeMahieu (Founder)](https://medium.com/@clemahieu)
+- [Senatus](https://senatusspqr.medium.com/)
+- [Senatus Substack](https://senatus.substack.com/archive?utm_source=menu-dropdown)
+- [Json](https://nanojson.medium.com/)
+- [James Coxon](https://medium.com/@jacoxon)
+- [SomeNano](https://somenano.medium.com/)
+
+### Scientific Papers
+
+- [Distributed Ledger Technology: Blockchain Compared to Directed Acyclic Graph](https://www.researchgate.net/publication/324793344_Distributed_Ledger_Technology_Blockchain_Compared_to_Directed_Acyclic_Graph)
+- [Scalability of Bitcoin and Nano protocols: Comparison](http://www.diva-portal.org/smash/get/diva2:1229650/FULLTEXT02.pdf)
+
+### Videos
+
+- [Nano The Future of Money](https://youtu.be/lw-rpO0jqYQ)
+- [Nano Overview](https://youtu.be/JynwiU2D_K0)
+- [Nano is Green](https://youtu.be/JChBTohSHlM)
+- [Stop Waiting](https://www.youtube.com/watch?v=cCVvcO1iBKA)
+- [The Power of Digital Money - Nano Around The Globe](https://youtu.be/iKt9KepQQF4)
+- [10 reasons to use Nano instead of the Dollar](https://www.reddit.com/r/nanocurrency/comments/h80j1j/10_reasons_to_use_nano_instead_of_the_dollar_or/)
+- [Introduction to Nano Currency by F2Y](https://youtu.be/OAk2ou6EFMY)
+- [Why your business should accept Nano](https://youtu.be/yWoRnYFT9yo)
+- [Live XNO Bird Feeder](https://www.youtube.com/@lildumpling442/live)
+
+#### Video Archive
+
+- [Transaction Speed Demo - Mobile to Mobile](https://youtu.be/5K8rRISz4RU)
+- [Transaction Speed Demo - Confirmation Node to Node](https://youtu.be/R6oxmQaiFJI)
+- [Colin LeMahieu Interviewed by The Crypto Lark Feb 2018](https://youtu.be/hAy4GDV7tvQ)
+- [Colin LeMahieu Interviewed by DataDash Oct 2018](https://youtu.be/eWdOkIev_xM)
+- [Colin LeMahieu Audio interview on Hashing It Out Podcast Oct 2019](https://the-bitcoin-podcast-network.simplecast.com/episodes/hashing-it-out-63-nano-colin-lemahieu)
+- [Colin LeMahieu Interviewed on Crypto Finder Sep 2019](https://www.reddit.com/r/nanocurrency/comments/cykjl3/colin_interviewed_on_cryptofindertv_very_solid/)
+- [Colin LeMahieu Interviewed on Keyword:Crypto Jun 2020](https://open.spotify.com/episode/0ONmBDDxSaQZcM3Du1t7wG)
+- [Colin LeMahieu Interviewed on Chicken Genius Singapore Jun 2021](https://youtu.be/GHh3UcCiIS0)
+- [George Coxon Interviewed on That Tech Show Jul 2021](https://play.acast.com/s/that-tech-show/episode-24-george-coxon)
+- [Nano review by Coin Bureau Oct 2019](https://youtu.be/JkoXe6M-59U)
+- [2021 Nano introduction video by Exodus Wallet](https://youtu.be/71T_27Za3zk)
+- [Blockchain Central: Interview with Colin and Andy Oct 2019](https://youtu.be/rhMGXoWGZfg)
+- [Patrick Luberus on the “When The Music Stops” podcast](https://anchor.fm/when-the-music-stops/episodes/Nano--Digital-Cash-w-Patrick-Luberus-e15db6b/a-a6951ck)
+- [The Perfect Currency - Why Bitcoin Was Created And Why Nano Is Better](https://youtu.be/iA7EdqAMS3o)
+- [Everything you need to know about Nano](https://youtu.be/ywgMlJBli7g)
+- [Nano simply explained](https://youtu.be/dlRhUwLQWXc)
+- [Nano explained (Another deep dive)](https://youtu.be/1ciokw6ZQvE)
+- [Nano Development 2014-2018](https://youtu.be/br8tcS8gcqE)
+- [Nano Development 2018](https://www.youtube.com/watch?v=FqLe12zJKEE)
+- [Why Change Your Nano Representative?](https://youtu.be/dnOTiixhPrk)
+- [Guide: Get Free Nano and Share with Anyone with Zero Fees](https://youtu.be/qSsIXy-NimE)
+- [Guide: How to buy Nano with Coinbase and Binance](https://youtu.be/FE5yUT4-UYk)
+- [NanoBrewed - Beer dispensing for nano](https://youtu.be/UfLqHz5Ls-g)
+- [Nano Espresso NFC - Coffee machine accepting Nano payments](https://youtu.be/3GmhIWZC7hA)
+
+### Explorers & Network Stats
+
+- [BlockLattice](https://blocklattice.io/): Account and block explorer with recent transactions and network stats
+- [Nano.community](https://nano.community/): News and Learning
+- [Nanexplorer](https://nanexplorer.com/nano): Explorer for accounts, blocks, and representatives across Nano and Banano
+- [nanoBrowse](https://nanobrowse.com/): Lightweight explorer pairing sends with their matching receives
+- [NanoStandard](https://nanostandard.info/): Dashboard tracking transaction volume and adoption metrics over time
+
+### Additional Network sites
+
+- [XNO Hub](https://xnohub.com/): Network Visualizer
+- [NanoBrowse Votes](https://votes.nanobrowse.com/): Vote Visualizer
+- [Live Nano election visualization](https://nanovisual.numsu.dev/)
+- [SomeNano Snow](https://snow.somenano.com/): Real-time Snowflakes
+- [SomeNano Magic Eye](https://magiceye.somenano.com/): Real-time stereogram
+- [Nano Rockets](https://anarkrypto.github.io/nanorockets/): Transaction Visualizer
+- [Nano Charts](https://nanocharts.info/): Representative stats
+- [Nano.community](https://nano.community/representatives): Representative stats
+- [Nanocurrency Reddit Stats](https://subredditstats.com/r/nanocurrency)
+- [Geographical Node Map](https://nanomap-061992.web.app/#/dashboard)
+- [Nano Hodlers](https://damiascus.github.io/nanohodlers/): See registered wallets and their holdings
+
+## Wallets & Faucets
+
+### Native Wallets
+
+- [Nautilus](https://nautilus.io/): Mobile wallet (Android, iOS)
+- [Natrium](https://natrium.io): Mobile wallet (Android, iOS)
+- [Nault](https://nault.cc/): Web & desktop wallet
+- [WeNano](https://wenano.net/): Social wallet (iOS, Android)
+- [Camo Nano](https://github.com/CamoNano/camonanowallet): Desktop wallet
+- [NanChat](https://nanchat.com/): Wallet & Chat App (Coming Soon)
+
+### Dev Wallets
+
+- [Nano Node Wallet](https://github.com/nanocurrency/nano-node): Original node wallet
+- [Pippin](https://github.com/appditto/pippin_nano_wallet): High-performance Python wallet
+
+### Multi-asset Wallets
+
+- [Cake Wallet](https://cakewallet.com/): Mobile & Desktop
+- [Stack Wallet](https://stackwallet.com/): Mobile & Desktop
+- [Arctic Wallet](https://arcticwallet.io/): Mobile & Desktop
+- [Now Wallet](https://walletnow.app/): Mobile & Desktop
+- [Trust Wallet](https://trustwallet.com): Mobile
+- [Guarda](https://guarda.com): Desktop, web, mobile, extension
+
+### Address Generators & Paper Wallets
+
+- [NanoPaperWallet.com](https://nanopaperwallet.com): Platform for creating Nano paper wallets easily
+- [Paper Wallet](https://vitorcremonez.github.io/nano-paper-wallet): (vitorcremonez)
+- [Secure Seed Commands](https://www.secureseedcommands.com): How-to guide
+- [Nano Vanity Addresses](https://nanoaddr.io): (njakob)
+- [Nano Vanity Addresses](https://github.com/PlasmaPower/nano-vanity): (PlasmaPower)
+- [Nano Vanity Addresses](https://github.com/vitorcremonez/nano-vanity): (vitorcremonez)
+
+### Hardware Wallets
+
+- [Ledger](https://www.ledger.com): Leading hardware wallet
+
+### Wallet & Account Guides
+
+- [Nano Wallets – Security & Convenience](https://medium.com/nano-education/how-to-secure-your-cryptocurrency-nano-7a83b194e474)
+- [Secure offline transacting](https://blog.nano.org/how-to-securely-transact-on-the-nano-network-using-an-offline-device-93713d217377)
+- [How to use Nault with Ledger](https://docs.nault.cc/2020/08/04/ledger-guide.html)
+- [Ledger recovery phrase transfer](https://medium.com/nano-education/how-to-transfer-nano-from-a-ledger-nano-recovery-phrase-using-offline-signing-33e5da9ef94b)
+- [Create a custom account quickly](https://blog.nano.org/how-to-create-a-custom-nano-account-at-maximum-speed-cd9be0045ead)
+
+### Faucets (Free Nano)
+
+- [XNOPay Faucet](https://faucet.xnopay.com): Payment processor and faucet
+- [WeNano](https://wenano.net/): Location-based social wallet with faucet spots
+- [Nano Drop](https://nanodrop.io/): Simple faucet for micro-fractions of nano
+- [Perseeve Faucet Streaming](https://web.perseeve.app): Earn nano by watching streams
+- [FreeNanoFaucet](https://freenanofaucet.com/): Learn about nano while earning small amounts
+- [Nanswap Faucet](https://nanswap.com/get-free-nano): Get small amounts of nano for free
+- [Prussia Nano Faucet](https://faucet.prussia.dev/nano): Simple faucet with address input
+- [Howdy Little Crypto](https://howdylittlecrypto.com/faucet/): Manual payout faucet (0.00005-0.002 XNO)
+- [XNOXNO Treasure](https://xnoxno.com/treasure/): Nano Treasure Hunt game
+- [NANOFaucet](https://nano.lol.my.id): Spin every 45 minutes to earn nano
+- [BANXNO Faucet](https://faucet.banxno.com/): Faucet for both BAN and XNO
+- [Nano Space Faucet](https://nanospace.fun/): Simple faucet, with educational guides for beginners
+
+## Market Data & Exchanges
+
+### Price Trackers
+
+- [CoinMarketCap](https://coinmarketcap.com/currencies/nano/): Dominant market cap rankings and charts
+- [CoinPaprika](https://coinpaprika.com/coin/xno-nano/): Detailed exchange volume analytics
+- [Crypto.com](https://crypto.com/price/nano): Clean interface with price alerts
+- [CoinDataFlow](https://coindataflow.com/en/currency/nano): Technical indicators and trade signals
+- [Coinlore](https://www.coinlore.com/coin/nano): Simple circulating supply metrics
+- [Bitscreener](https://bitscreener.com/coins/nano): Portfolio tracking with TA tools
+- [CoinGecko](https://www.coingecko.com/en/coins/nano): Developer activity and community growth
+
+### Converters
+
+- [Coinyep](https://coinyep.com/): 50+ fiat currency conversions
+- [WorldCoinIndex](https://www.worldcoinindex.com/coin/nano): Reliable price alerts and widgets
+
+### Exchanges
+
+#### Major Centralized Exchanges
+
+- [Binance](https://www.binance.com/en/trade/XNO_USDT): XNO/USDT • XNO/BTC (KYC)
+- [Binance.US](https://www.binance.us/en/trade/pro/XNO_USDT): XNO/USDT (US KYC)
+- [Crypto.com Exchange](https://crypto.com/exchange/trade/XNO_USDT): XNO/USDT (KYC)
+- [HTX (Huobi)](https://www.huobi.com/en-us/exchange/xno_usdt/): XNO/USDT (KYC)
+- [Kraken](https://pro.kraken.com/app/trade/NANO-USD): NANO/USD • NANO/EUR (KYC)
+- [KuCoin](https://www.kucoin.com/trade/XNO-USDT): XNO/USDT (KYC for withdrawals)
+
+#### Mid-Tier Centralized Exchanges
+
+- [BingX](https://www.bingx.com/en-us/spot/XNOUSDT): XNO/USDT (KYC)
+- [CoinEx](https://www.coinex.com/exchange/xno-usdt): XNO/USDT • XNO/BTC (basic KYC)
+- [DigiFinex](https://www.digifinex.com/en-ww/trade/USDT/XNO): XNO/USDT (KYC)
+- [HitBTC](https://hitbtc.com/exchange/XNO-to-USDT): XNO/USDT • XNO/BTC (KYC to withdraw)
+- [ProBit Global](https://www.probit.com/en-us/app/exchange/NANO-USDT): NANO/USDT (tiered KYC)
+
+#### Derivatives (Futures / Perpetuals)
+
+- [Bybit Perpetual](https://www.bybit.com/): XNO/USDT (KYC)
+- [Gate.io Perpetual](https://www.gate.io/futures/USDT/XNO_USDT): XNO/USDT (tiered KYC)
+- [MEXC Perpetual](https://www.mexc.com/futures/XNO_USDT): XNO/USDT (tiered KYC)
+- [Pionex Perpetual](https://www.pionex.com/en/futures/XNOUSDT): XNO/USDT (KYC)
+
+#### Quick-Swap & Instant-Buy Services
+
+- [MoonPay](https://buy.moonpay.com/v2/buy?currencyCode=nano): Card & Apple Pay (KYC)
+- [Nano.Trade](https://nano.trade/): Swaps between XNO/BAN/AZERO/MOON/USDC (No KYC)
+- [XNOPay](https://ramp.xnopay.com/): Swaps Powered by ChangeNow (No KYC)
+- [Simplex](https://buy.simplex.com/): Card on-ramp (KYC)
+- [ChangeHero](https://changehero.io/coins/nano): Account-free Swap
+- [ChangeNOW](https://changenow.io/exchange/nano): No account; ≤ €5k (No KYC)
+- [Changelly](https://changelly.com/exchange/xno): No KYC under risk limits
+- [CypherGoat](https://cyphergoat.com/): Open Source Swap Aggregator
+- [EasyBit](https://easybit.com/en): Fast swap ≤ 1 k USD (No KYC)
+- [EIDEX](https://eidex.io/screener/xno-nano-to-btc-btc): Swap Route Screener (No Account)
+- [Exchang.io](https://exchang.io/): Instant Swaps (No KYC)
+- [Guardarian](https://guardarian.com/): Card / SEPA buy (KYC)
+- [LetsExchange](https://letsexchange.io/): No KYC
+- [Nanswap](https://nanswap.com): On-chain XNO swaps (No KYC)
+- [RocketX](https://app.rocketx.exchange/swap?to=XNO): Cross-chain bridge (No KYC)
+- [SimpleSwap](https://simpleswap.io/coins/xno): Account-free swap
+- [StealthEX](https://stealthex.io/?to=xno): Account-free swap
+- [SwapSpace](https://swapspace.co/?from=btc&to=xno): Rate aggregator
+- [Swapzone](https://swapzone.io/exchange/nano): Rate aggregator
+- [SwapSwop](https://swapswop.io): No-signup swap (No KYC)
+- [Uphold](https://uphold.com/en-us/prices/crypto/nano-price): Multi-fiat buy/sell (Full KYC)
+- [FinchPay Widget](https://widget.finchpay.io/?a=30&p=EUR&c=NANO): Card buy XNO (KYC)
+- [Wirex](https://wirexapp.com/): Multi-fiat wallet; buy XNO (KYC)
+- [XGo](https://xgo.com/app/asset/XNO): Buy / swap XNO (KYC)
+
+#### Regional & Fiat-Focused Exchanges
+
+##### Australia & New Zealand
+
+- [CoinSpot](https://www.coinspot.com.au/buy/xrb): XNO/AUD (AU KYC)
+- [Digital Surge](https://digitalsurge.com.au/buy/xno/): XNO/AUD (AU KYC)
+- [Easy Crypto](https://easycrypto.com/au/buy/nano): AUD / NZD / ZAR buy-sell (KYC)
+- [Swyftx](https://swyftx.com/au/buy/nano/): XNO/AUD (AU KYC)
+
+##### India
+
+- [CoinDCX](https://coindcx.com/trade/XNOUSDT): XNO/USDT • XNO/BTC (IN KYC)
+- [KoinBX](https://koinbx.com/trade/XNO-INR): XNO/INR (IN KYC)
+- [Onramp.money](https://onramp.money/): Multi-fiat on/off-ramp (KYC)
+- [WazirX](https://wazirx.com/exchange/xno-inr): XNO/INR (IN KYC)
+
+##### Europe
+
+- [BTC Direct](https://btcdirect.eu/nl-nl/nano-kopen-1): NANO/EUR Broker (NL KYC)
+- [Coinmerce](https://coinmerce.io/en/nano/): NANO/EUR (NL KYC)
+- [Bit2Me](https://bit2me.com/buy-nano): XNO/EUR (ES KYC)
+
+##### Indonesia
+
+- [Tokocrypto](https://www.tokocrypto.com/en/trade/XNO_USDT): XNO/USDT (ID KYC)
+
+##### Turkey
+
+- [Bitexen](https://www.bitexen.com/en/xno-try): XNO/TRY (TR KYC)
+- [BitTurk](https://bitturk.com/nano-nanotry): NANO/TRY (TR KYC)
+
+##### Singapore
+
+- [Coinhako](https://www.coinhako.com/coins/XNO/SGD): XNO/SGD (SG KYC)
+
+## Services & Entertainment
+
+### Services
+
+- [Nanswap](https://nanswap.com/shop): Buy Gift Cards with nano
+- [BitRefill](https://www.bitrefill.com/): More Gift Cards
+- [PlayNANO](https://playnano.online/gift-cards): More Gift Cards
+- [CardStorm](https://cardstorm.io/): More Gift Cards
+- [Travala](https://www.travala.com/): Book Flights and Hotels with Nano
+- [Sleap](https://sleap.io/): Book Flights and Hotels with Nano
+- [XNOVerse](https://xnoverse.com/): Pay-per-article
+- [Subnano](https://subnano.me/): Pay-per-article
+- [Benture](https://benture.io/): Remote Jobs, Paid in XNO
+- [Nanowall.link](https://nanowall.link/): Content Monetizer
+- [Nagora](https://nagora.shop/): Marketplace for buying and selling items with Nano
+- [Nano Market](https://market.nanoriver.io/): Buy and Sell items using Nano
+- [Upstart](https://upst-art.net/): Content Hosting
+- [NanoGPT](https://nano-gpt.com/): Pay Per Prompt for a wide variety of AI models
+- [LongStories.ai](https://longstories.ai/): Create animated short movies using Nano credits
+- [AI Nano Music](https://ainanomusic.com/): AI music contest platform powered by Nano
+- [Nano AI](https://xnoapp.onrender.com/): Access advanced reasoning engines via Nano micro‑transactions, no subscriptions
+- [Nanogrove](https://nanogrove.org/): Send Nano to feed plants and animals
+- [Clean Web MVP](https://github.com/kamina2025/clean-web-mvp): Micropayment suite for media content with a built-in browser wallet
+
+### Earn Nano
+
+- [P2PoW](https://github.com/anarkrypto/P2PoW): Decentralized Work
+- [Polyrun](https://polyrun.app/): Fitness Rewards
+- [PlayNANO](https://playnano.online/offerwalls): Task & Video Offers
+- [TipNano](https://play.google.com/store/apps/details?id=com.bdf.tipnano): Play games, watch ads, and earn Nano
+- [PRISM](https://zealy.io/cw/prismgroup/questboard): Complete social tasks for small Nano rewards
+- [NanoGPT](https://nano-gpt.com/invitations): Refer users and earn Nano from revenue share
+- [Nanswap mining](https://nanswap.com/mining/nano): Earn Nano by mining with your CPU
+- [Subnano](https://subnano.me/): Create paywalled blog posts and earn Nano
+- [Unmineable](https://unmineable.com/): Mine various cryptos and get paid in Nano
+- [KarmaCall](https://www.karmacall.com/): Block scam calls and earn Nano
+- [NanoDrops](https://nanodrops.org/): Earn Nano by watching Twitch and Kick streams
+- [CryptoVision](https://cryptovision.live/): Watch videos and get paid Nano
+- [WeNano](https://wenano.net/): Collect Nano from geo-located spots worldwide
+
+### Entertainment
+
+#### Gambling, Betting
+
+- [LuckyNano](https://luckynano.com/): Gambling
+- [NanBet](https://nanbet.io/): Rock, Paper, Scissors
+- [PlayNANO](https://playnano.online/roulette): Provably Fair Roulette
+- [Pasino](https://pasino.com/): Social Gambling Platform
+- [DuckHunk](https://xnoverse.com/demos/duckhunk/): DuckHunt Game
+
+#### Games
+
+- [Nanogotchi](https://nanogotchi.com/): Help your Own Nanogotchi Pet Grow
+- [XNOXNO Treasure](https://xnoxno.com/treasure/): Treasure Hunt Faucet
+- [NanoQuake](https://github.com/Nanoquake/yquake2): Quake II Multiplayer
+- [Just Cause 2](https://jc2rp.world/play/): Explore the world of Just Cause 2 and Collect Nano
+- [The Adventures of Nano](https://prohyon.itch.io/the-adventures-of-nano-demo): Browser platformer demo with a Nano donation address
+- [Raesonic](https://raesonic.com/): In-game Purchases
+- [PlayNANO](https://playnano.online/jumper): Jumper Game
+- [Skyrun](https://deanobones.github.io/Skyrun/): Endless Runner
+- [Luis Astroids](https://luis-garcia-remes.itch.io/nano-visualizer): Transaction Shooter
+- [Aurora Seekers](https://xno-aurora.space/): Rhythm adventure game
+- [Fishing Frenzy](https://xno-fishing.space/): Real-time multiplayer fishing
+
+#### Video, Music, Art
+
+- [PixelVerse](https://xnoverse.com/pixelverse/): Pay Per Pixel
+- [Million Nano Homepage](https://millionnanohomepage.com/): Pay Per Pixel
+
+## Development Resources
+
+### Core Development
+
+- [Nano Source Code](https://github.com/nanocurrency): Official GitHub repositories
+- [Node Milestones](https://github.com/nanocurrency/nano-node/milestones): Development roadmap
+- [Docker Repo](https://hub.docker.com/u/nanocurrency/): Containerized Nano nodes
+
+### Wallets (Source Code)
+
+- [Nault (source)](https://github.com/Nault/Nault): Web/desktop wallet
+- [Nautilus (source)](https://github.com/perishllc/nautilus): Mobile wallet
+- [Natrium (source)](https://github.com/appditto/natrium_wallet_flutter): Mobile wallet
+- [Pippin](https://github.com/appditto/pippin_nano_wallet): High-performance Python wallet
+- [Atto](https://github.com/codesoap/atto): Minimalist CLI wallet
+- [Kaiak](https://github.com/Kaiak/kaiak-wallet): KaiOS wallet
+- [nanoKeyManager](https://github.com/Tumbler/nanoKeyManager): Tool for wallet creation and key management
+- [GoNano (GUI wallet)](https://github.com/hectorchu/gonano-gui): Graphical interface for the GoNano wallet
+- [GoNano (CLI wallet)](https://github.com/hectorchu/gonano): Go language support for Nano, with a command-line wallet
+- [Nano Node Wallet](https://github.com/nanocurrency/nano-node): Original node wallet
+- [Canoe](https://github.com/getcanoe/canoe): Mobile wallet
+- [TIX](https://github.com/Joohansson/nano-wallet): Forked Linux web wallet, rebranded for the main network
+- [Nanollet](https://github.com/brokenbydefault/Nanollet): Ultra-light wallet written in Go
+- [Nanoblocks](https://github.com/nebyark/nano-blocks): iOS light wallet written purely in Swift
+- [Nanonymous](https://github.com/LilleJohs/Nanonymous): Proof of concept privacy-focused wallet for Android
+- [Nano Light Wallet (NodeJS)](https://github.com/NanoDevs/NanoLightWallet): Light wallet written in NodeJS (RaiBlocks era)
+- [Nano Light Wallet](https://github.com/numtel/open-nano-wallet): Light wallet from the RaiBlocks era
+- [Nano Gift](https://github.com/Joohansson/nanogift): Gift-card & paper-wallet generator
+- [Nano Paper Wallet 1](https://github.com/vitorcremonez/nano-paper-wallet): Client-side paper wallet generator
+- [Nano Paper Wallet 2](https://github.com/jelofsson/nano-paper-wallet): Paper wallet generator for Nano
+- [Encrypted Paper Wallet](https://github.com/igorcmelo/enc-paper-wallet): Paper wallet generator with an encrypted seed
+- [Telegram Wallet Bot](https://github.com/SergiySW/NanoWalletBot): Telegram wallet bot (discontinued)
+- [Siliqua](https://github.com/Matoking/siliqua): Modular wallet
+- [Rai-wallet](https://github.com/chriscohoat/rai-wallet): Ciphered wallets
+- [OpenWallet](https://openwallet.sh/): Open standard that unites AI agents with Nano wallets
+
+### APIs & Payment Tools
+
+- [nano.to](https://nano.to/): Payment link API
+- [RPC – Nano.to](https://rpc.nano.to/): Enhanced node API
+- [Accept Nano](https://accept-nano.com): Payment gateway
+- [Coinify SDK](https://developer.coinify.com/apidoc/merchant/): Merchant API documentation for Coinify payment integration
+- [nano.lol IFTTT](https://ifttt.com/nano_lol): Web service to monitor transactions, build projects using Nano RPC/WebSockets
+- [NanoTwitchBot](https://github.com/bhickenbottom/NanoTwitchBot): Twitch chat bot for Nano tipping
+- [Nanobot](https://nanobot.app/): Twitch donations
+- [ApolloNano YouTube Tipper](https://github.com/ApolloNano/youtube-tipper): Tip YouTube creators in Nano
+- [NANOPAY (besoeasy)](https://github.com/besoeasy/nanopay): Open-source API
+- [Nano Callback System](https://github.com/jamescoxon/Nano_Callback_System): Receives node callbacks and forwards transaction events
+- [NanoOnTap](https://github.com/silverstar194/NanoOnTap): Nano payment integration toolkit
+- [Nandro](https://github.com/JerzyStanislawski/Nandro): PoS with NFC
+- [NanoAuth](https://www.nanoauth.app/#/): Authentication service
+- [NanoGPTJS](https://github.com/kilkelly/nanogptjs): JavaScript library to interact with NanoGPT for pay-per-prompt AI
+- [Nano Currency MCP Server](https://github.com/kilkelly/nano-currency-mcp-server): MCP server enabling AI agents to send Nano and retrieve account info
+- [MCP (Nano) Server](https://github.com/dhyabi2/NANO_MCP_SERVER): MCP server to create wallets, check balance, send/receive Nano
+- [x402nano (source)](https://github.com/x402nano): Developer resources for integrating Nano payments over x402 protocol
+- [Ӿ402Nano.org](https://www.x402nano.org/): Feeless x402 facilitator for Nano, no login required
+- [Feeless402](https://feeless402.com): Feeless x402 payments in Nano, plus a faucet giving agents their first XNO
+- [Feeless402 (source)](https://github.com/Feeless402/feeless402): Feeless rail for the x402 agent economy
+- [NanoGate](https://nanogate.run/): Nano gateway on the Internet Computer, enabling ICP canisters to query Nano accounts and send transactions
+
+### Node Tools & Applications
+
+- [Nano Node Monitor](https://github.com/NanoTools/nanoNodeMonitor): Node monitoring tool
+- [Nano Node Graphics](https://github.com/Joohansson/NanoNodeGraphics): Realtime node charts
+- [Easy Nano Node](https://nanotools.github.io/easy-nano-node/): Simplified node setup
+- [Nano Node Docker](https://github.com/lephleg/nano-node-docker): Docker container setup
+- [Nano RPC Proxy](https://github.com/joohansson/nanorpcproxy): Secure node communication
+- [Betsy](https://github.com/bbedward/betsy-middleware): Distributed PoW middleware
+- [TheCryptoUmbrella](https://github.com/TheCryptoUmbrella/nano-node-monitor): Node Monitor
+- [Nano Connect](https://github.com/brendena/NanoConnect): Distributed RPC proxy
+- [Noxy](https://github.com/BitDesert/Noxy): Simple RPC proxy
+- [Lightweight Nano RPC Proxy](https://github.com/Shryder/LightweightNanoRPCProxy): Limits allowed RPC actions and adds rate limiting and logging
+- [Nano Shell](https://github.com/VenKamikaze/nano-shell): Bash wrapper
+- [LinuxServer.io Nano Stack Guide](https://blog.linuxserver.io/2020/05/31/deploying-your-own-crypto/): Guide to deploying a self-hosted Nano node stack
+- [nano.lol IFTTT](https://ifttt.com/nano_lol): Web service to monitor transactions, build projects using Nano RPC/WebSockets
+
+### Node Access & Services
+
+- [Armour Hosting](https://armour-hosting.com/): Hosted Nodes
+- [NOWNodes](https://nownodes.io/): Hosted API
+- [Nanswap Nodes](https://nanswap.com/nodes): Hosted node API with RPC, WebSocket, and work server; free tier
+- [Nano.casa](https://nano.casa/): Development tracker
+- [Madora](https://madora.io/): Game payment services
+
+### PoW & Work Generation
+
+- [Nano Work Server](https://github.com/nanocurrency/nano-work-server): Dedicated PoW generation
+- [Work Cache](https://github.com/optout21/nano-work-cache): Go work generation proxy and cache for light clients
+- [PoW Benchmark Tool](https://github.com/koczadly/nano-pow-benchmark): Benchmarks Blake2b work generation on OpenCL devices
+- [NanoPow](https://www.npmjs.com/package/nano-pow): Client-side work generation with WebGPU, WebGL, and WASM fallbacks
+- [nanopow-rs-node](https://github.com/termhn/nanopow-rs-node): Node.js bindings for the Rust nanopow library
+- [NanoPoW (Go)](https://github.com/serdaroquai/nanopow): Go work generation built on the blake2b crypto package
+- [Distributed PoW (dPoW)](https://github.com/guilhermelawless/nano-dpow): Client & server
+- [Node RaiBlocks PoW](https://github.com/numtel/node-raiblocks-pow): Native C module for Node.js work generation
+- [Nano WebGL PoW](https://github.com/numtel/nano-webgl-pow): GPU work generation via a WebGL2 Blake2b shader
+- [WebAssembly PoW](https://github.com/jaimehgb/RaiBlocksWebAssemblyPoW): CPU
+
+### Explorers & Network Metrics
+
+- [BlockLattice](https://blocklattice.io/): Account and block explorer with recent transactions and network stats
+- [Nanexplorer](https://nanexplorer.com/nano): Explorer for accounts, blocks, and representatives across Nano and Banano
+- [nanoBrowse](https://nanobrowse.com/): Lightweight explorer pairing sends with their matching receives
+- [Nano Charts](https://nanocharts.info/): Representative and decentralisation statistics for the Nano network
+- [NanoTicker](https://nanoticker.org/representatives): Representative list with ratings to help you choose one
+- [Nanospeed](https://nanospeed.info): Monitors confirmation times and CPS/BPS statistics on the network
+- [NanoStandard](https://nanostandard.info/): Dashboard tracking transaction volume and adoption metrics over time
+- [Nanocrawler (source)](https://github.com/meltingice/nanocrawler): Nano block explorer, self-hostable
+- [NanoLooker (source)](https://github.com/running-coder/nanolooker): Nano explorer with market data and node stats
+- [Nano Vote Visualiser (Numsu)](https://github.com/numsu/nano-vote-visualizer): Graphs live network elections and confirmations, live at nanovisual.numsu.dev
+- [Nano Vote Visualiser (JSON fork)](https://github.com/Joohansson/nano-vote-visualizer): Fork of the Numsu election and confirmation visualiser
+- [Nano Election Visualiser](https://github.com/jamescoxon/Nano_Election_Visualiser): Flask app behind the confirmation view at nanostatus.live
+- [Nano Bucket Visualiser](https://github.com/jamescoxon/Nano_Bucket_Visualizer): Flask app visualising prioritisation buckets, with RPC caching
+
+### Game Engine Integration
+
+- [Unity Plugin](https://github.com/wezrule/unitynanoplugin): Nano payments integration for the Unity engine
+- [Unreal Engine 4 Plugin](https://github.com/wezrule/UE4NanoPlugin): Nano payments integration for Unreal Engine 4
+- [Godot Nano Module](https://github.com/Madora-io/nano-godot-module): Nano integration module for the Godot game engine
+
+### Language-specific SDKs & Libraries
+
+#### C#/.NET
+
+- [NanoRpcSharp](https://github.com/justdmitry/NanoRpcSharp): RPC client library for Nano
+- [Nano.Net](https://github.com/miguel1117/Nano.Net): .NET library for the Nano digital currency
+- [NanoRPC](https://github.com/michielpost/NanoRPC): Nano RPC client library in C#
+- [NanoDotNet](https://github.com/Flufd/NanoDotNet): .NET library for working with Nano
+- [DotNano](https://github.com/JerzyStanislawski/DotNano): .NET API for the Nano RPC protocol
+
+#### Elixir
+
+- [Rai Ex (Elixir)](https://github.com/willHol/rai_ex): Elixir client for managing a node
+
+#### Go
+
+- [NanoGO](https://github.com/Zenitria/nanogo): Nano blockchain interaction library
+- [Nano (Go)](https://github.com/frankh/nano): Implementation of the Nano protocol in Go
+
+#### Java
+
+- [jNano](https://github.com/koczadly/jNano): Comprehensive Java library for Nano
+- [jNano Client](https://github.com/rotilho/jnano-client): Java RPC client that creates and signs transactions client-side
+
+#### JavaScript/TypeScript
+
+- [Nano.js](https://github.com/WriteNaN/Nano.js/blob/main/README.md): Interact with the Nano blockchain from JavaScript
+- [NanoGPTJS](https://github.com/kilkelly/nanogptjs): JavaScript library to interact with NanoGPT for pay-per-prompt AI
+- [nanocurrency-js](https://github.com/marvinroger/nanocurrency-js): Derives keys and seeds, and generates hashes, signatures, work, and blocks
+- [nanopay](https://docs.nanopay.me): JavaScript/TypeScript toolkit for Nano wallets, payments, signing, work, and RPC
+- [nanopay (source)](https://github.com/chiragasarpota/nanopay): GPL-3.0 library based on nanocurrency-js, with local signing and mnemonic support
+- [libnemo](https://www.npmjs.com/package/libnemo): Nano cryptocurrency wallet library
+- [nanocurrency-web](https://github.com/numsu/nanocurrency-web-js): Client-side offline integration toolkit, no NodeJS functions required
+- [RaiBlocksJS](https://github.com/orrybaram/RaiBlocksJS): Isomorphic library for node and wallet management via RPC
+- [RaiBlocksJS 2](https://github.com/SergiySW/RaiBlocksJS): JavaScript RPC functions for node and wallet management (not in active development)
+- [Nano WebSocket Sample (NodeJS)](https://github.com/guilhermelawless/nano-websocket-sample-nodejs): Sample WebSocket client for the Nano node
+- [nano-sdk](https://github.com/infinitybay/nano-sdk): TypeScript SDK with fully typed RPC and WebSocket APIs
+- [nano25519](https://www.npmjs.com/package/nano25519): WebAssembly block signing, key derivation, and signature verification
+
+#### PHP
+
+- [RaiBlocksPHP](https://github.com/jaimehgb/RaiBlocksPHP): PHP methods for building and signing transactions
+- [NanoPHP](https://github.com/MikeRow/NanoPHP): PHP library for CLI and RPC communication with a Nano node
+
+#### Python
+
+- [nanopy](https://github.com/nkr0/nanopy): Python implementation of Nano functions including work and signing
+- [nanolib](https://github.com/Matoking/nanolib): Python library for working with the Nano protocol
+- [RAI (Python)](https://github.com/kennell/rai): Pythonic client for interacting with nodes
+- [Python Nano Tools](https://github.com/paulmelis/nano-tools): Tools for exploring the Nano block lattice
+- [PRai](https://github.com/jxub/prai): Python RPC client
+- [PyRai](https://github.com/icarusglider/PyRai): Python implementation of Nano-related functions
+- [Easyraikit (Python)](https://github.com/AuliaYF/easyraikit-python): RPC library for Python
+- [Nano Python](https://github.com/dourvaris/nano-python): Node RPC client for Python
+- [EasyNano](https://github.com/micah5/easy_nano): Send and receive Nano with two simple functions
+- [Nano WebSocket Sample (Py)](https://github.com/guilhermelawless/nano-websocket-sample-py): Sample WebSocket client for the Nano node
+- [Appia Manta (Python)](https://github.com/appiapay/manta-python): Reference implementation of the Manta payment protocol
+
+#### Ruby
+
+- [Nanook](https://github.com/lukes/nanook): Ruby library for payments and node management
+- [Ruby Nano RPC](https://github.com/jcraigk/ruby_nano_rpc): RPC wrapper for Nano nodes written in Ruby
+- [Nanocurrency (Ruby gem)](https://rubygems.org/gems/nanocurrency): Derives keys and seeds, and generates hashes, signatures, work, and blocks
+
+#### Rust
+
+- [RsNano](https://rsnano.com/): Rust port of the Nano node, memory and thread safe
+- [Feeless](https://github.com/feeless/feeless/): Nano node, wallet, tools, and Rust crate
+- [nano-rs](https://github.com/fu5ha/nano-rs): Implementation of Nano in Rust using Tokio
+
+#### Swift
+
+- [NanoSwift](https://github.com/Priva28/NanoSwift): Swift library for wallets, accounts, blocks, amounts, and node RPC
+
+### Test Network
+
+- [Test Network Portal](https://beta.nano.org/): Main resources
+- [Beta Network Wiki & Guide](https://github.com/NanoTools/wiki/blob/master/Beta-Network.md): How to run a beta node and test new features
+
+### Miscellaneous
+
+- [HectorChu GitHub](https://github.com/hectorchu): Additional tools
+- [Ogdolo](https://ogdolo.com): Crypto-address alias
+- [BIP39 Demo](https://github.com/roosmaa/nano-bip39-demo): Demonstrates BIP39 mnemonic seeds for Nano accounts
+- [Natricon](https://natricon.com/): Identicon generator
+- [Prailude](https://github.com/slact/prailude): Lua/C Nano node
+- [Nano Address Notifier](https://github.com/Joohansson/nano-address-notifier): Tracks accounts and notifies by log file or email
+- [Nano-Prettify](https://github.com/kilkelly/nano-prettify): Format raw amounts (JS)
+- [Nanocap](https://github.com/cryptocode/nanocap): Protocol analyser
+- [Wireshark RaiBlocks Dissector](https://gist.github.com/slact/63571aad31d8f445ac045391a7857ef5): Decodes Nano network packets in Wireshark
+- [Nano Address Validator](https://github.com/alecrios/nano-address-validator): Checks that a Nano address is well-formed
+- [Nano Unit Converter](https://github.com/alecrios/nano-unit-converter): Converts between raw and other Nano units
+- [Nano Base32](https://github.com/termhn/nano-base32): Encoding/decoding
+- [SecureSeedCommands (source)](https://github.com/pRizz/SecureSeedCommands): Generates commands for creating cryptographically secure seeds
+- [Offline-QR](https://github.com/Joohansson/offline-qr): Air-gapped data transfer
+- [Nanoidenticons](https://github.com/keerifox/Nanoidenticons): Generates unique avatars from Nano addresses
+- [musig-nano](https://github.com/PlasmaPower/musig-nano): Multisig demo
+- [NanoDrop](https://github.com/anarkrypto/nanodrop): Faucet
+- [Nano Binance Refund Bot](https://github.com/jamescoxon/Nano_Binance_Refund_Bot): Community-funded bot refunding Binance withdrawal fees to the receiving account
+- [NanoStatus](https://github.com/schenkty/nanostatus): macOS menu-bar price
+- [Stylish QR Code Guide](https://medium.com/@d84/how-to-create-a-stylish-nano-qr-code-1bfc1eba5a96): How to design a branded Nano payment QR code
+
+## Merchant & Payment Tools
+
+### Payment Services
+
+- [Wirex](https://wirexapp.com/): Visa payment card, fiat on/off ramp
+- [CoinGate](https://coingate.com/): Nano payment service & gateway
+- [nano.to](https://nano.to/): Nano payment service and API
+- [NowPayments](https://nowpayments.io/): Multicurrency payment service
+- [Simplex](https://www.simplex.com/): Credit card payment service
+- [ShareRing](https://sharering.network/): Sharing & rental service
+- [Madora](https://madora.io/): Instant payments for US businesses
+- [Coinify](https://coinify.com/): Payment processing with invoice capabilities
+- [Onramp.money](https://onramp.money/): Multi-currency fiat on/off ramps
+- [LetsExchange](https://letsexchange.io/): White label exchange solutions
+- [WeNano Business](https://wenano.medium.com/announcing-wenano-business-for-ios-and-android-80bf77b078b8): Spot Hosting
+
+### Plugins & Extensions
+
+- [Wordpress Plugin](https://wordpress.org/plugins/cryptopay/): Nano, IOTA, XLM, XRP, SEPA payments
+- [Nano Donate](https://nanocharts.info/nano-donate.html): Chrome donation extension
+- [Accept Nano](https://accept-nano.com): Self-hosted Go/JS payment gateway
+
+### Point of Sale (POS) Tools
+
+- [Kappture](https://kappture.co.uk/): Payment service, PoS
+- [Nault](https://nault.cc/): PoS (wallet setup needed)
+- [Nandro](https://github.com/JerzyStanislawski/Nandro): Simple desktop POS
+- [XNOPay POS](https://pos.xnopay.com/): POS with secure PIN-protected payouts
+
+### Payment Request Tools
+
+- [Bitrequest](https://bitrequest.io/): Create and share payment requests
+- [PayNano](https://paynano.me/): Generate payment/donation pages
+- [QvaPay](https://qvapay.com/): International payment processing (Spanish)
+
+### Other Merchant Tools
+
+- [Bitback](https://bitback.me/): Payment service, address book
+- [MoonPay](https://www.moonpay.com/business/onramps): White label exchange solutions
+- [HectorChu GitHub](https://github.com/hectorchu): Utilities
+- [Nano Stream Tip](https://github.com/jnki/nano-stream-tip): Show tips on your Youtube/Twitch streams

@@ -180,6 +180,47 @@ result = result.replace('{{DESCRIPTION}}', esc_attr(data.get('description', ''))
 
 open(OUT, 'w', encoding='utf-8').write(result)
 
+# ------------------------------------------------------------- llms.txt
+
+def render_llms():
+    """Write llms.txt: a plain markdown view of the directory for LLMs."""
+    out = []
+    out.append('# %s' % data.get('name', 'Directory'))
+    out.append('')
+    out.append('> %s' % data.get('description', ''))
+    out.append('')
+    out.append('Machine-readable version of this directory: %s/directory.json'
+               % data.get('url', '').rstrip('/'))
+    out.append('Last updated: %s' % data.get('updated', ''))
+    out.append('')
+
+    def section(sec, depth):
+        hashes = '#' * min(depth + 1, 6)
+        out.append('%s %s' % (hashes, sec['title']))
+        out.append('')
+        for e in grouped.get(sec['id'], []):
+            desc = e.get('description')
+            if desc:
+                out.append('- [%s](%s): %s' % (e['name'], e['url'], desc))
+            else:
+                out.append('- [%s](%s)' % (e['name'], e['url']))
+        if grouped.get(sec['id']):
+            out.append('')
+        for k in sec.get('children', []):
+            section(k, depth + 1)
+
+    for s in sections:
+        section(s, 1)
+
+    text = '\n'.join(out).rstrip() + '\n'
+    open('llms.txt', 'w', encoding='utf-8').write(text)
+    return text
+
+
+llms = render_llms()
+print('Wrote llms.txt (%d lines, %.1f KB)'
+      % (llms.count('\n'), len(llms.encode('utf-8')) / 1024))
+
 print('Wrote %s' % OUT)
 print('  sections: %d (%d top level)' % (len(index), len(sections)))
 print('  entries : %d' % len(entries))
