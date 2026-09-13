@@ -1,8 +1,7 @@
 {
   "name": "Nano Directory",
   "url": "https://www.nanodirectory.info",
-  "description": "A directory of links and tools for the Nano ($XNO) cryptocurrency ecosystem.",
-  "updated": "2026-09-14",
+  "description": "A directory of links and tools for the Nano ($XNO) cryptocurrency ecosystem, designed for users, developers, and agents.",  "updated": "2026-09-14",
   "sections": [
     {
       "id": "information",
