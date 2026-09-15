@@ -3,7 +3,7 @@
 > A directory of links and tools for the Nano ($XNO) cryptocurrency ecosystem, designed for users, developers, and agents.
 
 Machine-readable version of this directory: https://www.nanodirectory.info/directory.json
-Last updated: 2026-09-14
+Last updated: 2026-09-15
 
 ## For AI agents
 
@@ -21,6 +21,7 @@ Entries below are marked [agent] where the project is built for autonomous agent
 - [Ӿ402Nano.org](https://www.x402nano.org/): Feeless x402 facilitator for Nano, no login required [agent]
 - [Feeless402](https://feeless402.com): Feeless x402 payments in Nano, plus a faucet giving agents their first XNO [agent]
 - [Feeless402 (source)](https://github.com/Feeless402/feeless402): Feeless rail for the x402 agent economy [agent]
+- [openai-agents-nano](https://github.com/PANDeveloper001/openai-agents-nano-x402): OpenAI Agents SDK tool that pays x402-priced HTTP endpoints in self-custodied Nano (XNO) [agent]
 - [NanoGate](https://nanogate.run/): Nano gateway on the Internet Computer, enabling ICP canisters to query Nano accounts and send transactions [agent]
 
 ### Infrastructure for agents
@@ -452,6 +453,7 @@ Entries below are marked [agent] where the project is built for autonomous agent
 - [Ӿ402Nano.org](https://www.x402nano.org/): Feeless x402 facilitator for Nano, no login required [agent]
 - [Feeless402](https://feeless402.com): Feeless x402 payments in Nano, plus a faucet giving agents their first XNO [agent]
 - [Feeless402 (source)](https://github.com/Feeless402/feeless402): Feeless rail for the x402 agent economy [agent]
+- [openai-agents-nano](https://github.com/PANDeveloper001/openai-agents-nano-x402): OpenAI Agents SDK tool that pays x402-priced HTTP endpoints in self-custodied Nano (XNO) [agent]
 - [NanoGate](https://nanogate.run/): Nano gateway on the Internet Computer, enabling ICP canisters to query Nano accounts and send transactions [agent]
 
 ### Node Tools & Applications

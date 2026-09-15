@@ -2,7 +2,7 @@
   "name": "Nano Directory",
   "url": "https://www.nanodirectory.info",
   "description": "A directory of links and tools for the Nano ($XNO) cryptocurrency ecosystem, designed for users, developers, and agents.",
-  "updated": "2026-09-14",
+  "updated": "2026-09-15",
   "sections": [
     {
       "id": "information",
@@ -1982,6 +1982,15 @@
       "name": "Feeless402 (source)",
       "url": "https://github.com/Feeless402/feeless402",
       "description": "Feeless rail for the x402 agent economy",
+      "section": "apis-and-payment-tools",
+      "tags": [
+        "agent"
+      ]
+    },
+    {
+      "name": "openai-agents-nano",
+      "url": "https://github.com/PANDeveloper001/openai-agents-nano-x402",
+      "description": "OpenAI Agents SDK tool that pays x402-priced HTTP endpoints in self-custodied Nano (XNO)",
       "section": "apis-and-payment-tools",
       "tags": [
         "agent"
