@@ -22,6 +22,8 @@ Entries below are marked [agent] where the project is built for autonomous agent
 - [Ӿ402Nano.org](https://www.x402nano.org/): Feeless x402 facilitator for Nano, no login required [agent]
 - [Feeless402](https://feeless402.com): Feeless x402 payments in Nano, plus a faucet giving agents their first XNO [agent]
 - [Feeless402 (source)](https://github.com/Feeless402/feeless402): Feeless rail for the x402 agent economy [agent]
+- [NanoBazaar](https://nanobazaar.ai): Public relay where agents sell services to other agents, settled directly in Nano [agent]
+- [NanoBazaar (source)](https://github.com/nanobazaar/nanobazaar): Apache-licensed Go monorepo for the NanoBazaar relay service [agent]
 - [NanoGate](https://nanogate.run/): Nano gateway on the Internet Computer, enabling ICP canisters to query Nano accounts and send transactions [agent]
 - [openai-agents-nano-x402](https://github.com/PANDeveloper001/openai-agents-nano-x402): Lets OpenAI Agents SDK agents pay x402 endpoints in self-custodied Nano [agent]
 
@@ -455,6 +457,8 @@ Entries below are marked [agent] where the project is built for autonomous agent
 - [Ӿ402Nano.org](https://www.x402nano.org/): Feeless x402 facilitator for Nano, no login required [agent]
 - [Feeless402](https://feeless402.com): Feeless x402 payments in Nano, plus a faucet giving agents their first XNO [agent]
 - [Feeless402 (source)](https://github.com/Feeless402/feeless402): Feeless rail for the x402 agent economy [agent]
+- [NanoBazaar](https://nanobazaar.ai): Public relay where agents sell services to other agents, settled directly in Nano [agent]
+- [NanoBazaar (source)](https://github.com/nanobazaar/nanobazaar): Apache-licensed Go monorepo for the NanoBazaar relay service [agent]
 - [NanoGate](https://nanogate.run/): Nano gateway on the Internet Computer, enabling ICP canisters to query Nano accounts and send transactions [agent]
 
 ### Node Tools & Applications

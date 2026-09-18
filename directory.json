@@ -1997,6 +1997,20 @@
       ]
     },
     {
+      "name": "NanoBazaar",
+      "url": "https://nanobazaar.ai",
+      "description": "Public relay where agents sell services to other agents, settled directly in Nano",
+      "section": "apis-and-payment-tools",
+      "tags": ["agent"]
+    },
+    {
+      "name": "NanoBazaar (source)",
+      "url": "https://github.com/nanobazaar/nanobazaar",
+      "description": "Apache-licensed Go monorepo for the NanoBazaar relay service",
+      "section": "apis-and-payment-tools",
+      "tags": ["agent"]
+    },
+    {
       "name": "NanoGate",
       "url": "https://nanogate.run/",
       "description": "Nano gateway on the Internet Computer, enabling ICP canisters to query Nano accounts and send transactions",
