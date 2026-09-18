@@ -492,7 +492,7 @@
     },
     {
       "name": "Scalability of Bitcoin and Nano protocols: Comparison",
-      "url": "http://www.diva-portal.org/smash/get/diva2:1229650/FULLTEXT02.pdf",
+      "url": "https://www.diva-portal.org/smash/get/diva2:1229650/FULLTEXT02.pdf",
       "section": "scientific-papers"
     },
     {
@@ -2526,6 +2526,13 @@
       "url": "https://github.com/appiapay/manta-python",
       "description": "Reference implementation of the Manta payment protocol",
       "section": "group-python"
+    },
+    {
+      "name": "openai-agents-nano-x402",
+      "url": "https://github.com/PANDeveloper001/openai-agents-nano-x402",
+      "description": "Lets OpenAI Agents SDK agents pay x402 endpoints in self-custodied Nano",
+      "section": "group-python",
+      "tags": ["agent"]
     },
     {
       "name": "Nanook",

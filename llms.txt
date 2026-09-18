@@ -22,6 +22,7 @@ Entries below are marked [agent] where the project is built for autonomous agent
 - [Feeless402](https://feeless402.com): Feeless x402 payments in Nano, plus a faucet giving agents their first XNO [agent]
 - [Feeless402 (source)](https://github.com/Feeless402/feeless402): Feeless rail for the x402 agent economy [agent]
 - [NanoGate](https://nanogate.run/): Nano gateway on the Internet Computer, enabling ICP canisters to query Nano accounts and send transactions [agent]
+- [openai-agents-nano-x402](https://github.com/PANDeveloper001/openai-agents-nano-x402): Lets OpenAI Agents SDK agents pay x402 endpoints in self-custodied Nano [agent]
 
 ### Infrastructure for agents
 
@@ -96,7 +97,7 @@ Entries below are marked [agent] where the project is built for autonomous agent
 ### Scientific Papers
 
 - [Distributed Ledger Technology: Blockchain Compared to Directed Acyclic Graph](https://www.researchgate.net/publication/324793344_Distributed_Ledger_Technology_Blockchain_Compared_to_Directed_Acyclic_Graph)
-- [Scalability of Bitcoin and Nano protocols: Comparison](http://www.diva-portal.org/smash/get/diva2:1229650/FULLTEXT02.pdf)
+- [Scalability of Bitcoin and Nano protocols: Comparison](https://www.diva-portal.org/smash/get/diva2:1229650/FULLTEXT02.pdf)
 
 ### Videos
 
@@ -570,6 +571,7 @@ Entries below are marked [agent] where the project is built for autonomous agent
 - [EasyNano](https://github.com/micah5/easy_nano): Send and receive Nano with two simple functions
 - [Nano WebSocket Sample (Py)](https://github.com/guilhermelawless/nano-websocket-sample-py): Sample WebSocket client for the Nano node [agent-infra]
 - [Appia Manta (Python)](https://github.com/appiapay/manta-python): Reference implementation of the Manta payment protocol
+- [openai-agents-nano-x402](https://github.com/PANDeveloper001/openai-agents-nano-x402): Lets OpenAI Agents SDK agents pay x402 endpoints in self-custodied Nano [agent]
 
 #### Ruby
 
