@@ -1952,6 +1952,15 @@
       ]
     },
     {
+      "name": "Nagora MCP Server",
+      "url": "https://github.com/m-flex/nagora-mcp",
+      "description": "MCP server letting AI agents search Nagora listings, buy with escrow and fetch signed receipts, paid in Nano",
+      "section": "apis-and-payment-tools",
+      "tags": [
+        "agent"
+      ]
+    },
+    {
       "name": "x402nano (source)",
       "url": "https://github.com/x402nano",
       "description": "Developer resources for integrating Nano payments over x402 protocol",
