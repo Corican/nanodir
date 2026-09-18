@@ -27,24 +27,6 @@ attribution required. You may use it for anything.
 
 ---
 
-## How the site is built
-
-`directory.json` is the master copy. `build.py` reads it and writes
-`index.html` and `llms.txt`, using `template.html` for the page shell.
-
-```
-python3 build.py
-```
-
-Do not edit `index.html` or `llms.txt` by hand. They are generated and any
-manual change is lost on the next build.
-
-`build.py` validates as it runs. It refuses to build if an entry points at a
-section that does not exist or carries a malformed URL, and it warns if one
-URL is listed under two different names.
-
----
-
 ## Submitting an entry
 
 **Open an issue.** That is the preferred route and the easiest for everyone.
@@ -52,13 +34,14 @@ Include:
 
 - The project name
 - A link to it
-- One sentence describing what it does
+- A description of the site/project
 - Which section you think it belongs in
 - Whether you are the author
 
-A pull request is also welcome if you are comfortable editing JSON. Add your
-entry to `directory.json`, run `python3 build.py`, and commit all three
-changed files together.
+A pull request is also welcome if you are comfortable editing JSON. Edit
+`directory.json` only. `index.html` and `llms.txt` are generated from it and
+will be regenerated after your change is merged, so there is no need to touch
+them.
 
 Self-promotion is fine. Most submissions come from the people who built the
 thing. Just say so, so it is clear what is being read.
@@ -85,7 +68,6 @@ Nano, or it duplicates something already listed.
 
 - Descriptions are short and factual. No marketing language.
 - A project may appear in several sections where genuinely relevant.
-- The same URL always uses the same name, wherever it appears.
 - Where a project has both a site and a repository, the repository entry is
   named `Project (source)`.
 
