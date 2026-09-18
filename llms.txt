@@ -3,7 +3,7 @@
 > A directory of links and tools for the Nano ($XNO) cryptocurrency ecosystem, designed for users, developers, and agents.
 
 Machine-readable version of this directory: https://www.nanodirectory.info/directory.json
-Last updated: 2026-09-18
+Last updated: 2026-09-19
 
 ## For AI agents
 
@@ -17,6 +17,7 @@ Entries below are marked [agent] where the project is built for autonomous agent
 - [NanoGPTJS](https://github.com/kilkelly/nanogptjs): JavaScript library to interact with NanoGPT for pay-per-prompt AI [agent]
 - [Nano Currency MCP Server](https://github.com/kilkelly/nano-currency-mcp-server): MCP server enabling AI agents to send Nano and retrieve account info [agent]
 - [MCP (Nano) Server](https://github.com/dhyabi2/NANO_MCP_SERVER): MCP server to create wallets, check balance, send/receive Nano [agent]
+- [Nagora MCP Server](https://github.com/m-flex/nagora-mcp): MCP server letting AI agents search Nagora listings, buy with escrow and fetch signed receipts, paid in Nano [agent]
 - [x402nano (source)](https://github.com/x402nano): Developer resources for integrating Nano payments over x402 protocol [agent]
 - [Ӿ402Nano.org](https://www.x402nano.org/): Feeless x402 facilitator for Nano, no login required [agent]
 - [Feeless402](https://feeless402.com): Feeless x402 payments in Nano, plus a faucet giving agents their first XNO [agent]
@@ -449,6 +450,7 @@ Entries below are marked [agent] where the project is built for autonomous agent
 - [NanoGPTJS](https://github.com/kilkelly/nanogptjs): JavaScript library to interact with NanoGPT for pay-per-prompt AI [agent]
 - [Nano Currency MCP Server](https://github.com/kilkelly/nano-currency-mcp-server): MCP server enabling AI agents to send Nano and retrieve account info [agent]
 - [MCP (Nano) Server](https://github.com/dhyabi2/NANO_MCP_SERVER): MCP server to create wallets, check balance, send/receive Nano [agent]
+- [Nagora MCP Server](https://github.com/m-flex/nagora-mcp): MCP server letting AI agents search Nagora listings, buy with escrow and fetch signed receipts, paid in Nano [agent]
 - [x402nano (source)](https://github.com/x402nano): Developer resources for integrating Nano payments over x402 protocol [agent]
 - [Ӿ402Nano.org](https://www.x402nano.org/): Feeless x402 facilitator for Nano, no login required [agent]
 - [Feeless402](https://feeless402.com): Feeless x402 payments in Nano, plus a faucet giving agents their first XNO [agent]
