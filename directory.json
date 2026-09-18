@@ -2,7 +2,7 @@
   "name": "Nano Directory",
   "url": "https://www.nanodirectory.info",
   "description": "A directory of links and tools for the Nano ($XNO) cryptocurrency ecosystem, designed for users, developers, and agents.",
-  "updated": "2026-09-14",
+  "updated": "2026-09-18",
   "sections": [
     {
       "id": "information",
@@ -2532,7 +2532,9 @@
       "url": "https://github.com/PANDeveloper001/openai-agents-nano-x402",
       "description": "Lets OpenAI Agents SDK agents pay x402 endpoints in self-custodied Nano",
       "section": "group-python",
-      "tags": ["agent"]
+      "tags": [
+        "agent"
+      ]
     },
     {
       "name": "Nanook",

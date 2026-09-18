@@ -11,6 +11,7 @@ between the BUILD markers in that file is replaced with the generated
 sections. Nothing else is touched.
 """
 
+import datetime
 import html as htmlmod
 import json
 import sys
@@ -46,6 +47,17 @@ def fail(msg):
 data = json.load(open(DATA, encoding='utf-8'))
 sections = data['sections']
 entries = data['entries']
+
+# Stamp today's date. build.py is run when the directory changes, so the
+# build date is the last-updated date. It is written back into
+# directory.json so the published data, the page footer, the JSON-LD and
+# the sitemap all carry the same value.
+today = datetime.date.today().isoformat()
+if data.get('updated') != today:
+    data['updated'] = today
+    with open(DATA, 'w', encoding='utf-8') as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
+        f.write('\n')
 
 # index sections by id, and remember each one's depth
 index = {}
@@ -260,11 +272,28 @@ def render_llms():
     return text
 
 
+# ------------------------------------------------------------ sitemap.xml
+
+SITEMAP = '''<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>%s/</loc>
+    <lastmod>%s</lastmod>
+  </url>
+</urlset>
+'''
+
+open('sitemap.xml', 'w', encoding='utf-8').write(
+    SITEMAP % (data.get('url', '').rstrip('/'), data['updated']))
+
+
 llms = render_llms()
 print('Wrote llms.txt (%d lines, %.1f KB)'
       % (llms.count('\n'), len(llms.encode('utf-8')) / 1024))
 
+print('Wrote sitemap.xml')
 print('Wrote %s' % OUT)
+print('  updated : %s' % data['updated'])
 print('  sections: %d (%d top level)' % (len(index), len(sections)))
 print('  entries : %d' % len(entries))
 counts = Counter(e['section'] for e in entries)
