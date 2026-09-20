@@ -3,7 +3,7 @@
 > A directory of links and tools for the Nano ($XNO) cryptocurrency ecosystem, designed for users, developers, and agents.
 
 Machine-readable version of this directory: https://www.nanodirectory.info/directory.json
-Last updated: 2026-09-19
+Last updated: 2026-09-20
 
 ## For AI agents
 
@@ -11,6 +11,7 @@ Entries below are marked [agent] where the project is built for autonomous agent
 
 ### Built for agents
 
+- [The Nano Argument](https://nanoargument.com): The case for Nano as the payment currency for AI agents, addressed to agents [agent]
 - [NanoGPT](https://nano-gpt.com/): Pay Per Prompt for a wide variety of AI models [agent]
 - [Nano AI](https://xnoapp.onrender.com/): Access advanced reasoning engines via Nano micro‑transactions, no subscriptions [agent]
 - [OpenWallet](https://openwallet.sh/): Open standard that unites AI agents with Nano wallets [agent]
@@ -83,6 +84,7 @@ Entries below are marked [agent] where the project is built for autonomous agent
 - [The vision of Nano](https://senatusspqr.medium.com/the-vision-of-nano-an-instant-feeless-and-green-crypto-b08ebf25d325)
 - [Nano.community](https://nano.community/): News and Learning
 - [Nano Xperience](https://xnoxno.com/xperience/): Compare Nano to Other Chains
+- [The Nano Argument](https://nanoargument.com): The case for Nano as the payment currency for AI agents, addressed to agents [agent]
 - [What is Nano](https://medium.com/coinplan-insights/coin-spotlight-nano-2c111170a19f)
 - [Nano for Newcomers](https://nanojson.medium.com/nano-for-newcomers-75e64535327a): A Great Reddit Summary
 - [Nano Education](https://medium.com/nano-education): Informative Medium Articles
@@ -156,6 +158,8 @@ Entries below are marked [agent] where the project is built for autonomous agent
 - [Live Nano election visualization](https://nanovisual.numsu.dev/)
 - [SomeNano Snow](https://snow.somenano.com/): Real-time Snowflakes
 - [SomeNano Magic Eye](https://magiceye.somenano.com/): Real-time stereogram
+- [SomeNano Plinko](https://plinko.somenano.com/): Live transactions falling as Natricons on a plinko board
+- [NanoMusic](https://github.com/Joohansson/nanomusic): A musical interpretation of the Nano blockchain in HTML5 and JavaScript
 - [Nano Rockets](https://anarkrypto.github.io/nanorockets/): Transaction Visualizer
 - [Nano Charts](https://nanocharts.info/): Representative stats
 - [Nano.community](https://nano.community/representatives): Representative stats
@@ -339,12 +343,12 @@ Entries below are marked [agent] where the project is built for autonomous agent
 - [CardStorm](https://cardstorm.io/): More Gift Cards
 - [Travala](https://www.travala.com/): Book Flights and Hotels with Nano
 - [Sleap](https://sleap.io/): Book Flights and Hotels with Nano
-- [XNOVerse](https://xnoverse.com/): Pay-per-article
 - [Subnano](https://subnano.me/): Pay-per-article
 - [Benture](https://benture.io/): Remote Jobs, Paid in XNO
 - [Nanowall.link](https://nanowall.link/): Content Monetizer
 - [Nagora](https://nagora.shop/): Marketplace for buying and selling items with Nano
 - [Nano Market](https://market.nanoriver.io/): Buy and Sell items using Nano
+- [LocalXNO](https://localxno.com/): Peer-to-peer Nano marketplace
 - [Upstart](https://upst-art.net/): Content Hosting
 - [NanoGPT](https://nano-gpt.com/): Pay Per Prompt for a wide variety of AI models [agent]
 - [LongStories.ai](https://longstories.ai/): Create animated short movies using Nano credits
@@ -369,6 +373,11 @@ Entries below are marked [agent] where the project is built for autonomous agent
 - [CryptoVision](https://cryptovision.live/): Watch videos and get paid Nano
 - [WeNano](https://wenano.net/): Collect Nano from geo-located spots worldwide
 
+### Finance & Accounting
+
+- [CoinRabbit](https://coinrabbit.io/): Crypto lending platform offering XNO-backed loans and interest deposits
+- [Blockpit](https://www.blockpit.io/): Crypto tax service tracking Nano alongside other currencies
+
 ### Entertainment
 
 #### Gambling, Betting
@@ -377,7 +386,6 @@ Entries below are marked [agent] where the project is built for autonomous agent
 - [NanBet](https://nanbet.io/): Rock, Paper, Scissors
 - [PlayNANO](https://playnano.online/roulette): Provably Fair Roulette
 - [Pasino](https://pasino.com/): Social Gambling Platform
-- [DuckHunk](https://xnoverse.com/demos/duckhunk/): DuckHunt Game
 
 #### Games
 
@@ -395,7 +403,6 @@ Entries below are marked [agent] where the project is built for autonomous agent
 
 #### Video, Music, Art
 
-- [PixelVerse](https://xnoverse.com/pixelverse/): Pay Per Pixel
 - [Million Nano Homepage](https://millionnanohomepage.com/): Pay Per Pixel
 
 ## Development Resources
@@ -604,6 +611,8 @@ Entries below are marked [agent] where the project is built for autonomous agent
 
 - [HectorChu GitHub](https://github.com/hectorchu): Additional tools
 - [Ogdolo](https://ogdolo.com): Crypto-address alias
+- [XNO.LINK](https://xno.link/): Create a free, memorable alias for your Nano address
+- [KeyTools](https://github.com/Joohansson/keytools): Secure web tools for Nano with offline support
 - [BIP39 Demo](https://github.com/roosmaa/nano-bip39-demo): Demonstrates BIP39 mnemonic seeds for Nano accounts
 - [Natricon](https://natricon.com/): Identicon generator
 - [Prailude](https://github.com/slact/prailude): Lua/C Nano node

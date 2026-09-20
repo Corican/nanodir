@@ -2,7 +2,7 @@
   "name": "Nano Directory",
   "url": "https://www.nanodirectory.info",
   "description": "A directory of links and tools for the Nano ($XNO) cryptocurrency ecosystem, designed for users, developers, and agents.",
-  "updated": "2026-09-19",
+  "updated": "2026-09-20",
   "sections": [
     {
       "id": "information",
@@ -169,6 +169,10 @@
         {
           "id": "earn-nano",
           "title": "Earn Nano"
+        },
+        {
+          "id": "finance-and-accounting",
+          "title": "Finance & Accounting"
         },
         {
           "id": "entertainment",
@@ -432,6 +436,15 @@
       "url": "https://xnoxno.com/xperience/",
       "description": "Compare Nano to Other Chains",
       "section": "education--adoption"
+    },
+    {
+      "name": "The Nano Argument",
+      "url": "https://nanoargument.com",
+      "description": "The case for Nano as the payment currency for AI agents, addressed to agents",
+      "section": "education--adoption",
+      "tags": [
+        "agent"
+      ]
     },
     {
       "name": "What is Nano",
@@ -717,6 +730,18 @@
       "name": "SomeNano Magic Eye",
       "url": "https://magiceye.somenano.com/",
       "description": "Real-time stereogram",
+      "section": "network-sites"
+    },
+    {
+      "name": "SomeNano Plinko",
+      "url": "https://plinko.somenano.com/",
+      "description": "Live transactions falling as Natricons on a plinko board",
+      "section": "network-sites"
+    },
+    {
+      "name": "NanoMusic",
+      "url": "https://github.com/Joohansson/nanomusic",
+      "description": "A musical interpretation of the Nano blockchain in HTML5 and JavaScript",
       "section": "network-sites"
     },
     {
@@ -1391,12 +1416,6 @@
       "section": "services"
     },
     {
-      "name": "XNOVerse",
-      "url": "https://xnoverse.com/",
-      "description": "Pay-per-article",
-      "section": "services"
-    },
-    {
       "name": "Subnano",
       "url": "https://subnano.me/",
       "description": "Pay-per-article",
@@ -1424,6 +1443,12 @@
       "name": "Nano Market",
       "url": "https://market.nanoriver.io/",
       "description": "Buy and Sell items using Nano",
+      "section": "services"
+    },
+    {
+      "name": "LocalXNO",
+      "url": "https://localxno.com/",
+      "description": "Peer-to-peer Nano marketplace",
       "section": "services"
     },
     {
@@ -1553,6 +1578,18 @@
       "section": "earn-nano"
     },
     {
+      "name": "CoinRabbit",
+      "url": "https://coinrabbit.io/",
+      "description": "Crypto lending platform offering XNO-backed loans and interest deposits",
+      "section": "finance-and-accounting"
+    },
+    {
+      "name": "Blockpit",
+      "url": "https://www.blockpit.io/",
+      "description": "Crypto tax service tracking Nano alongside other currencies",
+      "section": "finance-and-accounting"
+    },
+    {
       "name": "LuckyNano",
       "url": "https://luckynano.com/",
       "description": "Gambling",
@@ -1574,12 +1611,6 @@
       "name": "Pasino",
       "url": "https://pasino.com/",
       "description": "Social Gambling Platform",
-      "section": "gambling-betting"
-    },
-    {
-      "name": "DuckHunk",
-      "url": "https://xnoverse.com/demos/duckhunk/",
-      "description": "DuckHunt Game",
       "section": "gambling-betting"
     },
     {
@@ -1647,12 +1678,6 @@
       "url": "https://xno-fishing.space/",
       "description": "Real-time multiplayer fishing",
       "section": "games"
-    },
-    {
-      "name": "PixelVerse",
-      "url": "https://xnoverse.com/pixelverse/",
-      "description": "Pay Per Pixel",
-      "section": "video-music-art"
     },
     {
       "name": "Million Nano Homepage",
@@ -2001,14 +2026,18 @@
       "url": "https://nanobazaar.ai",
       "description": "Public relay where agents sell services to other agents, settled directly in Nano",
       "section": "apis-and-payment-tools",
-      "tags": ["agent"]
+      "tags": [
+        "agent"
+      ]
     },
     {
       "name": "NanoBazaar (source)",
       "url": "https://github.com/nanobazaar/nanobazaar",
       "description": "Apache-licensed Go monorepo for the NanoBazaar relay service",
       "section": "apis-and-payment-tools",
-      "tags": ["agent"]
+      "tags": [
+        "agent"
+      ]
     },
     {
       "name": "NanoGate",
@@ -2623,6 +2652,18 @@
       "name": "Ogdolo",
       "url": "https://ogdolo.com",
       "description": "Crypto-address alias",
+      "section": "miscellaneous"
+    },
+    {
+      "name": "XNO.LINK",
+      "url": "https://xno.link/",
+      "description": "Create a free, memorable alias for your Nano address",
+      "section": "miscellaneous"
+    },
+    {
+      "name": "KeyTools",
+      "url": "https://github.com/Joohansson/keytools",
+      "description": "Secure web tools for Nano with offline support",
       "section": "miscellaneous"
     },
     {
