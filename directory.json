@@ -1002,6 +1002,25 @@
       "section": "faucets-free-nano"
     },
     {
+      "name": "The Nano Button",
+      "url": "https://thenanobutton.com/",
+      "description": "Simple faucet for humans and AI agents to get some Nano",
+      "section": "faucets-free-nano",
+      "tags": ["agent"]
+    },
+    {
+      "name": "Get ӾNO",
+      "url": "https://get-xno.com",
+      "description": "Faucet every 30 minutes, plus an offerwall and weekly codes, no minimum withdrawal",
+      "section": "faucets-free-nano"
+    },
+    {
+      "name": "NanoRiver Faucet",
+      "url": "https://faucet.nanoriver.io/",
+      "description": "Receive a small amount of Nano from the NanoRiver faucet",
+      "section": "faucets-free-nano"
+    },
+    {
       "name": "CoinMarketCap",
       "url": "https://coinmarketcap.com/currencies/nano/",
       "description": "Dominant market cap rankings and charts",
@@ -1578,6 +1597,18 @@
       "section": "earn-nano"
     },
     {
+      "name": "Nano Jobs",
+      "url": "https://nanojobs.space/",
+      "description": "Freelancing platform to find work paid in Nano or list jobs",
+      "section": "earn-nano"
+    },
+    {
+      "name": "xno.click",
+      "url": "https://xno.click/",
+      "description": "Earn Nano through short links, turning long URLs into earnings",
+      "section": "earn-nano"
+    },
+    {
       "name": "CoinRabbit",
       "url": "https://coinrabbit.io/",
       "description": "Crypto lending platform offering XNO-backed loans and interest deposits",
@@ -1679,6 +1710,24 @@
       "description": "Real-time multiplayer fishing",
       "section": "games"
     },
+    {
+  "name": "NO-FEES.SPACE",
+  "url": "https://no-fees.space/",
+  "description": "Arcade of browser games paying out Nano from zero-cost faucets",
+  "section": "games"
+},
+{
+  "name": "Nano BrowserQuest",
+  "url": "https://nanobrowserquest-web.vercel.app/",
+  "description": "Browser MMORPG with small Nano payouts and Nano item trades",
+  "section": "games"
+},
+{
+  "name": "Nano Cards (source)",
+  "url": "https://github.com/Joohansson/nanocards",
+  "description": "Printable card game where players pay into and win from a shared Nano account",
+  "section": "games"
+}
     {
       "name": "Million Nano Homepage",
       "url": "https://millionnanohomepage.com/",
