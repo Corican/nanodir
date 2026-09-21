@@ -3,7 +3,7 @@
 > A directory of links and tools for the Nano ($XNO) cryptocurrency ecosystem, designed for users, developers, and agents.
 
 Machine-readable version of this directory: https://www.nanodirectory.info/directory.json
-Last updated: 2026-09-20
+Last updated: 2026-09-21
 
 ## For AI agents
 
@@ -12,6 +12,7 @@ Entries below are marked [agent] where the project is built for autonomous agent
 ### Built for agents
 
 - [The Nano Argument](https://nanoargument.com): The case for Nano as the payment currency for AI agents, addressed to agents [agent]
+- [The Nano Button](https://thenanobutton.com/): Simple faucet for humans and AI agents to get some Nano [agent]
 - [NanoGPT](https://nano-gpt.com/): Pay Per Prompt for a wide variety of AI models [agent]
 - [Nano AI](https://xnoapp.onrender.com/): Access advanced reasoning engines via Nano micro‑transactions, no subscriptions [agent]
 - [OpenWallet](https://openwallet.sh/): Open standard that unites AI agents with Nano wallets [agent]
@@ -227,6 +228,9 @@ Entries below are marked [agent] where the project is built for autonomous agent
 - [NANOFaucet](https://nano.lol.my.id): Spin every 45 minutes to earn nano
 - [BANXNO Faucet](https://faucet.banxno.com/): Faucet for both BAN and XNO
 - [Nano Space Faucet](https://nanospace.fun/): Simple faucet, with educational guides for beginners
+- [The Nano Button](https://thenanobutton.com/): Simple faucet for humans and AI agents to get some Nano [agent]
+- [Get ӾNO](https://get-xno.com): Faucet every 30 minutes, plus an offerwall and weekly codes, no minimum withdrawal
+- [NanoRiver Faucet](https://faucet.nanoriver.io/): Receive a small amount of Nano from the NanoRiver faucet
 
 ## Market Data & Exchanges
 
@@ -372,6 +376,8 @@ Entries below are marked [agent] where the project is built for autonomous agent
 - [NanoDrops](https://nanodrops.org/): Earn Nano by watching Twitch and Kick streams
 - [CryptoVision](https://cryptovision.live/): Watch videos and get paid Nano
 - [WeNano](https://wenano.net/): Collect Nano from geo-located spots worldwide
+- [Nano Jobs](https://nanojobs.space/): Freelancing platform to find work paid in Nano or list jobs
+- [xno.click](https://xno.click/): Earn Nano through short links, turning long URLs into earnings
 
 ### Finance & Accounting
 
@@ -400,6 +406,9 @@ Entries below are marked [agent] where the project is built for autonomous agent
 - [Luis Astroids](https://luis-garcia-remes.itch.io/nano-visualizer): Transaction Shooter
 - [Aurora Seekers](https://xno-aurora.space/): Rhythm adventure game
 - [Fishing Frenzy](https://xno-fishing.space/): Real-time multiplayer fishing
+- [NO-FEES.SPACE](https://no-fees.space/): Arcade of browser games paying out Nano from zero-cost faucets
+- [Nano BrowserQuest](https://nanobrowserquest-web.vercel.app/): Browser MMORPG with small Nano payouts and Nano item trades
+- [Nano Cards (source)](https://github.com/Joohansson/nanocards): Printable card game where players pay into and win from a shared Nano account
 
 #### Video, Music, Art
 

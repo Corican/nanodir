@@ -2,7 +2,7 @@
   "name": "Nano Directory",
   "url": "https://www.nanodirectory.info",
   "description": "A directory of links and tools for the Nano ($XNO) cryptocurrency ecosystem, designed for users, developers, and agents.",
-  "updated": "2026-09-20",
+  "updated": "2026-09-21",
   "sections": [
     {
       "id": "information",
@@ -1006,7 +1006,9 @@
       "url": "https://thenanobutton.com/",
       "description": "Simple faucet for humans and AI agents to get some Nano",
       "section": "faucets-free-nano",
-      "tags": ["agent"]
+      "tags": [
+        "agent"
+      ]
     },
     {
       "name": "Get ӾNO",
@@ -1711,23 +1713,23 @@
       "section": "games"
     },
     {
-  "name": "NO-FEES.SPACE",
-  "url": "https://no-fees.space/",
-  "description": "Arcade of browser games paying out Nano from zero-cost faucets",
-  "section": "games"
-},
-{
-  "name": "Nano BrowserQuest",
-  "url": "https://nanobrowserquest-web.vercel.app/",
-  "description": "Browser MMORPG with small Nano payouts and Nano item trades",
-  "section": "games"
-},
-{
-  "name": "Nano Cards (source)",
-  "url": "https://github.com/Joohansson/nanocards",
-  "description": "Printable card game where players pay into and win from a shared Nano account",
-  "section": "games"
-}
+      "name": "NO-FEES.SPACE",
+      "url": "https://no-fees.space/",
+      "description": "Arcade of browser games paying out Nano from zero-cost faucets",
+      "section": "games"
+    },
+    {
+      "name": "Nano BrowserQuest",
+      "url": "https://nanobrowserquest-web.vercel.app/",
+      "description": "Browser MMORPG with small Nano payouts and Nano item trades",
+      "section": "games"
+    },
+    {
+      "name": "Nano Cards (source)",
+      "url": "https://github.com/Joohansson/nanocards",
+      "description": "Printable card game where players pay into and win from a shared Nano account",
+      "section": "games"
+    },
     {
       "name": "Million Nano Homepage",
       "url": "https://millionnanohomepage.com/",
