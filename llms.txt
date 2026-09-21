@@ -178,6 +178,7 @@ Entries below are marked [agent] where the project is built for autonomous agent
 - [WeNano](https://wenano.net/): Social wallet (iOS, Android)
 - [Camo Nano](https://github.com/CamoNano/camonanowallet): Desktop wallet
 - [NanChat](https://nanchat.com/): Wallet & Chat App (Coming Soon)
+- [Xnap](https://xnap.xyz/): MetaMask Snap for managing Nano from your existing MetaMask seed
 
 ### Dev Wallets
 
@@ -428,6 +429,7 @@ Entries below are marked [agent] where the project is built for autonomous agent
 - [Nautilus (source)](https://github.com/perishllc/nautilus): Mobile wallet
 - [Natrium (source)](https://github.com/appditto/natrium_wallet_flutter): Mobile wallet
 - [Pippin](https://github.com/appditto/pippin_nano_wallet): High-performance Python wallet
+- [Xnap (source)](https://github.com/ObsidiaHQ/xnap): MetaMask Snap for managing Nano from your existing MetaMask seed
 - [Atto](https://github.com/codesoap/atto): Minimalist CLI wallet
 - [Kaiak](https://github.com/Kaiak/kaiak-wallet): KaiOS wallet
 - [nanoKeyManager](https://github.com/Tumbler/nanoKeyManager): Tool for wallet creation and key management
@@ -655,6 +657,8 @@ Entries below are marked [agent] where the project is built for autonomous agent
 - [Coinify](https://coinify.com/): Payment processing with invoice capabilities
 - [Onramp.money](https://onramp.money/): Multi-currency fiat on/off ramps
 - [LetsExchange](https://letsexchange.io/): White label exchange solutions
+- [Nanswap Pay](https://nanswap.com/pay): Accept Nano with no fees via widget, link, API or e-commerce plugins
+- [MuPay](https://mupay.io/): Usage-based recurring payments with spending limits the payer approves first
 - [WeNano Business](https://wenano.medium.com/announcing-wenano-business-for-ios-and-android-80bf77b078b8): Spot Hosting
 
 ### Plugins & Extensions

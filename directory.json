@@ -815,6 +815,12 @@
       "section": "native-wallets"
     },
     {
+  "name": "Xnap",
+  "url": "https://xnap.xyz/",
+  "description": "MetaMask Snap for managing Nano from your existing MetaMask seed",
+  "section": "native-wallets"
+},
+    {
       "name": "Nano Node Wallet",
       "url": "https://github.com/nanocurrency/nano-node",
       "description": "Original node wallet",
@@ -1778,6 +1784,12 @@
       "description": "High-performance Python wallet",
       "section": "wallets-source-code"
     },
+    {
+  "name": "Xnap (source)",
+  "url": "https://github.com/ObsidiaHQ/xnap",
+  "description": "MetaMask Snap for managing Nano from your existing MetaMask seed",
+  "section": "wallets-source-code"
+},
     {
       "name": "Atto",
       "url": "https://github.com/codesoap/atto",
@@ -2888,6 +2900,18 @@
       "description": "White label exchange solutions",
       "section": "payment-services"
     },
+    {
+  "name": "Nanswap Pay",
+  "url": "https://nanswap.com/pay",
+  "description": "Accept Nano with no fees via widget, link, API or e-commerce plugins",
+  "section": "payment-services"
+},
+{
+  "name": "MuPay",
+  "url": "https://mupay.io/",
+  "description": "Usage-based recurring payments with spending limits the payer approves first",
+  "section": "payment-services"
+},
     {
       "name": "WeNano Business",
       "url": "https://wenano.medium.com/announcing-wenano-business-for-ios-and-android-80bf77b078b8",
