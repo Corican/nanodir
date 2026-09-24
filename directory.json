@@ -2,7 +2,7 @@
   "name": "Nano Directory",
   "url": "https://www.nanodirectory.info",
   "description": "A directory of links and tools for the Nano ($XNO) cryptocurrency ecosystem, designed for users, developers, and agents.",
-  "updated": "2026-09-21",
+  "updated": "2026-09-24",
   "sections": [
     {
       "id": "information",
@@ -23,6 +23,11 @@
             {
               "id": "group-significant-medium-accounts",
               "title": "Significant Medium Accounts",
+              "collapsed": true
+            },
+            {
+              "id": "group-wider-crypto-context",
+              "title": "Wider Crypto Context",
               "collapsed": true
             }
           ]
@@ -815,11 +820,11 @@
       "section": "native-wallets"
     },
     {
-  "name": "Xnap",
-  "url": "https://xnap.xyz/",
-  "description": "MetaMask Snap for managing Nano from your existing MetaMask seed",
-  "section": "native-wallets"
-},
+      "name": "Xnap",
+      "url": "https://xnap.xyz/",
+      "description": "MetaMask Snap for managing Nano from your existing MetaMask seed",
+      "section": "native-wallets"
+    },
     {
       "name": "Nano Node Wallet",
       "url": "https://github.com/nanocurrency/nano-node",
@@ -1785,11 +1790,11 @@
       "section": "wallets-source-code"
     },
     {
-  "name": "Xnap (source)",
-  "url": "https://github.com/ObsidiaHQ/xnap",
-  "description": "MetaMask Snap for managing Nano from your existing MetaMask seed",
-  "section": "wallets-source-code"
-},
+      "name": "Xnap (source)",
+      "url": "https://github.com/ObsidiaHQ/xnap",
+      "description": "MetaMask Snap for managing Nano from your existing MetaMask seed",
+      "section": "wallets-source-code"
+    },
     {
       "name": "Atto",
       "url": "https://github.com/codesoap/atto",
@@ -2901,17 +2906,17 @@
       "section": "payment-services"
     },
     {
-  "name": "Nanswap Pay",
-  "url": "https://nanswap.com/pay",
-  "description": "Accept Nano with no fees via widget, link, API or e-commerce plugins",
-  "section": "payment-services"
-},
-{
-  "name": "MuPay",
-  "url": "https://mupay.io/",
-  "description": "Usage-based recurring payments with spending limits the payer approves first",
-  "section": "payment-services"
-},
+      "name": "Nanswap Pay",
+      "url": "https://nanswap.com/pay",
+      "description": "Accept Nano with no fees via widget, link, API or e-commerce plugins",
+      "section": "payment-services"
+    },
+    {
+      "name": "MuPay",
+      "url": "https://mupay.io/",
+      "description": "Usage-based recurring payments with spending limits the payer approves first",
+      "section": "payment-services"
+    },
     {
       "name": "WeNano Business",
       "url": "https://wenano.medium.com/announcing-wenano-business-for-ios-and-android-80bf77b078b8",
@@ -3004,6 +3009,24 @@
       "url": "https://github.com/jnki/nano-stream-tip",
       "description": "Show tips on your Youtube/Twitch streams",
       "section": "other-merchant-tools"
+    },
+    {
+      "name": "Flashift",
+      "url": "https://flashift.app/",
+      "description": "Swap aggregator across partner exchanges, non-custodial (No KYC)",
+      "section": "quick-swap-and-instant-buy-services"
+    },
+    {
+      "name": "Dynamic interactions between green and non-green cryptocurrencies, clean energy, and financial risks",
+      "url": "https://doi.org/10.1016/j.iref.2026.105759",
+      "description": "Ansarinasab 2026, treats Nano as a green cryptocurrency alongside ADA and ALGO",
+      "section": "scientific-papers"
+    },
+    {
+      "name": "Beyond Proof-of-Work",
+      "url": "https://medium.com/@charta_una/beyond-proof-of-work-rethinking-cryptocurrency-value-and-consensus-a443c8b99961",
+      "description": "Argues crypto value does not require mining, with Nano as a case study",
+      "section": "group-wider-crypto-context"
     }
   ]
 }

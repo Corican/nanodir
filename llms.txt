@@ -3,7 +3,7 @@
 > A directory of links and tools for the Nano ($XNO) cryptocurrency ecosystem, designed for users, developers, and agents.
 
 Machine-readable version of this directory: https://www.nanodirectory.info/directory.json
-Last updated: 2026-09-21
+Last updated: 2026-09-24
 
 ## For AI agents
 
@@ -100,10 +100,15 @@ Entries below are marked [agent] where the project is built for autonomous agent
 - [James Coxon](https://medium.com/@jacoxon)
 - [SomeNano](https://somenano.medium.com/)
 
+#### Wider Crypto Context
+
+- [Beyond Proof-of-Work](https://medium.com/@charta_una/beyond-proof-of-work-rethinking-cryptocurrency-value-and-consensus-a443c8b99961): Argues crypto value does not require mining, with Nano as a case study
+
 ### Scientific Papers
 
 - [Distributed Ledger Technology: Blockchain Compared to Directed Acyclic Graph](https://www.researchgate.net/publication/324793344_Distributed_Ledger_Technology_Blockchain_Compared_to_Directed_Acyclic_Graph)
 - [Scalability of Bitcoin and Nano protocols: Comparison](https://www.diva-portal.org/smash/get/diva2:1229650/FULLTEXT02.pdf)
+- [Dynamic interactions between green and non-green cryptocurrencies, clean energy, and financial risks](https://doi.org/10.1016/j.iref.2026.105759): Ansarinasab 2026, treats Nano as a green cryptocurrency alongside ADA and ALGO
 
 ### Videos
 
@@ -302,6 +307,7 @@ Entries below are marked [agent] where the project is built for autonomous agent
 - [FinchPay Widget](https://widget.finchpay.io/?a=30&p=EUR&c=NANO): Card buy XNO (KYC)
 - [Wirex](https://wirexapp.com/): Multi-fiat wallet; buy XNO (KYC)
 - [XGo](https://xgo.com/app/asset/XNO): Buy / swap XNO (KYC)
+- [Flashift](https://flashift.app/): Swap aggregator across partner exchanges, non-custodial (No KYC)
 
 #### Regional & Fiat-Focused Exchanges
 
