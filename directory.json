@@ -2,7 +2,7 @@
   "name": "Nano Directory",
   "url": "https://www.nanodirectory.info",
   "description": "A directory of links and tools for the Nano ($XNO) cryptocurrency ecosystem, designed for users, developers, and agents.",
-  "updated": "2026-09-24",
+  "updated": "2026-09-25",
   "sections": [
     {
       "id": "information",
@@ -3026,6 +3026,24 @@
       "name": "Beyond Proof-of-Work",
       "url": "https://medium.com/@charta_una/beyond-proof-of-work-rethinking-cryptocurrency-value-and-consensus-a443c8b99961",
       "description": "Argues crypto value does not require mining, with Nano as a case study",
+      "section": "group-wider-crypto-context"
+    },
+    {
+      "name": "SoK: Diving into DAG-based Blockchain Systems",
+      "url": "https://arxiv.org/abs/2012.06128",
+      "description": "Survey of 30+ DAG ledgers, with Nano's block-lattice as a parallel-chain exemplar",
+      "section": "group-wider-crypto-context"
+    },
+    {
+      "name": "A Survey of Distributed Consensus Protocols for Blockchain Networks",
+      "url": "https://arxiv.org/abs/1904.04098",
+      "description": "Broad consensus survey covering Nano's account chains and send-receive pairs",
+      "section": "group-wider-crypto-context"
+    },
+    {
+      "name": "Which Cryptocurrency is the Most Environmentally Friendly?",
+      "url": "https://www.trgdatacenters.com/resource/most-environment-friendly-cryptocurrencies/",
+      "description": "Green crypto comparison citing Nano's Open Representative Voting as a low-energy design",
       "section": "group-wider-crypto-context"
     }
   ]

@@ -3,7 +3,7 @@
 > A directory of links and tools for the Nano ($XNO) cryptocurrency ecosystem, designed for users, developers, and agents.
 
 Machine-readable version of this directory: https://www.nanodirectory.info/directory.json
-Last updated: 2026-09-24
+Last updated: 2026-09-25
 
 ## For AI agents
 
@@ -103,6 +103,9 @@ Entries below are marked [agent] where the project is built for autonomous agent
 #### Wider Crypto Context
 
 - [Beyond Proof-of-Work](https://medium.com/@charta_una/beyond-proof-of-work-rethinking-cryptocurrency-value-and-consensus-a443c8b99961): Argues crypto value does not require mining, with Nano as a case study
+- [SoK: Diving into DAG-based Blockchain Systems](https://arxiv.org/abs/2012.06128): Survey of 30+ DAG ledgers, with Nano's block-lattice as a parallel-chain exemplar
+- [A Survey of Distributed Consensus Protocols for Blockchain Networks](https://arxiv.org/abs/1904.04098): Broad consensus survey covering Nano's account chains and send-receive pairs
+- [Which Cryptocurrency is the Most Environmentally Friendly?](https://www.trgdatacenters.com/resource/most-environment-friendly-cryptocurrencies/): Green crypto comparison citing Nano's Open Representative Voting as a low-energy design
 
 ### Scientific Papers
 
