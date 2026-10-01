@@ -2,7 +2,7 @@
   "name": "Nano Directory",
   "url": "https://www.nanodirectory.info",
   "description": "A directory of links and tools for the Nano ($XNO) cryptocurrency ecosystem, designed for users, developers, and agents.",
-  "updated": "2026-09-25",
+  "updated": "2026-10-01",
   "sections": [
     {
       "id": "information",
@@ -3045,6 +3045,30 @@
       "url": "https://www.trgdatacenters.com/resource/most-environment-friendly-cryptocurrencies/",
       "description": "Green crypto comparison citing Nano's Open Representative Voting as a low-energy design",
       "section": "group-wider-crypto-context"
+    },
+    {
+      "name": "Sailnet",
+      "url": "https://www.sailnet.space/",
+      "description": "Onion-routed privacy network for Android and desktop, paid per megabyte in Nano",
+      "section": "services"
+    },
+    {
+      "name": "Sailnet",
+      "url": "https://www.sailnet.space/",
+      "description": "Run a privacy relay on a VPS or home PC and earn Nano per megabyte",
+      "section": "earn-nano"
+    },
+    {
+      "name": "Sailnet (source)",
+      "url": "https://github.com/dhyabi2/sailnet",
+      "description": "Go source for the Sailnet relay, clients and browser extension; no licence file",
+      "section": "miscellaneous"
+    },
+    {
+      "name": "Readify",
+      "url": "https://readify.to/",
+      "description": "Listen to long articles and documents as speech, with listening time bought in Nano",
+      "section": "services"
     }
   ]
 }

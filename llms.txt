@@ -3,7 +3,7 @@
 > A directory of links and tools for the Nano ($XNO) cryptocurrency ecosystem, designed for users, developers, and agents.
 
 Machine-readable version of this directory: https://www.nanodirectory.info/directory.json
-Last updated: 2026-09-25
+Last updated: 2026-10-01
 
 ## For AI agents
 
@@ -370,6 +370,8 @@ Entries below are marked [agent] where the project is built for autonomous agent
 - [Nano AI](https://xnoapp.onrender.com/): Access advanced reasoning engines via Nano micro‑transactions, no subscriptions [agent]
 - [Nanogrove](https://nanogrove.org/): Send Nano to feed plants and animals
 - [Clean Web MVP](https://github.com/kamina2025/clean-web-mvp): Micropayment suite for media content with a built-in browser wallet
+- [Sailnet](https://www.sailnet.space/): Onion-routed privacy network for Android and desktop, paid per megabyte in Nano
+- [Readify](https://readify.to/): Listen to long articles and documents as speech, with listening time bought in Nano
 
 ### Earn Nano
 
@@ -388,6 +390,7 @@ Entries below are marked [agent] where the project is built for autonomous agent
 - [WeNano](https://wenano.net/): Collect Nano from geo-located spots worldwide
 - [Nano Jobs](https://nanojobs.space/): Freelancing platform to find work paid in Nano or list jobs
 - [xno.click](https://xno.click/): Earn Nano through short links, turning long URLs into earnings
+- [Sailnet](https://www.sailnet.space/): Run a privacy relay on a VPS or home PC and earn Nano per megabyte
 
 ### Finance & Accounting
 
@@ -651,6 +654,7 @@ Entries below are marked [agent] where the project is built for autonomous agent
 - [Nano Binance Refund Bot](https://github.com/jamescoxon/Nano_Binance_Refund_Bot): Community-funded bot refunding Binance withdrawal fees to the receiving account
 - [NanoStatus](https://github.com/schenkty/nanostatus): macOS menu-bar price
 - [Stylish QR Code Guide](https://medium.com/@d84/how-to-create-a-stylish-nano-qr-code-1bfc1eba5a96): How to design a branded Nano payment QR code
+- [Sailnet (source)](https://github.com/dhyabi2/sailnet): Go source for the Sailnet relay, clients and browser extension; no licence file
 
 ## Merchant & Payment Tools
 
