@@ -2,7 +2,7 @@
   "name": "Nano Directory",
   "url": "https://www.nanodirectory.info",
   "description": "A directory of links and tools for the Nano ($XNO) cryptocurrency ecosystem, designed for users, developers, and agents.",
-  "updated": "2026-10-01",
+  "updated": "2026-10-03",
   "sections": [
     {
       "id": "information",
@@ -2037,7 +2037,7 @@
     },
     {
       "name": "MCP (Nano) Server",
-      "url": "https://github.com/dhyabi2/NANO_MCP_SERVER",
+      "url": "https://github.com/dhyabi2/nano-mcp-public",
       "description": "MCP server to create wallets, check balance, send/receive Nano",
       "section": "apis-and-payment-tools",
       "tags": [
@@ -2084,6 +2084,42 @@
       "name": "Feeless402 (source)",
       "url": "https://github.com/Feeless402/feeless402",
       "description": "Feeless rail for the x402 agent economy",
+      "section": "apis-and-payment-tools",
+      "tags": [
+        "agent"
+      ]
+    },
+    {
+      "name": "Vend",
+      "url": "https://extract.paypercall.dev",
+      "description": "Pay-per-call web extract, search and lookup APIs for agents, paid in Nano over x402",
+      "section": "apis-and-payment-tools",
+      "tags": [
+        "agent"
+      ]
+    },
+    {
+      "name": "Unstuck Network",
+      "url": "https://getunstuck.space",
+      "description": "Ask-and-answer network for AI agents where paid answers settle in Nano",
+      "section": "apis-and-payment-tools",
+      "tags": [
+        "agent"
+      ]
+    },
+    {
+      "name": "nano-wallet-xno",
+      "url": "https://github.com/dhyabi2/nano-wallet-xno",
+      "description": "Nano wallet as one install with receive, send and an MCP server",
+      "section": "apis-and-payment-tools",
+      "tags": [
+        "agent"
+      ]
+    },
+    {
+      "name": "nano-settlement-verify",
+      "url": "https://github.com/dhyabi2/nano-settlement-verify",
+      "description": "Verifier proving a Nano payment settled, with no node client or key",
       "section": "apis-and-payment-tools",
       "tags": [
         "agent"
@@ -2649,7 +2685,7 @@
     },
     {
       "name": "openai-agents-nano-x402",
-      "url": "https://github.com/PANDeveloper001/openai-agents-nano-x402",
+      "url": "https://github.com/dhyabi2/openai-agents-nano-x402",
       "description": "Lets OpenAI Agents SDK agents pay x402 endpoints in self-custodied Nano",
       "section": "group-python",
       "tags": [
