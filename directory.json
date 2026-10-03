@@ -898,13 +898,13 @@
       "section": "address-generators-and-paper-wallets"
     },
     {
-      "name": "Nano Vanity Addresses",
+      "name": "Nano Vanity Addresses (source)",
       "url": "https://github.com/PlasmaPower/nano-vanity",
       "description": "(PlasmaPower)",
       "section": "address-generators-and-paper-wallets"
     },
     {
-      "name": "Nano Vanity Addresses",
+      "name": "Nano Vanity Addresses (source)",
       "url": "https://github.com/vitorcremonez/nano-vanity",
       "description": "(vitorcremonez)",
       "section": "address-generators-and-paper-wallets"
@@ -1152,12 +1152,6 @@
       "url": "https://www.probit.com/en-us/app/exchange/NANO-USDT",
       "description": "NANO/USDT (tiered KYC)",
       "section": "mid-tier-centralized-exchanges"
-    },
-    {
-      "name": "Bybit Perpetual",
-      "url": "https://www.bybit.com/",
-      "description": "XNO/USDT (KYC)",
-      "section": "derivatives-futures-perpetuals"
     },
     {
       "name": "Gate.io Perpetual",
@@ -1706,12 +1700,6 @@
       "section": "games"
     },
     {
-      "name": "Luis Astroids",
-      "url": "https://luis-garcia-remes.itch.io/nano-visualizer",
-      "description": "Transaction Shooter",
-      "section": "games"
-    },
-    {
       "name": "Aurora Seekers",
       "url": "https://xno-aurora.space/",
       "description": "Rhythm adventure game",
@@ -2102,7 +2090,7 @@
       "name": "Unstuck Network",
       "url": "https://getunstuck.space",
       "description": "Ask-and-answer network for AI agents where paid answers settle in Nano",
-      "section": "apis-and-payment-tools",
+      "section": "services",
       "tags": [
         "agent"
       ]
@@ -2111,9 +2099,9 @@
       "name": "nano-wallet-xno",
       "url": "https://github.com/dhyabi2/nano-wallet-xno",
       "description": "Nano wallet as one install with receive, send and an MCP server",
-      "section": "apis-and-payment-tools",
+      "section": "group-javascript-typescript",
       "tags": [
-        "agent"
+        "agent-infra"
       ]
     },
     {
@@ -2122,7 +2110,7 @@
       "description": "Verifier proving a Nano payment settled, with no node client or key",
       "section": "apis-and-payment-tools",
       "tags": [
-        "agent"
+        "agent-infra"
       ]
     },
     {
@@ -2186,12 +2174,6 @@
       "name": "Betsy",
       "url": "https://github.com/bbedward/betsy-middleware",
       "description": "Distributed PoW middleware",
-      "section": "node-tools-and-applications"
-    },
-    {
-      "name": "TheCryptoUmbrella",
-      "url": "https://github.com/TheCryptoUmbrella/nano-node-monitor",
-      "description": "Node Monitor",
       "section": "node-tools-and-applications"
     },
     {

@@ -26,8 +26,6 @@ Entries below are marked [agent] where the project is built for autonomous agent
 - [Feeless402 (source)](https://github.com/Feeless402/feeless402): Feeless rail for the x402 agent economy [agent]
 - [Vend](https://extract.paypercall.dev): Pay-per-call web extract, search and lookup APIs for agents, paid in Nano over x402 [agent]
 - [Unstuck Network](https://getunstuck.space): Ask-and-answer network for AI agents where paid answers settle in Nano [agent]
-- [nano-wallet-xno](https://github.com/dhyabi2/nano-wallet-xno): Nano wallet as one install with receive, send and an MCP server [agent]
-- [nano-settlement-verify](https://github.com/dhyabi2/nano-settlement-verify): Verifier proving a Nano payment settled, with no node client or key [agent]
 - [NanoBazaar](https://nanobazaar.ai): Public relay where agents sell services to other agents, settled directly in Nano [agent]
 - [NanoBazaar (source)](https://github.com/nanobazaar/nanobazaar): Apache-licensed Go monorepo for the NanoBazaar relay service [agent]
 - [NanoGate](https://nanogate.run/): Nano gateway on the Internet Computer, enabling ICP canisters to query Nano accounts and send transactions [agent]
@@ -40,6 +38,8 @@ Entries below are marked [agent] where the project is built for autonomous agent
 - [Accept Nano](https://accept-nano.com): Payment gateway [agent-infra]
 - [nano.lol IFTTT](https://ifttt.com/nano_lol): Web service to monitor transactions, build projects using Nano RPC/WebSockets [agent-infra]
 - [Nano Callback System](https://github.com/jamescoxon/Nano_Callback_System): Receives node callbacks and forwards transaction events [agent-infra]
+- [nano-wallet-xno](https://github.com/dhyabi2/nano-wallet-xno): Nano wallet as one install with receive, send and an MCP server [agent-infra]
+- [nano-settlement-verify](https://github.com/dhyabi2/nano-settlement-verify): Verifier proving a Nano payment settled, with no node client or key [agent-infra]
 - [Armour Hosting](https://armour-hosting.com/): Hosted Nodes [agent-infra]
 - [NOWNodes](https://nownodes.io/): Hosted API [agent-infra]
 - [Nanswap Nodes](https://nanswap.com/nodes): Hosted node API with RPC, WebSocket, and work server; free tier [agent-infra]
@@ -212,8 +212,8 @@ Entries below are marked [agent] where the project is built for autonomous agent
 - [Paper Wallet](https://vitorcremonez.github.io/nano-paper-wallet): (vitorcremonez)
 - [Secure Seed Commands](https://www.secureseedcommands.com): How-to guide
 - [Nano Vanity Addresses](https://nanoaddr.io): (njakob)
-- [Nano Vanity Addresses](https://github.com/PlasmaPower/nano-vanity): (PlasmaPower)
-- [Nano Vanity Addresses](https://github.com/vitorcremonez/nano-vanity): (vitorcremonez)
+- [Nano Vanity Addresses (source)](https://github.com/PlasmaPower/nano-vanity): (PlasmaPower)
+- [Nano Vanity Addresses (source)](https://github.com/vitorcremonez/nano-vanity): (vitorcremonez)
 
 ### Hardware Wallets
 
@@ -283,7 +283,6 @@ Entries below are marked [agent] where the project is built for autonomous agent
 
 #### Derivatives (Futures / Perpetuals)
 
-- [Bybit Perpetual](https://www.bybit.com/): XNO/USDT (KYC)
 - [Gate.io Perpetual](https://www.gate.io/futures/USDT/XNO_USDT): XNO/USDT (tiered KYC)
 - [MEXC Perpetual](https://www.mexc.com/futures/XNO_USDT): XNO/USDT (tiered KYC)
 - [Pionex Perpetual](https://www.pionex.com/en/futures/XNOUSDT): XNO/USDT (KYC)
@@ -374,6 +373,7 @@ Entries below are marked [agent] where the project is built for autonomous agent
 - [Nano AI](https://xnoapp.onrender.com/): Access advanced reasoning engines via Nano micro‑transactions, no subscriptions [agent]
 - [Nanogrove](https://nanogrove.org/): Send Nano to feed plants and animals
 - [Clean Web MVP](https://github.com/kamina2025/clean-web-mvp): Micropayment suite for media content with a built-in browser wallet
+- [Unstuck Network](https://getunstuck.space): Ask-and-answer network for AI agents where paid answers settle in Nano [agent]
 - [Sailnet](https://www.sailnet.space/): Onion-routed privacy network for Android and desktop, paid per megabyte in Nano
 - [Readify](https://readify.to/): Listen to long articles and documents as speech, with listening time bought in Nano
 
@@ -420,7 +420,6 @@ Entries below are marked [agent] where the project is built for autonomous agent
 - [Raesonic](https://raesonic.com/): In-game Purchases
 - [PlayNANO](https://playnano.online/jumper): Jumper Game
 - [Skyrun](https://deanobones.github.io/Skyrun/): Endless Runner
-- [Luis Astroids](https://luis-garcia-remes.itch.io/nano-visualizer): Transaction Shooter
 - [Aurora Seekers](https://xno-aurora.space/): Rhythm adventure game
 - [Fishing Frenzy](https://xno-fishing.space/): Real-time multiplayer fishing
 - [NO-FEES.SPACE](https://no-fees.space/): Arcade of browser games paying out Nano from zero-cost faucets
@@ -492,9 +491,7 @@ Entries below are marked [agent] where the project is built for autonomous agent
 - [Feeless402](https://feeless402.com): Feeless x402 payments in Nano, plus a faucet giving agents their first XNO [agent]
 - [Feeless402 (source)](https://github.com/Feeless402/feeless402): Feeless rail for the x402 agent economy [agent]
 - [Vend](https://extract.paypercall.dev): Pay-per-call web extract, search and lookup APIs for agents, paid in Nano over x402 [agent]
-- [Unstuck Network](https://getunstuck.space): Ask-and-answer network for AI agents where paid answers settle in Nano [agent]
-- [nano-wallet-xno](https://github.com/dhyabi2/nano-wallet-xno): Nano wallet as one install with receive, send and an MCP server [agent]
-- [nano-settlement-verify](https://github.com/dhyabi2/nano-settlement-verify): Verifier proving a Nano payment settled, with no node client or key [agent]
+- [nano-settlement-verify](https://github.com/dhyabi2/nano-settlement-verify): Verifier proving a Nano payment settled, with no node client or key [agent-infra]
 - [NanoBazaar](https://nanobazaar.ai): Public relay where agents sell services to other agents, settled directly in Nano [agent]
 - [NanoBazaar (source)](https://github.com/nanobazaar/nanobazaar): Apache-licensed Go monorepo for the NanoBazaar relay service [agent]
 - [NanoGate](https://nanogate.run/): Nano gateway on the Internet Computer, enabling ICP canisters to query Nano accounts and send transactions [agent]
@@ -507,7 +504,6 @@ Entries below are marked [agent] where the project is built for autonomous agent
 - [Nano Node Docker](https://github.com/lephleg/nano-node-docker): Docker container setup
 - [Nano RPC Proxy](https://github.com/joohansson/nanorpcproxy): Secure node communication
 - [Betsy](https://github.com/bbedward/betsy-middleware): Distributed PoW middleware
-- [TheCryptoUmbrella](https://github.com/TheCryptoUmbrella/nano-node-monitor): Node Monitor
 - [Nano Connect](https://github.com/brendena/NanoConnect): Distributed RPC proxy
 - [Noxy](https://github.com/BitDesert/Noxy): Simple RPC proxy
 - [Lightweight Nano RPC Proxy](https://github.com/Shryder/LightweightNanoRPCProxy): Limits allowed RPC actions and adds rate limiting and logging
@@ -584,6 +580,7 @@ Entries below are marked [agent] where the project is built for autonomous agent
 
 #### JavaScript/TypeScript
 
+- [nano-wallet-xno](https://github.com/dhyabi2/nano-wallet-xno): Nano wallet as one install with receive, send and an MCP server [agent-infra]
 - [Nano.js](https://github.com/WriteNaN/Nano.js/blob/main/README.md): Interact with the Nano blockchain from JavaScript
 - [NanoGPTJS](https://github.com/kilkelly/nanogptjs): JavaScript library to interact with NanoGPT for pay-per-prompt AI [agent]
 - [nanocurrency-js](https://github.com/marvinroger/nanocurrency-js): Derives keys and seeds, and generates hashes, signatures, work, and blocks [agent-infra]
