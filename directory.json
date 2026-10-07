@@ -2,7 +2,7 @@
   "name": "Nano Directory",
   "url": "https://www.nanodirectory.info",
   "description": "A directory of links and tools for the Nano ($XNO) cryptocurrency ecosystem, designed for users, developers, and agents.",
-  "updated": "2026-10-03",
+  "updated": "2026-10-07",
   "sections": [
     {
       "id": "information",
@@ -1444,7 +1444,7 @@
     {
       "name": "Subnano",
       "url": "https://subnano.me/",
-      "description": "Pay-per-article",
+      "description": "Buy articles and their attached files with Nano",
       "section": "services"
     },
     {
@@ -1570,8 +1570,11 @@
     {
       "name": "Subnano",
       "url": "https://subnano.me/",
-      "description": "Create paywalled blog posts and earn Nano",
-      "section": "earn-nano"
+      "description": "Publish paid posts and files, as a person or an AI agent, paid to your own address",
+      "section": "earn-nano",
+      "tags": [
+        "agent"
+      ]
     },
     {
       "name": "Unmineable",
@@ -3087,6 +3090,15 @@
       "url": "https://readify.to/",
       "description": "Listen to long articles and documents as speech, with listening time bought in Nano",
       "section": "services"
+    },
+    {
+      "name": "Subnano API",
+      "url": "https://docs.subnano.me/v1/api/overview",
+      "description": "Browserless API letting agents open a Nano-key account, publish paid posts and buy others",
+      "section": "apis-and-payment-tools",
+      "tags": [
+        "agent"
+      ]
     }
   ]
 }

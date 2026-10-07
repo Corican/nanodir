@@ -3,7 +3,7 @@
 > A directory of links and tools for the Nano ($XNO) cryptocurrency ecosystem, designed for users, developers, and agents.
 
 Machine-readable version of this directory: https://www.nanodirectory.info/directory.json
-Last updated: 2026-10-03
+Last updated: 2026-10-07
 
 ## For AI agents
 
@@ -15,6 +15,7 @@ Entries below are marked [agent] where the project is built for autonomous agent
 - [The Nano Button](https://thenanobutton.com/): Simple faucet for humans and AI agents to get some Nano [agent]
 - [NanoGPT](https://nano-gpt.com/): Pay Per Prompt for a wide variety of AI models [agent]
 - [Nano AI](https://xnoapp.onrender.com/): Access advanced reasoning engines via Nano micro‑transactions, no subscriptions [agent]
+- [Subnano](https://subnano.me/): Publish paid posts and files, as a person or an AI agent, paid to your own address [agent]
 - [OpenWallet](https://openwallet.sh/): Open standard that unites AI agents with Nano wallets [agent]
 - [NanoGPTJS](https://github.com/kilkelly/nanogptjs): JavaScript library to interact with NanoGPT for pay-per-prompt AI [agent]
 - [Nano Currency MCP Server](https://github.com/kilkelly/nano-currency-mcp-server): MCP server enabling AI agents to send Nano and retrieve account info [agent]
@@ -30,6 +31,7 @@ Entries below are marked [agent] where the project is built for autonomous agent
 - [NanoBazaar (source)](https://github.com/nanobazaar/nanobazaar): Apache-licensed Go monorepo for the NanoBazaar relay service [agent]
 - [NanoGate](https://nanogate.run/): Nano gateway on the Internet Computer, enabling ICP canisters to query Nano accounts and send transactions [agent]
 - [openai-agents-nano-x402](https://github.com/dhyabi2/openai-agents-nano-x402): Lets OpenAI Agents SDK agents pay x402 endpoints in self-custodied Nano [agent]
+- [Subnano API](https://docs.subnano.me/v1/api/overview): Browserless API letting agents open a Nano-key account, publish paid posts and buy others [agent]
 
 ### Infrastructure for agents
 
@@ -360,7 +362,7 @@ Entries below are marked [agent] where the project is built for autonomous agent
 - [CardStorm](https://cardstorm.io/): More Gift Cards
 - [Travala](https://www.travala.com/): Book Flights and Hotels with Nano
 - [Sleap](https://sleap.io/): Book Flights and Hotels with Nano
-- [Subnano](https://subnano.me/): Pay-per-article
+- [Subnano](https://subnano.me/): Buy articles and their attached files with Nano
 - [Benture](https://benture.io/): Remote Jobs, Paid in XNO
 - [Nanowall.link](https://nanowall.link/): Content Monetizer
 - [Nagora](https://nagora.shop/): Marketplace for buying and selling items with Nano
@@ -386,7 +388,7 @@ Entries below are marked [agent] where the project is built for autonomous agent
 - [PRISM](https://zealy.io/cw/prismgroup/questboard): Complete social tasks for small Nano rewards
 - [NanoGPT](https://nano-gpt.com/invitations): Refer users and earn Nano from revenue share
 - [Nanswap mining](https://nanswap.com/mining/nano): Earn Nano by mining with your CPU
-- [Subnano](https://subnano.me/): Create paywalled blog posts and earn Nano
+- [Subnano](https://subnano.me/): Publish paid posts and files, as a person or an AI agent, paid to your own address [agent]
 - [Unmineable](https://unmineable.com/): Mine various cryptos and get paid in Nano
 - [KarmaCall](https://www.karmacall.com/): Block scam calls and earn Nano
 - [NanoDrops](https://nanodrops.org/): Earn Nano by watching Twitch and Kick streams
@@ -495,6 +497,7 @@ Entries below are marked [agent] where the project is built for autonomous agent
 - [NanoBazaar](https://nanobazaar.ai): Public relay where agents sell services to other agents, settled directly in Nano [agent]
 - [NanoBazaar (source)](https://github.com/nanobazaar/nanobazaar): Apache-licensed Go monorepo for the NanoBazaar relay service [agent]
 - [NanoGate](https://nanogate.run/): Nano gateway on the Internet Computer, enabling ICP canisters to query Nano accounts and send transactions [agent]
+- [Subnano API](https://docs.subnano.me/v1/api/overview): Browserless API letting agents open a Nano-key account, publish paid posts and buy others [agent]
 
 ### Node Tools & Applications
 
