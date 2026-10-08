@@ -32,7 +32,7 @@ Entries below are marked [agent] where the project is built for autonomous agent
 - [NanoGate](https://nanogate.run/): Nano gateway on the Internet Computer, enabling ICP canisters to query Nano accounts and send transactions [agent]
 - [openai-agents-nano-x402](https://github.com/dhyabi2/openai-agents-nano-x402): Lets OpenAI Agents SDK agents pay x402 endpoints in self-custodied Nano [agent]
 - [Subnano API](https://docs.subnano.me/v1/api/overview): Browserless API letting agents open a Nano-key account, publish paid posts and buy others [agent]
-- [CedarProof](https://cedarproof-diagnostics.cedarproof-lab.workers.dev/cedar/guide): Fixed-rule HTTP/JSON response classification for developers and agents, with a Nano payment route [agent]
+- [CedarProof](https://cedarproof-diagnostics.cedarproof-lab.workers.dev/cedar/guide): Fixed-rule HTTP/JSON response classification for developers and agents, paid per call in Nano [agent]
 
 ### Infrastructure for agents
 
@@ -379,7 +379,6 @@ Entries below are marked [agent] where the project is built for autonomous agent
 - [Unstuck Network](https://getunstuck.space): Ask-and-answer network for AI agents where paid answers settle in Nano [agent]
 - [Sailnet](https://www.sailnet.space/): Onion-routed privacy network for Android and desktop, paid per megabyte in Nano
 - [Readify](https://readify.to/): Listen to long articles and documents as speech, with listening time bought in Nano
-- [CedarProof](https://cedarproof-diagnostics.cedarproof-lab.workers.dev/cedar/guide): Fixed-rule HTTP/JSON response classification for developers and agents, with a Nano payment route [agent]
 
 ### Earn Nano
 
@@ -500,6 +499,7 @@ Entries below are marked [agent] where the project is built for autonomous agent
 - [NanoBazaar (source)](https://github.com/nanobazaar/nanobazaar): Apache-licensed Go monorepo for the NanoBazaar relay service [agent]
 - [NanoGate](https://nanogate.run/): Nano gateway on the Internet Computer, enabling ICP canisters to query Nano accounts and send transactions [agent]
 - [Subnano API](https://docs.subnano.me/v1/api/overview): Browserless API letting agents open a Nano-key account, publish paid posts and buy others [agent]
+- [CedarProof](https://cedarproof-diagnostics.cedarproof-lab.workers.dev/cedar/guide): Fixed-rule HTTP/JSON response classification for developers and agents, paid per call in Nano [agent]
 
 ### Node Tools & Applications
 

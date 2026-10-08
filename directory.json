@@ -3103,11 +3103,9 @@
     {
       "name": "CedarProof",
       "url": "https://cedarproof-diagnostics.cedarproof-lab.workers.dev/cedar/guide",
-      "description": "Fixed-rule HTTP/JSON response classification for developers and agents, with a Nano payment route",
-      "section": "services",
-      "tags": [
-        "agent"
-      ]
+      "description": "Fixed-rule HTTP/JSON response classification for developers and agents, paid per call in Nano",
+      "section": "apis-and-payment-tools",
+      "tags": ["agent"]
     }
   ]
 }
