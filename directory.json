@@ -2,7 +2,7 @@
   "name": "Nano Directory",
   "url": "https://www.nanodirectory.info",
   "description": "A directory of links and tools for the Nano ($XNO) cryptocurrency ecosystem, designed for users, developers, and agents.",
-  "updated": "2026-10-07",
+  "updated": "2026-10-08",
   "sections": [
     {
       "id": "information",
@@ -3096,6 +3096,15 @@
       "url": "https://docs.subnano.me/v1/api/overview",
       "description": "Browserless API letting agents open a Nano-key account, publish paid posts and buy others",
       "section": "apis-and-payment-tools",
+      "tags": [
+        "agent"
+      ]
+    },
+    {
+      "name": "CedarProof",
+      "url": "https://cedarproof-diagnostics.cedarproof-lab.workers.dev/cedar/guide",
+      "description": "Fixed-rule HTTP/JSON response classification for developers and agents, with a Nano payment route",
+      "section": "services",
       "tags": [
         "agent"
       ]
