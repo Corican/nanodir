@@ -3,7 +3,7 @@
 > A directory of links and tools for the Nano ($XNO) cryptocurrency ecosystem, designed for users, developers, and agents.
 
 Machine-readable version of this directory: https://www.nanodirectory.info/directory.json
-Last updated: 2026-10-08
+Last updated: 2026-10-11
 
 ## For AI agents
 
@@ -403,6 +403,7 @@ Entries below are marked [agent] where the project is built for autonomous agent
 
 - [CoinRabbit](https://coinrabbit.io/): Crypto lending platform offering XNO-backed loans and interest deposits
 - [Blockpit](https://www.blockpit.io/): Crypto tax service tracking Nano alongside other currencies
+- [NanoTracker](https://nanotracker.app): Tracks Nano receipts and cost basis, with FIFO accounting and German holding-period dates
 
 ### Entertainment
 
