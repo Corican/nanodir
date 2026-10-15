@@ -3,7 +3,7 @@
 > A directory of links and tools for the Nano ($XNO) cryptocurrency ecosystem, designed for users, developers, and agents.
 
 Machine-readable version of this directory: https://www.nanodirectory.info/directory.json
-Last updated: 2026-10-11
+Last updated: 2026-10-15
 
 ## For AI agents
 
@@ -33,6 +33,8 @@ Entries below are marked [agent] where the project is built for autonomous agent
 - [openai-agents-nano-x402](https://github.com/dhyabi2/openai-agents-nano-x402): Lets OpenAI Agents SDK agents pay x402 endpoints in self-custodied Nano [agent]
 - [Subnano API](https://docs.subnano.me/v1/api/overview): Browserless API letting agents open a Nano-key account, publish paid posts and buy others [agent]
 - [CedarProof](https://cedarproof-diagnostics.cedarproof-lab.workers.dev/cedar/guide): Fixed-rule HTTP/JSON response classification for developers and agents, paid per call in Nano [agent]
+- [NanVPN](https://nanvpn.com/): No-account VPN with WireGuard, VLESS and OpenVPN, bought with Nano [agent]
+- [NanProxy](https://nanproxy.com/): Private IPv4, IPv6 and Telegram MTProto proxies, no account, bought with Nano [agent]
 
 ### Infrastructure for agents
 
@@ -379,6 +381,8 @@ Entries below are marked [agent] where the project is built for autonomous agent
 - [Unstuck Network](https://getunstuck.space): Ask-and-answer network for AI agents where paid answers settle in Nano [agent]
 - [Sailnet](https://www.sailnet.space/): Onion-routed privacy network for Android and desktop, paid per megabyte in Nano
 - [Readify](https://readify.to/): Listen to long articles and documents as speech, with listening time bought in Nano
+- [NanVPN](https://nanvpn.com/): No-account VPN with WireGuard, VLESS and OpenVPN, bought with Nano [agent]
+- [NanProxy](https://nanproxy.com/): Private IPv4, IPv6 and Telegram MTProto proxies, no account, bought with Nano [agent]
 
 ### Earn Nano
 
