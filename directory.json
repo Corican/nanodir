@@ -3132,6 +3132,15 @@
       "tags": [
         "agent"
       ]
+    },
+    {
+      "name": "Vend Browser Agent",
+      "url": "https://extract.paypercall.dev/api/v1/browser-agent",
+      "description": "Pay-per-call browser automation settled in Nano via x402: run a real browser to search, click and answer a task, or scrape pages (single or up to 100 in parallel)",
+      "section": "apis-and-payment-tools",
+      "tags": [
+        "agent"
+      ]
     }
   ]
 }
