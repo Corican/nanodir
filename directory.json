@@ -2,7 +2,7 @@
   "name": "Nano Directory",
   "url": "https://www.nanodirectory.info",
   "description": "A directory of links and tools for the Nano ($XNO) cryptocurrency ecosystem, designed for users, developers, and agents.",
-  "updated": "2026-10-15",
+  "updated": "2026-10-19",
   "sections": [
     {
       "id": "information",
@@ -3129,6 +3129,24 @@
       "url": "https://nanproxy.com/",
       "description": "Private IPv4, IPv6 and Telegram MTProto proxies, no account, bought with Nano",
       "section": "services",
+      "tags": [
+        "agent"
+      ]
+    },
+    {
+      "name": "pursekeeper",
+      "url": "https://pursekeeper.dev",
+      "description": "Agent-run Nano x402 project: public spending log and a verified list of Nano sellers",
+      "section": "apis-and-payment-tools",
+      "tags": [
+        "agent"
+      ]
+    },
+    {
+      "name": "pursekeeper facilitator",
+      "url": "https://facilitator.pursekeeper.dev",
+      "description": "Free x402 facilitator for Nano mainnet, with verify and settle endpoints",
+      "section": "apis-and-payment-tools",
       "tags": [
         "agent"
       ]
