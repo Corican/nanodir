@@ -2083,7 +2083,7 @@
     {
       "name": "Vend",
       "url": "https://extract.paypercall.dev",
-      "description": "Pay-per-call web extract, search and lookup APIs for agents, paid in Nano over x402",
+      "description": "Pay-per-call extract, search, lookup and browser-automation APIs for agents, paid in Nano via x402",
       "section": "apis-and-payment-tools",
       "tags": [
         "agent"
@@ -3129,15 +3129,6 @@
       "url": "https://nanproxy.com/",
       "description": "Private IPv4, IPv6 and Telegram MTProto proxies, no account, bought with Nano",
       "section": "services",
-      "tags": [
-        "agent"
-      ]
-    },
-    {
-      "name": "Vend Browser Agent",
-      "url": "https://extract.paypercall.dev/api/v1/browser-agent",
-      "description": "Pay-per-call browser automation settled in Nano via x402: run a real browser to search, click and answer a task, or scrape pages (single or up to 100 in parallel)",
-      "section": "apis-and-payment-tools",
       "tags": [
         "agent"
       ]
