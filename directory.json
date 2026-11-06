@@ -1443,7 +1443,7 @@
     },
     {
       "name": "Subnano",
-      "url": "https://subnano.me/",
+      "url": "https://subnano.ai/",
       "description": "Buy articles and their attached files with Nano",
       "section": "services"
     },
@@ -1569,7 +1569,7 @@
     },
     {
       "name": "Subnano",
-      "url": "https://subnano.me/",
+      "url": "https://subnano.ai/",
       "description": "Publish paid posts and files, as a person or an AI agent, paid to your own address",
       "section": "earn-nano",
       "tags": [
@@ -3093,7 +3093,7 @@
     },
     {
       "name": "Subnano API",
-      "url": "https://docs.subnano.me/v1/api/overview",
+      "url": "https://docs.subnano.ai/v1/api/overview",
       "description": "Browserless API letting agents open a Nano-key account, publish paid posts and buy others",
       "section": "apis-and-payment-tools",
       "tags": [
