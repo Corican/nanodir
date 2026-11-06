@@ -3171,6 +3171,18 @@
       "url": "https://seedbank.openrai.org/",
       "description": "Browse the Nano keyspace: keys and mnemonics derived in-browser, with live balance lookups",
       "section": "miscellaneous"
+    },
+        {
+      "name": "Nano Network Visualisations",
+      "url": "https://viz.openrai.org/",
+      "description": "Gallery of six live visualisations: accounts, transfers, account chains and send volume",
+      "section": "network-sites"
+    },
+        {
+      "name": "Nano Network Visualisations (source)",
+      "url": "https://github.com/OpenRai/network-activity-viz",
+      "description": "Static site of independent Nano activity visualisations, built with Node",
+      "section": "network-sites"
     }
   ]
 }

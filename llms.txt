@@ -188,6 +188,8 @@ Entries below are marked [agent] where the project is built for autonomous agent
 - [Nanocurrency Reddit Stats](https://subredditstats.com/r/nanocurrency)
 - [Geographical Node Map](https://nanomap-061992.web.app/#/dashboard)
 - [Nano Hodlers](https://damiascus.github.io/nanohodlers/): See registered wallets and their holdings
+- [Nano Network Visualisations](https://viz.openrai.org/): Gallery of six live visualisations: accounts, transfers, account chains and send volume
+- [Nano Network Visualisations (source)](https://github.com/OpenRai/network-activity-viz): Static site of independent Nano activity visualisations, built with Node
 
 ## Wallets & Faucets
 
