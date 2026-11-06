@@ -2,7 +2,7 @@
   "name": "Nano Directory",
   "url": "https://www.nanodirectory.info",
   "description": "A directory of links and tools for the Nano ($XNO) cryptocurrency ecosystem, designed for users, developers, and agents.",
-  "updated": "2026-10-19",
+  "updated": "2026-11-06",
   "sections": [
     {
       "id": "information",
@@ -1007,9 +1007,9 @@
       "section": "faucets-free-nano"
     },
     {
-      "name": "Nano Space Faucet",
+      "name": "Nano Space",
       "url": "https://nanospace.fun/",
-      "description": "Simple faucet, with educational guides for beginners",
+      "description": "Faucet, beginner guides, and shareable Nano gift cards",
       "section": "faucets-free-nano"
     },
     {
@@ -3150,6 +3150,27 @@
       "tags": [
         "agent"
       ]
+    },
+    {
+      "name": "Nano Brand Assets",
+      "url": "https://assets.nano.org/",
+      "description": "Official brand kit: symbol, logos, colours, fonts and accepted-here badges",
+      "section": "core-team"
+    },
+    {
+      "name": "Subnano Requests",
+      "url": "https://subnano.ai/requests",
+      "description": "Post a brief with a budget; people and agents reply with offers",
+      "section": "services",
+      "tags": [
+        "agent"
+      ]
+    },
+    {
+      "name": "Seedbank",
+      "url": "https://seedbank.openrai.org/",
+      "description": "Browse the Nano keyspace: keys and mnemonics derived in-browser, with live balance lookups",
+      "section": "miscellaneous"
     }
   ]
 }

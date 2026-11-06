@@ -3,7 +3,7 @@
 > A directory of links and tools for the Nano ($XNO) cryptocurrency ecosystem, designed for users, developers, and agents.
 
 Machine-readable version of this directory: https://www.nanodirectory.info/directory.json
-Last updated: 2026-10-19
+Last updated: 2026-11-06
 
 ## For AI agents
 
@@ -25,7 +25,7 @@ Entries below are marked [agent] where the project is built for autonomous agent
 - [Ӿ402Nano.org](https://www.x402nano.org/): Feeless x402 facilitator for Nano, no login required [agent]
 - [Feeless402](https://feeless402.com): Feeless x402 payments in Nano, plus a faucet giving agents their first XNO [agent]
 - [Feeless402 (source)](https://github.com/Feeless402/feeless402): Feeless rail for the x402 agent economy [agent]
-- [Vend](https://extract.paypercall.dev): Pay-per-call web extract, search and lookup APIs for agents, paid in Nano over x402 [agent]
+- [Vend](https://extract.paypercall.dev): Pay-per-call extract, search, lookup and browser-automation APIs for agents, paid in Nano via x402 [agent]
 - [Unstuck Network](https://getunstuck.space): Ask-and-answer network for AI agents where paid answers settle in Nano [agent]
 - [NanoBazaar](https://nanobazaar.ai): Public relay where agents sell services to other agents, settled directly in Nano [agent]
 - [NanoBazaar (source)](https://github.com/nanobazaar/nanobazaar): Apache-licensed Go monorepo for the NanoBazaar relay service [agent]
@@ -37,6 +37,7 @@ Entries below are marked [agent] where the project is built for autonomous agent
 - [NanProxy](https://nanproxy.com/): Private IPv4, IPv6 and Telegram MTProto proxies, no account, bought with Nano [agent]
 - [pursekeeper](https://pursekeeper.dev): Agent-run Nano x402 project: public spending log and a verified list of Nano sellers [agent]
 - [pursekeeper facilitator](https://facilitator.pursekeeper.dev): Free x402 facilitator for Nano mainnet, with verify and settle endpoints [agent]
+- [Subnano Requests](https://subnano.ai/requests): Post a brief with a budget; people and agents reply with offers [agent]
 
 ### Infrastructure for agents
 
@@ -74,6 +75,7 @@ Entries below are marked [agent] where the project is built for autonomous agent
 - [Full Documentation](https://docs.nano.org/)
 - [Whitepaper](https://nano.org/en/whitepaper): (Eng)
 - [Nano Blogs](https://nano.org/en/blog): Foundation and Community Posting
+- [Nano Brand Assets](https://assets.nano.org/): Official brand kit: symbol, logos, colours, fonts and accepted-here badges
 
 ### Core Media Channels
 
@@ -247,7 +249,7 @@ Entries below are marked [agent] where the project is built for autonomous agent
 - [XNOXNO Treasure](https://xnoxno.com/treasure/): Nano Treasure Hunt game
 - [NANOFaucet](https://nano.lol.my.id): Spin every 45 minutes to earn nano
 - [BANXNO Faucet](https://faucet.banxno.com/): Faucet for both BAN and XNO
-- [Nano Space Faucet](https://nanospace.fun/): Simple faucet, with educational guides for beginners
+- [Nano Space](https://nanospace.fun/): Faucet, beginner guides, and shareable Nano gift cards
 - [The Nano Button](https://thenanobutton.com/): Simple faucet for humans and AI agents to get some Nano [agent]
 - [Get ӾNO](https://get-xno.com): Faucet every 30 minutes, plus an offerwall and weekly codes, no minimum withdrawal
 - [NanoRiver Faucet](https://faucet.nanoriver.io/): Receive a small amount of Nano from the NanoRiver faucet
@@ -385,6 +387,7 @@ Entries below are marked [agent] where the project is built for autonomous agent
 - [Readify](https://readify.to/): Listen to long articles and documents as speech, with listening time bought in Nano
 - [NanVPN](https://nanvpn.com/): No-account VPN with WireGuard, VLESS and OpenVPN, bought with Nano [agent]
 - [NanProxy](https://nanproxy.com/): Private IPv4, IPv6 and Telegram MTProto proxies, no account, bought with Nano [agent]
+- [Subnano Requests](https://subnano.ai/requests): Post a brief with a budget; people and agents reply with offers [agent]
 
 ### Earn Nano
 
@@ -500,7 +503,7 @@ Entries below are marked [agent] where the project is built for autonomous agent
 - [Ӿ402Nano.org](https://www.x402nano.org/): Feeless x402 facilitator for Nano, no login required [agent]
 - [Feeless402](https://feeless402.com): Feeless x402 payments in Nano, plus a faucet giving agents their first XNO [agent]
 - [Feeless402 (source)](https://github.com/Feeless402/feeless402): Feeless rail for the x402 agent economy [agent]
-- [Vend](https://extract.paypercall.dev): Pay-per-call web extract, search and lookup APIs for agents, paid in Nano over x402 [agent]
+- [Vend](https://extract.paypercall.dev): Pay-per-call extract, search, lookup and browser-automation APIs for agents, paid in Nano via x402 [agent]
 - [nano-settlement-verify](https://github.com/dhyabi2/nano-settlement-verify): Verifier proving a Nano payment settled, with no node client or key [agent-infra]
 - [NanoBazaar](https://nanobazaar.ai): Public relay where agents sell services to other agents, settled directly in Nano [agent]
 - [NanoBazaar (source)](https://github.com/nanobazaar/nanobazaar): Apache-licensed Go monorepo for the NanoBazaar relay service [agent]
@@ -674,6 +677,7 @@ Entries below are marked [agent] where the project is built for autonomous agent
 - [NanoStatus](https://github.com/schenkty/nanostatus): macOS menu-bar price
 - [Stylish QR Code Guide](https://medium.com/@d84/how-to-create-a-stylish-nano-qr-code-1bfc1eba5a96): How to design a branded Nano payment QR code
 - [Sailnet (source)](https://github.com/dhyabi2/sailnet): Go source for the Sailnet relay, clients and browser extension; no licence file
+- [Seedbank](https://seedbank.openrai.org/): Browse the Nano keyspace: keys and mnemonics derived in-browser, with live balance lookups
 
 ## Merchant & Payment Tools
 
